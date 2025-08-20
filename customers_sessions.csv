@@ -1,0 +1,1001 @@
+session_id,session_start,customer_id,event_id,product_id,category_br,category_en,event_type,device,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+665,2025-08-13 10:10:21,806506dfe3d2254fc15ce9d6fe1d6c05,3,a25a9e3433043fb8a0808f310d8d8203,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,mobile,9150e9fa2fae240e2ba7ae76179d221b,39715,virgolandia,MG
+735,2025-08-12 02:50:25,ce0681e1c3f70e1452183c4eb5e66602,4,b8ded693eefc7fd6fae337f6c202093e,automotivo,auto,add_to_cart,desktop,ea5285161c5b3fceaeb2c38b6c9b6da2,9780,sao bernardo do campo,SP
+441,2025-08-11 17:58:59,4ccfe8b4a000b269973930e647994535,2,e7d26dd6742baca292020c158e6720c3,malas_acessorios,luggage_accessories,scroll,desktop,b7f5292338691e33bcbb67fdb8695668,74959,aparecida de goiania,GO
+336,2025-08-05 11:46:21,32c608689172699f708eca9ad42b373d,6,0e4ed218b40ef29464d9a9c778ea123f,brinquedos,toys,apply_coupon,tablet,fdce9a2878c33e84d8e3afb003cf8d7f,88135,palhoca,SC
+898,2025-07-31 21:21:04,6f25b09936ecacb28520224addc912df,2,4c973b1f6f4357bcdcd7598abe7912bc,utilidades_domesticas,housewares,scroll,desktop,831af6f6b352ffb0d194a1ff4ebeaca6,8536,ferraz de vasconcelos,SP
+805,2025-08-14 12:46:49,1f123329650f76ca910b1710f6b6a4af,2,c033f1d184d2a7206c602c1bbfa670ee,telefonia,telephony,scroll,desktop,fac55d6b57f0565e92813169d34f3278,40279,salvador,BA
+733,2025-08-14 00:54:20,500e9bef5740343df08a23b9a9e69e5b,4,28e2aedad93288312a4929b8dd91ec73,ferramentas_jardim,garden_tools,add_to_cart,tablet,38244f285d64696e19b5d2ff854a3ea3,11045,santos,SP
+495,2025-08-07 11:28:27,b685b86521680ad31716dd45765f5e47,2,343822490e45c4d1d286b343ce41e634,automotivo,auto,scroll,tablet,d8bfe3bbf611a34f336b242b1b1684a0,63500,iguatu,CE
+878,2025-08-11 07:36:00,7ccd57bc5c4e0f34fcbc9209b2d4bdfa,1,9988437646bfc0cbe0f97d4451cb08fc,eletrodomesticos,home_appliances,page_view,mobile,71d5e9bcbe05f2adfa08c33a109c12e0,13290,louveira,SP
+642,2025-08-06 16:20:28,cc839fd0ab1cd8c9baa64dadf30ca603,3,be6d51a5cb1162496a37597c412538df,instrumentos_musicais,musical_instruments,search_initiated,desktop,7f0b0de9aa3c47f2a883a702aec7be0b,20540,rio de janeiro,RJ
+560,2025-08-10 10:52:30,a3fdba764690c8ef42c34a13e94cc48b,2,43d2e0df7224cb1c252c23cf36d597ad,bebes,baby,scroll,tablet,33d548bd0d29692e9dc471cdf65c441d,25931,mage,RJ
+631,2025-08-11 10:35:30,1b38122bd6186b187d3af336471189e8,1,e82ca7be7d1b57da564dd48fbde08f2d,instrumentos_musicais,musical_instruments,page_view,mobile,37a7a61acf8d952ac11e756c8ff1ba4e,76962,cacoal,RO
+405,2025-08-11 01:13:49,316639548b42fa621d9317afcbff05fd,1,5f287404fdf339bcbe657a37b6a4b048,brinquedos,toys,page_view,mobile,03f19e532a8b6cdbc7c56ec70516ad0a,83260,matinhos,PR
+936,2025-07-31 14:00:14,75e1c6b3663a6b192922db91c754d164,1,f463be14aa25e52cdddcccccb9baff20,automotivo,auto,page_view,tablet,44c25e0d681c18ccc5461789f3cac74f,48900,juazeiro,BA
+709,2025-08-01 11:44:32,b25b0018e1b95590a4fa567378d28bd2,2,40a247eff18242601020870abbfb4ba9,esporte_lazer,sports_leisure,scroll,mobile,8570c53159b9a61721697f9dd0adfdd1,36640,mar de espanha,MG
+336,2025-08-08 22:43:01,a77331de9f041227365a9dbc92585722,1,62224b433a431310bf27129938ad9f64,esporte_lazer,sports_leisure,page_view,desktop,c204ea72a5a72e1b4a09af3b34b807d0,86990,marialva,PR
+336,2025-08-11 00:15:49,bb7eb42e14e681c6107f6a8299025323,4,cb378611bbb39f1716b4f0c335201448,malas_acessorios,luggage_accessories,add_to_cart,desktop,d0d8fa36cfde7ec89c8c03a375609fb1,4002,sao paulo,SP
+901,2025-08-14 09:36:35,53f923fd81130dee89725646dbc1ad0f,1,93d9ed4fb2b32cec509eae4f1860687d,artigos_de_natal,christmas_supplies,page_view,desktop,ab65c8033f3f79397b23ae75b3944d15,21070,rio de janeiro,RJ
+454,2025-07-31 17:23:59,40f3a8d02b47a0705c03269ffc9a76dd,1,4f7453bf6629f63942b81205e1e2b1ba,ferramentas_jardim,garden_tools,page_view,desktop,c8d93bcb5f477df23b9722e56a24869a,5730,sao paulo,SP
+495,2025-08-01 21:52:07,a60d40261ec9375242b49a6638016a53,2,baf25ed4f8f70238cc87230379471454,beleza_saude,health_beauty,scroll,tablet,6bc7c6211092294f2318ced7646e791b,31540,belo horizonte,MG
+707,2025-08-02 20:49:05,6dfa75688bd7027b450552eb0353741c,1,e706fb211285b40b3555b302920e61fd,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,mobile,c158265daf9d45a643c9b9810f7f511a,88302,itajai,SC
+642,2025-08-14 02:30:51,389533a6b82f26804955dab1aca4a379,1,b71a01ab82c040ea808839190ff8786d,relogios_presentes,watches_gifts,page_view,tablet,3daa2d65a4f01c233f5da9f4381025c6,42807,camacari,BA
+823,2025-08-13 14:36:35,bd930a85ef27d61b7f4b99458ada6956,3,46c57742071cc875558cc230df1aa9a4,relogios_presentes,watches_gifts,search_initiated,tablet,e11e6bf5e7ed9524d704de9a940e9232,70857,brasilia,DF
+889,2025-08-13 23:12:22,16fd28bae68d51e34f732ae6d1337918,2,2d0090282bd77e1ae0f6336ba500facf,beleza_saude,health_beauty,scroll,desktop,f3bd15b22de2ea58658ea9e052ea99be,9540,sao caetano do sul,SP
+878,2025-08-08 22:41:23,f94ce64db2a1734b3a34e61957627187,3,d0fe571ece70aecb0214567d9554486c,esporte_lazer,sports_leisure,search_initiated,mobile,6fd11ed41ea931e9ba7ef26aa9d60ebe,3191,sao paulo,SP
+504,2025-08-04 13:45:03,666cb467ea14b1f98b33bdcf2e71d124,2,c039bfc3873f620fa1dea96f79530522,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,tablet,9e015efc544eff0109aea1077d8609fe,4038,sao paulo,SP
+355,2025-08-04 04:40:51,03fcc171d06123c951b373d1bf113748,1,efc176bdfdf6a6e5e9c4ba7c2de4978c,brinquedos,toys,page_view,tablet,f11173fedbf10c2913afef5844d86c9f,5171,sao paulo,SP
+665,2025-08-03 19:23:10,ed2cb6882fb72357912fb1ebb592eb3f,4,30469bb5ea377eae7121981e2f0778e4,esporte_lazer,sports_leisure,add_to_cart,tablet,8a86ed4bed47bcac26f94311443b954c,19360,santo anastacio,SP
+758,2025-08-13 12:34:59,1ee3f2411ad5097d580f5d8bbf3cd63f,2,a7e03f1bcebad9ca43f8f4dbda9bc1b6,beleza_saude,health_beauty,scroll,desktop,2d200dbe180dbd034616da1fced3e949,11410,guaruja,SP
+823,2025-08-08 02:29:11,78ce8956f81efe3cc1fdad3544381d20,4,38f6f11c49e90b02571dea02043c9e3a,moveis_decoracao,furniture_decor,add_to_cart,tablet,f501763f86860a6276ac5bd82ed23925,8500,ferraz de vasconcelos,SP
+709,2025-08-13 06:19:07,e7679548f90781fac8359cdbe2e2c729,2,c7084bc72369a57c93c6edaf0b60b235,beleza_saude,health_beauty,scroll,mobile,eb95548b5609bc72326178567edf6f69,7600,mairipora,SP
+994,2025-08-13 17:47:10,0bb834758b9161844659f3d641da02af,6,4039be757013ccb66cb41d683261dece,utilidades_domesticas,housewares,apply_coupon,desktop,4994e3301734485d0f0f448377068f3d,66070,belem,PA
+642,2025-08-02 21:55:57,e02f5d3db6a97933d8d9a4dfc6a69ea4,1,191f3eac7d624242f8eec11e472b877a,moveis_decoracao,furniture_decor,page_view,desktop,a28f925403b733be252893d297ffcd69,63030,juazeiro do norte,CE
+252,2025-08-07 17:26:15,eeefdd738a57bdbadf9eec64a5a5dec9,3,aeb767ca82c5a6cca8bbac33c4e21579,construcao_ferramentas_construcao,construction_tools_construction,search_initiated,tablet,38933a82e1ea290b1d558b9beaaae811,36750,palma,MG
+495,2025-08-07 20:22:24,dfd31f8e07d6a7078ae3c8119cef1c2e,4,8787e56abaa84fc6c3ba9afa857632b1,moveis_escritorio,office_furniture,add_to_cart,desktop,60037f6454b51af266bb195271583c42,9784,sao bernardo do campo,SP
+470,2025-08-06 15:07:52,96f1ea7875a9fcfee0be3af8015f48cd,4,def8b2856a5c8fea8715aa849a198cd4,brinquedos,toys,add_to_cart,desktop,8a3bb3e78e9a0ffbf3e47f8fb749b4cb,22760,rio de janeiro,RJ
+631,2025-08-14 01:21:17,97dd9c6923b3237b650f1f4f3f2145ad,6,793b8fa20a40b4b14c94ab9681bf13b5,moveis_decoracao,furniture_decor,apply_coupon,tablet,34ff67eb3466a779b2f6b6fd56a3b953,3335,sao paulo,SP
+733,2025-08-03 00:16:44,ba72c004d59d5ff2938572234ded865c,1,fad4749b2c2fd437cc92e2fa0b6e5d45,cama_mesa_banho,bed_bath_table,page_view,mobile,c23625b050d7d34272be416aa7b89aea,11380,sao vicente,SP
+495,2025-08-02 12:31:20,0fa5c9cb31322dbe498b9e2fb4ee05e2,3,1a90af24f474949bdc928a39b627fd57,brinquedos,toys,search_initiated,desktop,31a661e2227564f12b1424a66f3cf528,3081,sao paulo,SP
+631,2025-08-02 00:20:52,695021d70367c5f1e0d45fa0a7094622,2,d475247b8adc9f4c339da83abee9a351,esporte_lazer,sports_leisure,scroll,desktop,b69df21561434340cd6e296ef27fae83,18740,taquarituba,SP
+997,2025-08-14 14:34:07,bd23e7fa3205d01609afa746fa646770,1,f6cdf7aae7f5fb3d67142d5f385ae785,informatica_acessorios,computers_accessories,page_view,desktop,37ede4fc7ea61130d7d5bc149723ac40,20560,rio de janeiro,RJ
+823,2025-08-04 09:05:19,1f7a22279c8d2dcb4819098ba596d3f8,3,fb9c4133006cdb80c0a96dd36310aac4,automotivo,auto,search_initiated,mobile,800820dd5f33d2052854b4585fdbf01d,13207,jundiai,SP
+802,2025-08-10 18:46:50,2afcc4c46893cd524b6a4634cabdf226,4,1e9718b1172540cd45abc1cfa8750da6,fashion_bolsas_e_acessorios,fashion_bags_accessories,add_to_cart,tablet,8a4cddc3974dff18373cfdeebd89ee50,23063,rio de janeiro,RJ
+372,2025-08-06 15:55:41,76777c242d016fa5ec12e8d4d450a59f,1,f87341d0a32c1998e212c1c9ec6d3362,ferramentas_jardim,garden_tools,page_view,mobile,b46025afbb68faa3eae275eb50eb2966,13806,mogi mirim,SP
+386,2025-08-10 06:38:46,fb26eff42e25a6ee635de85d8587b85f,4,8a980dfdaa65705c68887400af28534e,ferramentas_jardim,garden_tools,add_to_cart,tablet,63eef04cea80cd9c94b9cbea99e5324a,37950,sao sebastiao do paraiso,MG
+802,2025-08-02 12:37:23,e6f80de619482c71a9a08d37b87ffe54,1,388ff2c827798649fc2a40fd7af129d5,moveis_decoracao,furniture_decor,page_view,desktop,409379e6e577c89589dade402e6c2522,97542,alegrete,RS
+838,2025-08-05 18:21:30,9431058c0d24bf917751473cca9b9054,2,7b1f8f93b6f8c691bb739451774f07b0,automotivo,auto,scroll,mobile,87ab7ef17c5bf5d49b4688194b5de6e3,3275,sao paulo,SP
+746,2025-08-04 02:24:32,666c0f64c30e46fc3d1e3c6c1974224b,3,6cc6509fe96a5ee8b3125550e8092a00,beleza_saude,health_beauty,search_initiated,tablet,9fcbc68ae4d41a33582353aa2f68db4a,13285,vinhedo,SP
+709,2025-08-14 10:58:34,3419ff5a5c40c1a5197badd7f0751042,1,a4c7e73a8ce075149b5f6592fdd29367,informatica_acessorios,computers_accessories,page_view,tablet,eb68e3be1405c884053490873ac49a3d,78515,nova canaa do norte,MT
+454,2025-08-14 02:43:20,4ccd20adf1bd2ac9b5a490d9a5ee2b75,1,92c22a554e81bcc9dd5aa9824b1f510f,automotivo,auto,page_view,tablet,5ce049f2479d3d89913200539bedf131,39550,taiobeiras,MG
+709,2025-08-12 21:53:26,71cd39c7efaa1482f3d111e5caef0b7b,3,a57878a3c4874b342d09d163ae63e596,cool_stuff,cool_stuff,search_initiated,tablet,ad44c5517b7efe74b8f797c1d6ddc982,95500,santo antonio da patrulha,RS
+560,2025-08-14 05:40:39,0437042370a13825737a6b3ec892166a,1,635b74f3dd5462e3c133b42cd9299fa2,market_place,market_place,page_view,mobile,dc7231ae7ea2f5af8f54965e6c999611,1508,sao paulo,SP
+642,2025-08-01 04:41:46,b317ff7aa0f8aec84ee237363b6ca0fd,4,7532d12ded8aa3d108d6326a05466bc6,livros_interesse_geral,books_general_interest,add_to_cart,mobile,3991c84b618da2e02b44ba48aba925d1,37002,varginha,MG
+906,2025-08-10 17:31:39,49acc665a9c9ae87119f71f788854883,4,2d5fe303346a3a5650b3b115dbb4b699,utilidades_domesticas,housewares,add_to_cart,tablet,880abf8eb99187d4a6f3dafad7eb5d75,97700,santiago,RS
+665,2025-08-14 02:06:53,b99655875e88535e49976ea21cb258a1,6,4e9e7d1bed5934971a6ac480a0f5069f,pet_shop,pet_shop,apply_coupon,desktop,ecebb5627b6336378511917b54a81405,31525,belo horizonte,MG
+878,2025-08-04 22:23:27,672f818c29f764d046b1c0d8ccf26302,1,19b7d3eaa7343bd751c222bd14f44fa2,moveis_decoracao,furniture_decor,page_view,tablet,9d2314c36fd6858be8a64387d6adb47f,12600,lorena,SP
+823,2025-07-31 14:05:36,840bb79be81df04d60152060690d28ba,2,09b069a1846b0e666a398952c8ba1605,esporte_lazer,sports_leisure,scroll,tablet,1db95e2b0f110b5bf9eec898beee791d,21941,rio de janeiro,RJ
+997,2025-08-04 03:06:57,f5d5e8f28f5fb483dd4e23b1d03dc2b7,3,2a58eaba034398b020fe690c6dbb4b92,perfumaria,perfumery,search_initiated,desktop,c3f3f3473920be3b7bbff219a7e38db0,22775,rio de janeiro,RJ
+898,2025-07-31 07:56:49,3e277dd291df189c1328735fa3137686,1,d1eae8696e58fd64c47a433ad605f2a4,beleza_saude,health_beauty,page_view,tablet,4795fb1b0d025528a80e2e9ed5b35a85,9811,sao bernardo do campo,SP
+631,2025-07-31 23:13:13,4c594e94dfd6acf3602a38e5998b5378,6,2c14b8fb1b0888410324f12fc6748772,ferramentas_jardim,garden_tools,apply_coupon,tablet,dc0c390d282366e451452dc72340b949,38140,prata,MG
+936,2025-08-04 13:41:29,c6e338678dd6ad971bd8d9f15f8448b0,3,300a6327ab13de0f4e0d3ec3270df6a3,eletronicos,electronics,search_initiated,desktop,95a544e89c0efca792d1253fdc786bcf,23587,rio de janeiro,RJ
+405,2025-08-14 22:34:47,164eda7a0e5ff5a4e059482981f52eef,2,ff5bdcc63751127e726cb69cff0cb5de,utilidades_domesticas,housewares,scroll,tablet,0b3cd88a3a4cd7a710bb2c23e4c99904,75180,silvania,GO
+898,2025-08-04 18:59:36,87a881096307226b4dc03e9fa748cfbb,1,960f877599875172acdb3504cf4a55af,beleza_saude,health_beauty,page_view,tablet,a14a2046b4b6df4f2f09fb17470d3bd7,89027,blumenau,SC
+733,2025-08-05 15:58:38,e0883b000f22acea52d0256b5a866968,3,6a29caa68d4bc5536b4447c25de4c937,automotivo,auto,search_initiated,mobile,7116e5cd7a02545640934ef0d25a5bb7,23092,rio de janeiro,RJ
+506,2025-08-03 02:35:34,6929bf13d69a3e1100ca056efd8c2c40,1,e566f2bdd9521bfcb63047b4ac0cfa2c,beleza_saude,health_beauty,page_view,desktop,62703203e3d156919c686725629ff660,89700,concordia,SC
+470,2025-08-01 10:55:51,d231f1ac967fe67f2853f0075012744f,3,a6492cc69376c469ab6f61d8f44de961,eletroportateis,small_appliances,search_initiated,desktop,e5ef105b0d7651ba4159de0ca6c2aeab,3422,sao paulo,SP
+323,2025-08-03 03:33:33,dfbbddd720e537cd1947405a1a15b585,1,38b5079a807bb9f22ddfa46f929accee,perfumaria,perfumery,page_view,tablet,b8b59f2f9eb5fef9d081df532265ef1a,13070,campinas,SP
+906,2025-08-11 21:50:39,a599bcb4e597bbc3a7b1a1f6e39988ee,2,5c2fc243b33c2c7c211fd9e09beb7cab,esporte_lazer,sports_leisure,scroll,tablet,4ff376209add6152358ad7ae10a6f6c1,2169,sao paulo,SP
+997,2025-07-31 22:42:46,54a4c64c93287805c37daacbcaaf43d2,5,05df88a280f9c6edca3b2f5f9b3e75ad,cama_mesa_banho,bed_bath_table,remove_from_cart,desktop,f0d52b021dbfdb9814121fe4b10e4533,1549,sao paulo,SP
+506,2025-08-03 04:15:40,e5c87f8146accd4ad373274872619d31,4,e13e355c4fb4736afe0e3ea38fce8558,construcao_ferramentas_construcao,construction_tools_construction,add_to_cart,tablet,e8c1041e916498bf50ea68017bbe887b,12380,santa branca,SP
+997,2025-08-05 09:49:32,0fba33b27b39bc65c41c41c9b4048455,3,f42a421aee7e5f8a70a9b68cfd53ef55,eletronicos,electronics,search_initiated,tablet,1c91783c053fa087ebeb04cee81e8942,71927,brasilia,DF
+665,2025-08-14 15:26:49,6d67d2bbd339e5ce434c5bcf85bd654b,4,db624f08f4e059241d3842eb750ecd7b,moveis_sala,furniture_living_room,add_to_cart,tablet,6143af65fa3b3ba78098b7117ef00d23,72425,brasilia,DF
+386,2025-08-06 17:08:24,c8728a6ecadbec957fde55e78ca8d03d,2,271267c730bcc8b1f657e6c0bfbe058c,cama_mesa_banho,bed_bath_table,scroll,mobile,7a719658eed0828e426754ed3aa9eb2d,19200,pirapozinho,SP
+665,2025-08-05 21:55:27,f1d3bd4e6b8c7df24fef98121bd8710d,1,3ecbc951688c7c4888ffe682edb8d651,esporte_lazer,sports_leisure,page_view,mobile,04601940a8e4d9e3290ed0b82f3e318e,6050,osasco,SP
+372,2025-08-07 20:46:34,414c7f3b03fb1987a4dc6d1441ee54c8,4,c2849941c090e1ee1732b25aaf01b397,relogios_presentes,watches_gifts,add_to_cart,desktop,b10cdda7855556f7ca3e9a9540e45edb,29164,serra,ES
+823,2025-08-13 18:57:06,541897c4a14ee949251467976a71fd07,2,4f7d43c1033d092cbf61921a482a1396,perfumaria,perfumery,scroll,tablet,bcfd851bad786b32ac064ea49e811248,65620,coelho neto,MA
+405,2025-08-08 22:27:21,e97bba2718a6ad6031cd22ec08306c0a,2,7f6308ba4057a6a740af7b4dcfb79c13,telefonia,telephony,scroll,tablet,0b9779fc6ad98cb8c70a27bbf997d8bc,9061,santo andre,SP
+431,2025-08-06 10:46:29,941d964dd9641b26ca7f8f1d33b32971,3,985bf2af90ac31349ca19417e2752410,casa_construcao,home_construction,search_initiated,desktop,57f7824da4ffda33a744d12ecbeb90c8,17526,marilia,SP
+499,2025-08-03 05:10:17,4f9aac9e4ad8fe9d9c9fe19daf940134,2,4a6fffd5a0ca2230cf5b84dc624e9f95,livros_interesse_geral,books_general_interest,scroll,tablet,7d34060b4a349fb0b0e2e204e4faad80,30626,belo horizonte,MG
+709,2025-08-09 17:22:35,2d2fddcb051ba1be58126988e10b34fe,2,656bf6da1eeb7dd128b9b567eea3ca3e,casa_construcao,home_construction,scroll,mobile,1d032f25fd407a29c5c756f9550b4809,13605,araras,SP
+419,2025-08-03 23:03:23,87279ee4ad47e57bd884877c18ad1f4d,2,f3456a2585f6774a74e39abccf24a9b0,beleza_saude,health_beauty,scroll,mobile,33e803919107edcfb61c7757d38984b5,2961,sao paulo,SP
+994,2025-08-12 13:19:42,9e7518667075b04bcac1c301ded485f1,2,299273104a3a302b82ad5f9aa93d6d91,casa_construcao,home_construction,scroll,tablet,02d2c7276ffd446eaab3a3252e61b641,79800,dourados,MS
+746,2025-08-11 22:43:33,718ac71e13610e09fb91104bb59b99f5,1,60a233b2fb18e7982bd7a653c23d5a99,casa_conforto,home_confort,page_view,mobile,ba6aa71aaed4cffaacbba4a1b62775d7,5889,sao paulo,SP
+504,2025-08-02 17:45:10,0e8ada3654b94e0d569b44233db3c9dc,2,9892435c317b92530812ef9fe68cffc6,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,desktop,430205ab3bd4700f1934a49b0f6c610e,71503,brasilia,DF
+805,2025-08-05 06:12:40,0f2091dc4350fae3b3ce7b81a55c86b1,4,c3b01b2e86b6fef991c30e470d191d44,esporte_lazer,sports_leisure,add_to_cart,desktop,dc48b0a1b0e6abb6586f322c189f6b93,40080,salvador,BA
+878,2025-08-14 04:22:17,c39c0acb50acd91213bd5ec365926c83,1,1201cfbb572a190305bbefabcec7e7eb,consoles_games,consoles_games,page_view,mobile,5d157ee414a8fbe24f053775f4ebcf32,14955,borborema,SP
+506,2025-08-11 11:00:37,1eee145a6e298c2b4b0529960fa86368,1,a5a2b70ed811fc99be9a6ba5961b7f05,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,tablet,67429e38fb995fb271124232d88ea09b,6814,embu das artes,SP
+991,2025-08-11 19:44:23,58d3967487a56405f5588620eb0da3a9,3,d6d121aae35cf0cb9078f82deb7047d2,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,tablet,0fc613bbfaee6a943e2c8d02aab97a7e,42706,lauro de freitas,BA
+506,2025-08-14 05:32:19,3c91ba1942ac3625e57ca5c023ca2305,3,5b757fed0d82a5850bcf22f01af06c6b,beleza_saude,health_beauty,search_initiated,tablet,b6da8c6b219a8517245fb2f173a36f2f,11461,guaruja,SP
+323,2025-08-04 20:37:25,c67cbee02d1a52e38766ce39b58a5526,3,e50c2e5c542dd022f410b11b78c7d65e,telefonia,telephony,search_initiated,mobile,5d8a8c7d4beb539c2bdcf74cd75902ec,8382,sao paulo,SP
+997,2025-08-05 10:34:39,a5d59411b8a5ffeaa2bd0dbe2632ffc0,1,5050cfa82dba6f455d0e91b798777f21,beleza_saude,health_beauty,page_view,mobile,517de5133abcfdf50d234551345bf99a,12031,taubate,SP
+665,2025-08-02 03:45:35,886e8ae88a209bcadbfbd22a87ea6884,1,2c715979f8471e42e0daeeb855f04f9c,moveis_decoracao,furniture_decor,page_view,tablet,363adebd963517a77ad0d8b0c17c0966,86390,cambara,PR
+746,2025-08-02 10:37:09,f0063eff5de6c74e859ef5b403316c53,5,b5e04fdc949ee208ed3f3ba6a7696046,bebes,baby,remove_from_cart,tablet,a49e0376009f52b244fc67052627ad6f,89130,indaial,SC
+802,2025-08-11 14:55:16,8396be4045204d3e3af9cb77f8a230e4,1,edc044b1d3b518153d2b3b2c811ff0e2,cool_stuff,cool_stuff,page_view,tablet,5e3f9ee4b948b61e902cce42e227cae8,95180,farroupilha,RS
+336,2025-08-14 15:27:44,6937b8b182ca7d01553e2eb0d8cbb429,1,8eb8da639b6e68ec3b2f3e02d5d6a4b4,moveis_decoracao,furniture_decor,page_view,mobile,eeb7346247b026ee29a48803df6ed07e,55500,escada,PE
+506,2025-08-12 22:52:37,ee548be15e31ee5e3d954f9a7bdd3fb4,1,636598095d69a5718e67d2c9a3c7dde6,ferramentas_jardim,garden_tools,page_view,mobile,154b79b89da73c15d64202bda6f47f9e,13501,rio claro,SP
+252,2025-08-01 22:07:59,f1159a36d6696022379b3696298d1316,4,d6a95e3741f817881010aa71433051b5,eletrodomesticos,home_appliances,add_to_cart,mobile,16b256e5df531b940170cd24e7b26a82,6624,jandira,SP
+733,2025-08-10 15:08:33,d99f8b1e9ab4bd423659a3fc04bc4e05,1,993ac19aa975075775c16ba15426f8be,informatica_acessorios,computers_accessories,page_view,desktop,3559644b8b6ec711c33e74a13a66e9ce,37310,bom jardim de minas,MG
+506,2025-08-03 09:29:17,664c19a838d368c81b12d20087ae22b9,4,60b8232efc6b30822171dff08d6c439f,automotivo,auto,add_to_cart,tablet,346dce995fc6c92cd80e64c0bd69c651,72020,brasilia,DF
+733,2025-08-03 03:42:54,b4b70674594bffa85de4fa07e9413a23,1,ff9fa77f938462abd16b53c0d934099f,esporte_lazer,sports_leisure,page_view,tablet,8cd6f80d3c3994e2060d46ec07ff0b0a,39960,jequitinhonha,MG
+927,2025-08-05 20:40:21,f4496e91712e3a90cd82e287ea53c256,2,176faef125e3675b4eeaa6083ada61e1,bebes,baby,scroll,mobile,92802a430d942f30dc75c07de3a26bce,15130,mirassol,SP
+470,2025-08-14 23:34:56,cd468aa55db7ae88a497a08f2f05bbd0,4,f1bad58626618e14b6b25b096acee146,beleza_saude,health_beauty,add_to_cart,desktop,347db05aef50663173f7a9db451e1eaa,45790,potiragua,BA
+405,2025-08-03 19:46:12,732b3392e5516cb60017547792c7e141,1,e8452a21116fc579999d65cb5279797a,cama_mesa_banho,bed_bath_table,page_view,desktop,a8df31b568556605935ad291fa8cc166,51030,recife,PE
+735,2025-08-02 04:51:28,34b10ac8b6807ba32d473de41885b2d3,1,b1fa7a05a5eb864f4fd083ef11c0d0d6,brinquedos,toys,page_view,desktop,22943c7ae011e5d5fc8f7a4b838af5d7,37540,santa rita do sapucai,MG
+933,2025-07-31 09:18:55,e0f0e573de9eed01f4dbde5f9323c48b,3,0527af46c46b7a345d2086ea304ae8d7,eletronicos,electronics,search_initiated,tablet,decc46797b7d5c2c0146cc3e93720aaa,6386,carapicuiba,SP
+758,2025-08-08 22:36:26,bdb7038318ec6db24bc3c6c3bf7b6eb6,4,c1af5ce247fd5fd18c52ba645c3c87b6,utilidades_domesticas,housewares,add_to_cart,mobile,49a7315252795574abb6a43b3bfcf864,3970,sao paulo,SP
+336,2025-08-07 18:37:37,c6e095c02c127a9a70519bafb092be5c,6,fadc89c2a60ff96b18827644074dfd70,utilidades_domesticas,housewares,apply_coupon,desktop,114f0b19eb9bbac33eff4d0f04e6b113,12324,jacarei,SP
+441,2025-08-12 20:53:36,62e4c45005f78e9efce8f9b361151a04,2,5b2a0acb44aa8701a7b2ae662c51b3f9,eletronicos,electronics,scroll,desktop,7f8332909b975683069ed4777867f021,74973,aparecida de goiania,GO
+386,2025-08-09 12:50:46,07f96b6867d9a170014744b286362436,1,3d13b6c4a341d28974fbf776957250b0,utilidades_domesticas,housewares,page_view,mobile,0fb8f35586a814c879899f53c98b442a,22451,rio de janeiro,RJ
+898,2025-08-04 20:25:54,017b60010b64f28dcc98161205bbf51e,1,a8d2af10596b8acd5f45c720fe9745aa,cama_mesa_banho,bed_bath_table,page_view,mobile,fa1dd6178e738a81cffa3efea1cfe827,6411,barueri,SP
+665,2025-08-13 06:14:38,5b7cbb84e59c351123b7d55e64260c61,1,9d0e471ed428c6b5c87c055d434b0cd6,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,tablet,f7bcb9246dd6d2a67db161436640a2f3,13905,amparo,SP
+709,2025-08-08 12:30:39,f7be76b803e9e30d3432bcc0ace89803,2,fadde2aec26938dd22add77b290d279d,utilidades_domesticas,housewares,scroll,desktop,9b5a53aa7fc5dc8ceb06710c7e182e6c,89652,ibiam,SC
+989,2025-08-13 00:25:12,bae2e17717f1e6f357bbac0107dabfd6,3,3fe46d73f7527ad59e36c21c3e783041,consoles_games,consoles_games,search_initiated,desktop,a908f7551bf4ad06732bd84eff560037,39804,teofilo otoni,MG
+441,2025-07-31 01:40:04,47c86af221a1224eefc71b9f9600ef02,2,60831f149488243f31618867accce8cd,brinquedos,toys,scroll,desktop,6641a8b5e1523a486420211710917f7e,60410,fortaleza,CE
+495,2025-08-10 03:31:37,f9835d0178a2ef988d91ea05bc03f16f,3,e1772099adc6b03202a50a2aae5efb0c,brinquedos,toys,search_initiated,tablet,abf7ad6741caa815774324f973f781df,2079,sao paulo,SP
+355,2025-08-11 04:54:04,0e3b2ecc8d50d0c212672aa10520e74c,1,67a1e52f1184a4ffecff3b0a80d00889,moveis_decoracao,furniture_decor,page_view,tablet,95e52c90fb1f27338de757a076885ca6,36037,juiz de fora,MG
+336,2025-08-01 14:32:54,67dbe5defb9537a94eca5964c22b9238,4,3f3d9760b163e08f9566ea1b2b8e1cd4,beleza_saude,health_beauty,add_to_cart,mobile,b57adba827f671c3f3f51139ce31f482,35790,curvelo,MG
+997,2025-08-02 00:47:09,acd6d873b87903bf2df580186eee89b2,6,1a0910c102a7df46a8d1ffe68b2c3d2e,automotivo,auto,apply_coupon,desktop,c3a8c3c742829113458555ed8d300404,5790,sao paulo,SP
+504,2025-08-14 02:20:57,5e81b9389598c126ef13a101a7fc7471,3,24e8c79f39c68fbdbd57a5813ae72b94,relogios_presentes,watches_gifts,search_initiated,tablet,9374b1da36c7464ff35b853955d3de96,22230,rio de janeiro,RJ
+707,2025-08-11 14:46:02,feb6ddf0ad2cc6367d19c0f2009e19d2,3,bb5f7cb699fd0467c5d6289669df9510,malas_acessorios,luggage_accessories,search_initiated,tablet,7f937270d3949282aa09dfb52c2c620d,11250,bertioga,SP
+355,2025-08-06 10:09:20,5aeae82b1542678ba10c99ca292896cf,2,61bb78313bc87f6637f26b39d8008ea7,eletronicos,electronics,scroll,mobile,ba0fed3e80432a2a1679d58a24732c93,5527,sao paulo,SP
+878,2025-08-05 00:19:32,fca1ec7a5d4f094bf6403fa09a6af5c1,3,4eec371b7c376e0f55338a4e3e362965,beleza_saude,health_beauty,search_initiated,mobile,93ef6d0d094718bcd554c569e61b2271,23013,rio de janeiro,RJ
+707,2025-08-11 18:48:11,5846e59bc6fedf6418b9f8bcc74fb06e,2,88ab3ce1ded665150c5cd6adcc5287e0,cama_mesa_banho,bed_bath_table,scroll,mobile,3fa4a92541ef6c8fbf23dfce89e1bfb7,23090,rio de janeiro,RJ
+933,2025-08-13 19:34:39,74ba059969ec252a654dbd3e73f11e26,2,9a4b54310a69c82a6773791c9099e109,utilidades_domesticas,housewares,scroll,tablet,ec6228b4e70fad54a81c9677a1e191cf,9320,maua,SP
+642,2025-08-02 22:27:31,641e9c515a78e13fbe53f7470e52a663,3,1a366f773e013eb49126f79154b769d0,cama_mesa_banho,bed_bath_table,search_initiated,mobile,34f4f63a32554cf9e0383203279eea50,95050,caxias do sul,RS
+441,2025-08-01 00:01:57,f26da87c662e29c4680a07cf6e7f3a97,3,4150a78d94e1932852796a92cda4cd90,livros_interesse_geral,books_general_interest,search_initiated,mobile,ec6da744b820c4d98e6e74d2fee09634,29143,cariacica,ES
+889,2025-08-01 22:09:20,947d3f2b286ee739782ebc5d08c376ad,2,d801510753de8d979707ac7f6dea3964,beleza_saude,health_beauty,scroll,tablet,dd1b2bd49c5034eaccbaf8666e5459b9,9060,santo andre,SP
+495,2025-08-12 13:26:42,9a8e127ee3d61981f8beea052bb5dc54,1,cd1615dec63f54ce1d2f0b4ad00d741b,utilidades_domesticas,housewares,page_view,desktop,bf72abdfce444f60be4ba6b963479c6f,11320,sao vicente,SP
+499,2025-08-13 09:27:59,4d12da03af6b4513c13c61dcc5171626,6,be55ae76be8824525f40695d49a5a7b5,agro_industria_e_comercio,agro_industry_and_commerce,apply_coupon,desktop,3858e59d2965f2cf2d49f28ea26ec172,28655,monnerat,RJ
+499,2025-07-31 05:15:35,ab9e57e85e79e8bea7817de472684bf8,1,ce003d873dc7d3c9482b894f2f2cc3e3,cama_mesa_banho,bed_bath_table,page_view,desktop,947a5da60e834a0492f55ad6e139a9d3,14580,guara,SP
+707,2025-08-13 18:35:15,59949cb209923e327fb460e6e4854eda,4,440cb991a95f6a9c8918c112433f4d69,cama_mesa_banho,bed_bath_table,add_to_cart,tablet,203c37755ceffec3ec8618c4057b0334,79331,corumba,MS
+431,2025-08-12 21:23:00,00da45766aa7d360508cf25434334a8d,1,e526c01c04bb7ef5ba2773baffcc85e9,cool_stuff,cool_stuff,page_view,tablet,63606d6ecee30138790da5be23cac8e4,24020,niteroi,RJ
+989,2025-08-10 00:28:09,bde0289b3e5c6b604b8367b261152c44,1,67b0220f6933de5efaddb9c8e87389b3,esporte_lazer,sports_leisure,page_view,desktop,7d53db31fcf3878cbac1e8766e1dc06d,27113,barra do pirai,RJ
+336,2025-08-14 04:27:14,b91bd4717478c562a867b19421f13631,2,439da204990600ea973a60cfb05fc71f,cool_stuff,cool_stuff,scroll,desktop,7454011232f0d577e3892ff53088a09e,6330,carapicuiba,SP
+735,2025-08-13 15:49:27,e3b0ae006d2713db8338fb7557d9f322,1,1a1607ff3b9bced214efc0a8cdfb2510,esporte_lazer,sports_leisure,page_view,tablet,afa5bc3be09e44cd50dd53d8c112906f,25850,paraiba do sul,RJ
+355,2025-08-04 13:39:10,ab3bbfe587e36e0183d173da19c5463a,2,98a4301b1aacd45984603af55b7a1de4,cama_mesa_banho,bed_bath_table,scroll,tablet,d92414dc935e158662205976cb4a0302,13082,campinas,SP
+735,2025-08-14 05:21:03,e50de73a50d0f161a8a40eee5e0faa94,2,d11a48745339809b07eebc4a9c8c0a89,utilidades_domesticas,housewares,scroll,desktop,58d7dccba104a9fa2a08af3eea15ec23,71937,brasilia,DF
+355,2025-08-11 15:13:28,f6915a8852432ca16966a014a913bffe,3,117d03b1d09e534e76b4f4ac9d908b49,papelaria,stationery,search_initiated,mobile,1831d2d3eaaf943aba7969101988e121,12230,sao jose dos campos,SP
+927,2025-08-03 11:38:28,820cedae2b3e3671ecca1bfd514e9002,5,3bd016185be10ea4b4b2baa6e7dd9e9b,livros_tecnicos,books_technical,remove_from_cart,mobile,38b32a1211126d62dbd3ccc586d9d743,4823,sao paulo,SP
+733,2025-07-31 11:16:03,8d34c7573e1923c6d08b3c1adbcae6f7,1,dffb26377d60bf9bd5bd4cd856e9dbb4,telefonia_fixa,fixed_telephony,page_view,desktop,9216c2ab42dcc1c7ed0c1a7df3eff98f,1309,sao paulo,SP
+478,2025-08-05 15:40:36,f1005bace330fd90be3c5743d3eefdb7,2,259191163460b98721e75931dda0299f,informatica_acessorios,computers_accessories,scroll,desktop,e3b4afcb56abffc0ea514aee91ac1c6f,88062,florianopolis,SC
+355,2025-07-31 05:18:57,01ca0c5af5349f53a4087605008e9134,2,e966b10d5690d77bfc03cef8f9a26d57,pet_shop,pet_shop,scroll,desktop,a6613158ea14aa56bfa17e0d5181a735,13206,jundiai,SP
+901,2025-08-04 00:08:38,fdacde7b057f261f8f39ef2cf078df68,2,9cb406e79e6c2918987297be991b3aec,climatizacao,air_conditioning,scroll,desktop,dd1c379f2ec5f2fcadad957937de8d1c,60135,fortaleza,CE
+629,2025-08-04 17:30:48,4b2d724e420ebc3f9e7d8cd57a4a7416,3,e6c281e2c53db0da44ecb84c5451d25e,informatica_acessorios,computers_accessories,search_initiated,tablet,215f259930550e6cf391072c5dd72cc2,25065,duque de caxias,RJ
+355,2025-08-08 22:06:32,343575636b298153652d05b98589fb56,2,13384f6452c53eb1f29768dc57f75903,moveis_escritorio,office_furniture,scroll,tablet,528213c6fd0e0420d19f2dfed0f9431d,62260,reriutaba,CE
+441,2025-08-03 06:47:11,a51e51061b16caaab0897c3fecc69433,1,153ad88dad29825663dfb8588c45a1a2,bebes,baby,page_view,tablet,a7d01453152539afcb6e419a6decb67b,74160,goiania,GO
+735,2025-08-04 04:18:43,e3f74d4cbb4beec5b8b77095cd256b99,2,092eff69a9499b052a2258f502ea0775,moveis_decoracao,furniture_decor,scroll,mobile,17e9e299ac97a0bdb89e14e62f21b179,1046,sao paulo,SP
+994,2025-08-10 23:48:32,18af9e4b5bd9da0a9c658e1226e621cd,1,a10eacab1edd5f1c174e6f278030edbe,utilidades_domesticas,housewares,page_view,mobile,800cf25123d236ae5c4af326089d18d8,32073,contagem,MG
+506,2025-08-09 08:15:34,7213b48aa052d444b1ec51ce800a4ab4,3,1583253d78b23f7808214770298e0118,consoles_games,consoles_games,search_initiated,mobile,8e4547314b8fea1abee84fa14a782a31,18117,votorantim,SP
+405,2025-08-08 00:31:45,08eb2a39027ff975b414729b8e5b8ee7,4,f744c6a73a924600d92abc66a44d4f7f,beleza_saude,health_beauty,add_to_cart,desktop,bfec8760e813a3110eaaf428effb5029,65041,sao luis,MA
+629,2025-08-05 11:25:36,3b861947bb9b9c9e9ad19d15d944e254,3,2a49ec12c4a8acae6944c72a19359a5e,automotivo,auto,search_initiated,tablet,a45bcefda1f47098416e2f8112030dea,13481,limeira,SP
+495,2025-08-04 05:57:19,5d87ee4b33c25a37afe84d4a5b33fb14,1,348b10ae8463b0ee175ad03103e59f83,brinquedos,toys,page_view,tablet,1a1620a23a766782c7c5c5d29a362f5f,13504,rio claro,SP
+252,2025-08-14 09:50:56,00da48d824214ffba48ab43f5b1d29a0,5,d2e79198b51c33512670c0a652c1a27f,artigos_de_natal,christmas_supplies,remove_from_cart,desktop,1500da334da019c68fda219f942ba38a,95040,caxias do sul,RS
+499,2025-08-10 03:20:42,552e5dad0a117d4b2f536700db6cb60f,1,f74ed500ab93d12ce3fbc611474d89af,papelaria,stationery,page_view,tablet,c7fa86b24c5659adf36cb075a5e27459,30493,belo horizonte,MG
+889,2025-08-09 17:37:34,7bd0b92f056560a4e3addf53161545db,4,9e93b2c4cb5eea05e75a481c129b104d,automotivo,auto,add_to_cart,tablet,a441c62f6e089a64c94e97736eecd112,29305,cachoeiro de itapemirim,ES
+989,2025-08-01 21:40:43,bb837c97a08ecdabcf131bfd33098c27,1,434487f82b5c35646bd8155cf1946179,alimentos_bebidas,food_drink,page_view,tablet,2910d75e440fa3665195c16cefeb5618,13825,holambra,SP
+419,2025-08-07 00:46:01,a7ca77c243e6f130b70aa2cedcf78f7f,5,4b2653088591de362e6ba85b4a474c75,cama_mesa_banho,bed_bath_table,remove_from_cart,mobile,44de7debb789fba4f5145c5cd47219ba,25931,mage,RJ
+823,2025-08-03 18:08:52,7603f1a2c553061b4c6278c1f9165c49,1,343f9a709f19a5f4af650ac0b0ca7f74,esporte_lazer,sports_leisure,page_view,desktop,0ff3f5bb38b0513fc6e34b3f41a45b1a,29108,vila velha,ES
+642,2025-08-09 22:12:51,d884b47a242cd8e735d7c4501568dde8,3,5eedf4c1aa6ce63c49b7e0c547bf0ad9,moveis_decoracao,furniture_decor,search_initiated,desktop,3be85df3e4ba114f460e6ff3cbd9ac40,29101,vila velha,ES
+405,2025-08-04 09:14:59,3fffe84b3380a52f26b87f0a3c14c08c,1,927c2974fc11ccce0fcd4910175f6ca0,automotivo,auto,page_view,mobile,1cbf1b365b2c90285448d9e7982fbf1a,86082,londrina,PR
+936,2025-08-13 09:17:05,32960cfa578ed22c98c6c039e9c29861,3,7fe7d331253bc4643ab397881aa801e7,beleza_saude,health_beauty,search_initiated,tablet,b03b3e60f7e9dedc0d57b3e8c8d26e60,1422,sao paulo,SP
+631,2025-08-03 03:34:15,e45d7222b87e8b15b377853dba5be723,2,b5a3bb1341d217322573b76c03d7b81e,cool_stuff,cool_stuff,scroll,desktop,3798afca0bdbf833d43d27ba3211d3a5,1027,sao paulo,SP
+495,2025-08-05 08:29:48,338fc8ba6c3d41250661f6381f171c4d,2,4673c83bbad0277b120ac3251d4b3633,artes,art,scroll,desktop,b4ed4ceec71c4f7ff991e409f65b626d,2421,sao paulo,SP
+936,2025-08-04 04:15:06,3c5d9be5e99aa56b2b5b0c9d4a2072ef,1,b6c8f14b68f929e88c57afd30d88c7e5,informatica_acessorios,computers_accessories,page_view,tablet,0a49071dae14394fdacf99fdda9dedb4,26030,nova iguacu,RJ
+470,2025-08-06 04:02:57,a40ff2b64b60d5862e132e9bcd1a71f0,1,8382f9e2420867093a37399229d3dc10,beleza_saude,health_beauty,page_view,tablet,d45cd7d954ef0cd856ac93d53c12ec0e,9540,sao caetano do sul,SP
+506,2025-08-11 09:35:29,9184ad51abea1dfda9fd888af61f8e0d,1,f6e3aeb40c00aec24ade8333c2ac1b20,consoles_games,consoles_games,page_view,mobile,877ba579dfbad5e9aac58a2477818afe,86800,apucarana,PR
+991,2025-08-01 23:43:31,1e98ec6af6b00f2b6c4974181855fbf2,3,0668cf65b55579eb49c9f2d167c71dad,beleza_saude,health_beauty,search_initiated,mobile,43ef5e7ad5bc8a0e4d8e166b74f34311,5756,sao paulo,SP
+454,2025-07-31 17:38:26,a3fd0ceb125291d15c1708931ec47218,5,2c36bd802c645850497100e08f9dfc80,beleza_saude,health_beauty,remove_from_cart,tablet,26b3f416e733946bfe1846edf815cd59,13478,americana,SP
+642,2025-08-04 11:47:36,b7d128f4be4acdb1542687fe78eebbbe,2,47a4d6ab2e9b253f8c3c8aefa0c40285,perfumaria,perfumery,scroll,tablet,ac8d08607a8fac7c6d887fc378838142,88200,tijucas,SC
+758,2025-08-12 03:51:25,e69bf5017b2f0579333d892780b11b56,3,08fd8427101cb0428a663c2ae8f90aee,informatica_acessorios,computers_accessories,search_initiated,mobile,3965b3e9631ff87aa8c3d7e4d8473294,4545,sao paulo,SP
+252,2025-08-14 23:08:13,814fe5f156da3ce3123ead086048e852,1,ec1870600ee2920073cba7a93211122c,cama_mesa_banho,bed_bath_table,page_view,mobile,ba93a4e4490257d265a6d7fd02131052,20241,rio de janeiro,RJ
+386,2025-08-05 07:20:44,d866f14443d6d667b9cbed78b30d4799,6,6f66ef344e1db8560c3d036ee214f355,utilidades_domesticas,housewares,apply_coupon,mobile,f8426a7e573a60f20f4331e8b8832f72,82630,curitiba,PR
+631,2025-08-02 00:02:22,31982f03a9615f0b78174bd6662d4aad,3,5d66715cc928aadd0074f61332698593,eletronicos,electronics,search_initiated,desktop,17c943e1b22b34cc6bf712e9c623ef62,82810,curitiba,PR
+499,2025-08-14 15:13:36,bbaeaf6810cf76b8fd38e746520c7d3f,4,8aebd177020fc8a6fa6a321ac4c44de7,casa_conforto,home_confort,add_to_cart,tablet,e961aba0dbef8eec5dd1e8e43a20fcf9,3581,sao paulo,SP
+707,2025-08-04 13:47:49,618a7b555a9053cad4401a556694b649,4,648c3051ce2eabd9b79e75f87fde75b6,cool_stuff,cool_stuff,add_to_cart,mobile,11667edab68cce830297e1d7eda76419,74685,goiania,GO
+802,2025-08-13 18:28:00,91efd983bc7d7abb0b86c11911e7a939,3,3ca00c4e1220f5de09fed51ea33cec30,malas_acessorios,luggage_accessories,search_initiated,tablet,a5639c50294cf1acbb7d150557e7b68e,26545,nilopolis,RJ
+707,2025-08-06 07:36:15,e05a02673fba8ce5e037b1eb50afc64b,2,b4af6057abfd298e3bddc365a8fe14ed,automotivo,auto,scroll,desktop,ba9c53d797b02ac139e8c55aecfb698e,13032,campinas,SP
+642,2025-08-08 21:55:12,bd6af8db74728123d4a31f8b95e226b2,1,d2169b4ca33cf18e5cf73716179912c8,utilidades_domesticas,housewares,page_view,tablet,613c6adfae45a73e79862b78cea4fd73,13064,campinas,SP
+878,2025-08-08 13:08:29,22abcf13104241895955bb0cd5ecf2b5,1,4ba9263261711e19aa09a61e3ab72316,eletroportateis,small_appliances,page_view,mobile,8375bb03884768ef81223f8cb980d636,2161,sao paulo,SP
+642,2025-08-05 01:50:39,68ac50b4985070c79a1bf8153c381918,1,1107055c5c960ef6e183e781260aeafd,telefonia,telephony,page_view,desktop,ff176d08b6e19c92b5ccfcdfa01cdffa,95520,osorio,RS
+707,2025-08-07 05:03:51,85def2485de9aaad307b6b980002087e,2,03e931f387c2dd5b006aecdb12515b2e,cama_mesa_banho,bed_bath_table,scroll,mobile,a04585063d3c6f8bd8d4c902b7e6fc85,58428,campina grande,PB
+252,2025-08-10 18:41:35,c900b2707ddd00c2ba5fcde30c52ee8c,3,a45af86c4a7948f5fabbb5b0132475cd,utilidades_domesticas,housewares,search_initiated,desktop,6ead799d8a12f9095ab29409be2aa075,8371,sao paulo,SP
+478,2025-08-11 14:20:45,79e3be07b961e4d6df3d52de6a560c47,1,f7d67abec0a2ed71d5125e6eecbd8db9,consoles_games,consoles_games,page_view,mobile,402a7717482f5f9be79614db6042aef0,89400,porto uniao,SC
+805,2025-08-11 05:01:23,ab749b53268b969dd8a4309e6f11c065,1,3fca280b9c1738d8d7996c7373d3ecee,construcao_ferramentas_construcao,construction_tools_construction,page_view,desktop,2d08cf8331dd8d9ba58db3241820a623,28941,sao pedro da aldeia,RJ
+504,2025-08-13 14:47:49,2b0205e1548b2eee9598383e60e6bbf6,1,45bb3dc2bad11474b99f167b3e95fd02,relogios_presentes,watches_gifts,page_view,tablet,9a583b96dee3db8f142ce384a53232ce,46390,ibiassuce,BA
+898,2025-08-02 20:17:17,d3195197238054c36312c802372c387d,2,9c01566eb81b90cf2c8014cb71e35f93,eletrodomesticos,home_appliances,scroll,desktop,3f9f72d774b3bed3ea342333dee1ea64,88780,imbituba,SC
+642,2025-08-13 22:02:11,b96d49fc07d7b581c713d54f1864f1cf,4,05b1d0c869d183ecb8459207a33066f5,relogios_presentes,watches_gifts,add_to_cart,mobile,8f168e4240b71ab867b91e62ffea1da1,25260,duque de caxias,RJ
+506,2025-08-10 10:12:23,1f14a4ae05a973f75bf96287debb8d16,1,0ec884e982b64baccc2612396932cfdd,esporte_lazer,sports_leisure,page_view,desktop,3ad88d65208c4fd0b576746a07212062,63780,monsenhor tabosa,CE
+933,2025-08-07 09:33:33,758cba92731c9677b85afbe87fc7e52c,2,487cc4260ca851ec6cc283db8d235fc2,automotivo,auto,scroll,desktop,bd0bfd0dc8c14808a259c86884e09dec,9450,rio grande da serra,SP
+355,2025-08-14 20:51:57,30bc1c0507caea656fbffdcea453c250,4,36027cd76cee85025c9136de78270a6c,moveis_escritorio,office_furniture,add_to_cart,mobile,968ca7d54afbf973815b9d332584b825,22220,rio de janeiro,RJ
+355,2025-08-03 00:01:01,695e30701cad491515e5f4f0e69bd3db,2,471e714759273827991f1746906737d1,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,mobile,2507c5c10c5cc33968aadcbf5315e792,68371,altamira,PA
+495,2025-07-31 22:26:19,0b298086e30348fd0f51d04485f4a876,2,dd6d43bda53615e4256be41869079f9a,informatica_acessorios,computers_accessories,scroll,tablet,c4dac01995252230a5796d60fe502355,24344,niteroi,RJ
+405,2025-07-31 20:27:44,195f30dba556ad925afba1ecca917439,2,8ba0118a487ec8671aed57e5ef846574,papelaria,stationery,scroll,desktop,2e49a3bbeb76297ee0ff49df39c2456c,21832,rio de janeiro,RJ
+707,2025-08-10 06:33:58,920ec9381aa6721f9e3928edcd0f9ff1,2,16afd9cf37e1b340bc46822fdd8240aa,malas_acessorios,luggage_accessories,scroll,tablet,71a9809c493b704fa3c200fbbf98aeda,5515,sao paulo,SP
+733,2025-08-06 23:56:08,6e36fa9bf71aa373a6adeceecbe06ee2,5,cc9e875c2df286dbed83efe01191162c,la_cuisine,la_cuisine,remove_from_cart,mobile,c25977b1c353b40d74628a01e0d2eda9,26440,japeri,RJ
+323,2025-08-09 21:16:20,dbc778788a25fd96ca5e9e77ca52cccd,2,fa92cdb881a2eab7e1f10d0ba6f42fc5,relogios_presentes,watches_gifts,scroll,desktop,82295e39e2c0d06b12e6223d614bcb95,4844,sao paulo,SP
+735,2025-08-14 12:43:49,6ef60f4d41c7d80a8bb7b0a986033508,1,1e17a95099678da4cd4479d4c5b8f391,brinquedos,toys,page_view,mobile,b9ab7ada653baddc579d8c8bbd8b8e1c,83408,colombo,PR
+372,2025-08-03 13:12:26,8f0f359a835944478c1c46f14fb5f2c3,4,531e80cf1d0a71c020c1814e474a2045,cama_mesa_banho,bed_bath_table,add_to_cart,mobile,a9b4929689bc74b4d8764b7214a9bbc8,48970,senhor do bonfim,BA
+733,2025-08-09 03:32:17,c4fba31383a2c819c9f57410376c9718,1,fb2f2ec90b4ee90ad257bbf89d01247e,cama_mesa_banho,bed_bath_table,page_view,tablet,0aebe2cc596b8045b2b1c72cc64fbae9,59052,natal,RN
+838,2025-08-12 03:57:56,ba57463d587cb70d3871b2ebc91c6284,3,abcadf3aeced9a5dd2c23cb61ca09a4c,automotivo,auto,search_initiated,tablet,5e8f38a9a1c023f3db718edcf926a2db,44053,feira de santana,BA
+823,2025-08-11 23:13:50,94fc7152214303f351fb2a3a171d8386,1,ade881d3a9e73b511c630460c74dd92f,informatica_acessorios,computers_accessories,page_view,tablet,a90d5eb21d1ee630c63f984b78210dc7,2859,sao paulo,SP
+707,2025-08-08 09:06:56,0e96143af9d9961fa2324db67d98bb29,3,0561435e3af107a3bd2104466ad5985a,cama_mesa_banho,bed_bath_table,search_initiated,mobile,6dc1802b678d30cc0cb0a9da873fc583,3084,sao paulo,SP
+504,2025-08-04 04:32:48,656bc0e5a7c16980ad87811788a17acc,1,4cf2a0463e06213f6770103e29b637de,telefonia,telephony,page_view,tablet,93bf97e6096bfe1609685172a848c785,3817,sao paulo,SP
+733,2025-08-08 02:36:43,9e48a9b3a63506370fe66557f3e21f95,1,272e51f7fc982529466144f8b68ec58e,market_place,market_place,page_view,tablet,76d91370df3ad38269e22a53edfa6f8a,25725,petropolis,RJ
+901,2025-08-07 11:14:34,f1faa32b3410658ccb5fde57eb7adc50,1,dc4d44dc2f46a439a0e3a38ee540eb34,esporte_lazer,sports_leisure,page_view,tablet,9f0e7b91a83ae3a177d4409ebd6b457c,37014,varginha,MG
+419,2025-08-04 10:13:58,32835bcf475e3945745927a62bbb7fc8,1,955ef07f4e61b2033c9d6af6a6b61783,cama_mesa_banho,bed_bath_table,page_view,tablet,ed70284f4fa4d46d53d9f93ad9dc0dc0,95520,osorio,RS
+991,2025-07-31 03:24:36,b3f0f75df1c064dea7888f0afe738b4d,2,a48a82499de633cdd782856d69789b62,pet_shop,pet_shop,scroll,desktop,e287faaa248db587a1100d094d120d2a,41650,salvador,BA
+355,2025-07-31 19:55:27,4d6a71e3cc10bf25e81389394f4ed0b5,1,4413e2f854c2f02d80065a178decb9c2,cama_mesa_banho,bed_bath_table,page_view,tablet,0f6355abd2fb808755d94a6084ee41cb,30421,belo horizonte,MG
+823,2025-08-01 14:51:05,d3c3354f609a1a80b78fbab8d5435061,5,6ab41d7f15e7af9d6c7cd912055acc1a,esporte_lazer,sports_leisure,remove_from_cart,mobile,5754d6a1f589e89e78c157698dcc7466,4844,sao paulo,SP
+991,2025-08-01 20:15:47,f2a5ed507918ca3ac831b7d38590141f,5,36c554eb2e204a1db6000ed146c9fbde,automotivo,auto,remove_from_cart,mobile,54d0581e27042d4f305886d5469fc635,69919,rio branco,AC
+470,2025-08-12 12:49:00,d0a3f59bd1527ccec9b075d58010caac,4,b84520a57891e7a8ae2c68741dcc7146,relogios_presentes,watches_gifts,add_to_cart,desktop,8eff9cf91843bf847f0b18828c5e16d2,91240,porto alegre,RS
+355,2025-08-06 10:27:27,4799fe9675b9a46fb5b6737a494b2d2f,1,10fdb0e6ef1170ede7a6a3d6634869ea,perfumaria,perfumery,page_view,desktop,128963de0688f0824e10f06012bd45f1,6454,barueri,SP
+252,2025-08-10 14:19:13,61596279ddb21ea65d3ad55636c1720c,2,2d1a8b45479472a709ff5e6be0f1341f,moveis_sala,furniture_living_room,scroll,mobile,7297b46c1b392066b37a0bdf9e8ad7d3,88133,palhoca,SC
+470,2025-08-13 10:52:57,7ffa96b0f921e027d6a4ff1589e67f7f,1,ba461a0fdc83975aeb97c66b1dea2802,sinalizacao_e_seguranca,signaling_and_security,page_view,mobile,50a662e7d7e7e2a94112a4f15a37464e,24710,sao goncalo,RJ
+506,2025-08-12 18:03:12,be0518184bef64aec7295d3eb1076336,3,e21af3d371523b2d9543645d3564a873,relogios_presentes,watches_gifts,search_initiated,mobile,a1ee7d2abd6aba2ed5fc07cfe833d7db,11436,guaruja,SP
+631,2025-07-31 18:25:00,c7aa9ea3f2ad4ed46d2563d83524025d,3,f011deae0b381d8abd76d0ee747370fb,cama_mesa_banho,bed_bath_table,search_initiated,desktop,e3439f1f05d873538254d716323374d6,28300,itaperuna,RJ
+506,2025-08-08 12:18:46,43a1a6c14b2bafafcce0a36fc24e99f7,1,d881b7a2ce3e484f379f751df4c709ce,construcao_ferramentas_construcao,construction_tools_construction,page_view,desktop,b6d03ac2dde2c0eef9eefb0f46162b3d,38200,frutal,MG
+802,2025-08-05 02:24:22,3a7f59bfd23506b1997a224724044691,6,0bcea5a4f4ff3bac5da77d1563e846d0,automotivo,auto,apply_coupon,desktop,f9ae928da15e82a3fc6f97b3751ebea2,37018,varginha,MG
+560,2025-08-01 03:05:19,74920bc93e60ed7786b3be5f8312b995,1,51555187e14ed8bb8addc25344848ef7,cama_mesa_banho,bed_bath_table,page_view,mobile,666386eb0e7af19ef3df140e515d21e8,54460,jaboatao dos guararapes,PE
+898,2025-08-09 16:28:19,1f82b11f19cfd3f3226b30477ed95c40,2,60aa11b81de4e2fed1ba0961cbfc97e3,esporte_lazer,sports_leisure,scroll,tablet,7fa094f665ec563126a3e1749d617ae1,29102,vila velha,ES
+386,2025-08-06 18:26:52,32b84239e3f3904ac162d832454770c7,2,fe3d99587f58ad918a2241f5c7dfa274,esporte_lazer,sports_leisure,scroll,tablet,a666bec8af192f2238a0b719a7063a00,23093,rio de janeiro,RJ
+499,2025-07-31 12:14:26,39479cb9e2ecd631478cf2f4436c21df,2,2d6b812c811ee4ef384bf40877c73706,moveis_decoracao,furniture_decor,scroll,desktop,63a6216ad1a050823d1a4ce68c8eff13,13013,campinas,SP
+506,2025-08-04 20:07:00,0c0cff01107d9555110f6a6f0df65dd6,6,9ff8568dfb9041b898e65ff4018c8c57,eletronicos,electronics,apply_coupon,tablet,130b2188edb1f787582e779853a02bd7,22750,rio de janeiro,RJ
+991,2025-08-12 19:26:57,d559dc84324405217e129c2448f7b1d5,1,5e18248fc768bdb7fc69fd012068d109,utilidades_domesticas,housewares,page_view,tablet,7e4ecd0fe41e1c98597eaedf447e2347,85530,clevelandia,PR
+994,2025-08-08 05:06:55,ee3b4b2a37bfecd113a6095902de1b0e,4,337c81a0f9e751b6cbdf56680a33c365,esporte_lazer,sports_leisure,add_to_cart,mobile,1b9b716b2ec99bd330c1807d54418b46,5544,sao paulo,SP
+901,2025-08-02 09:48:56,f04ae41c75d423a833694f86375f16c9,1,1bab2e484686f57566de99a627223576,cama_mesa_banho,bed_bath_table,page_view,tablet,f48c4fb9144d9d73f66d664d3ae82da5,4323,sao paulo,SP
+631,2025-08-04 02:47:16,11d69e8cf762813644bd7404602a502b,4,5a910588e5561f1b7cbe03bc10cbc967,telefonia,telephony,add_to_cart,tablet,5c77da09750b42091c93c331d544ab53,35930,joao monlevade,MG
+707,2025-08-02 21:22:24,cd59a6b30d35d92fea65e414b87adce3,4,82cef15a4bafa854c7a2a2c9854b7e44,perfumaria,perfumery,add_to_cart,desktop,e4fe3a04efe1568d27be366187752445,1121,sao paulo,SP
+431,2025-08-13 00:22:43,03eaeeab9883ef63043d7f0e0325a370,1,5800e9581700cc03968b7bb57f4c5978,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,desktop,93d9e516a351a7747fc9830ae9525062,89700,concordia,SC
+506,2025-08-03 04:56:10,23456b8fa364475d41ff13e408d9447d,3,d2ff5f62363de6bace21676323900d0d,cama_mesa_banho,bed_bath_table,search_initiated,tablet,b109019ce7a10e8bd8e6b464fee22a9e,53635,igarassu,PE
+323,2025-08-06 04:41:36,95ec1beb8f866a4f30899ec797d01a21,3,18fa9cc25ea8b54f32d029f261673c0f,construcao_ferramentas_construcao,construction_tools_construction,search_initiated,desktop,46e9cb895f1f933fe2a905fde4e02cc6,89340,itaiopolis,SC
+927,2025-08-13 00:36:27,db8d12f33acf6a08a434eda169d25106,3,fb5192388e7614dee676e3fcafbd12ee,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,desktop,ea201d395b28edab46f644127fbd34ac,15990,matao,SP
+419,2025-08-04 09:45:21,2b9b0a1c181f767e11f646be504aa858,4,966123de13ad29f76b83d5f9752405f5,automotivo,auto,add_to_cart,desktop,e620a3f4451319f481718e291372d925,13173,sumare,SP
+252,2025-08-06 08:21:54,55d413947e32a818250f7dd43cf39704,6,7f47a78f50b93196e945ec522b6e6788,brinquedos,toys,apply_coupon,desktop,2f94122ccfc8816b677ce4a9b5afd2b5,3283,sao paulo,SP
+733,2025-08-14 03:20:37,e3a2ecc76f9a48dedb531f45863a92b1,2,cd2d21b047041ab1b899a91aadb7f9d0,cama_mesa_banho,bed_bath_table,scroll,tablet,3d217f28b2f54d2ac1b06781cae22eea,12952,atibaia,SP
+470,2025-08-04 06:41:43,f86da6175d72ff2d6a9de63342e1d303,3,1aa14227ddc4559e09c497298bf618dc,esporte_lazer,sports_leisure,search_initiated,desktop,8cda74bcb48b709a90e5441e19b1d759,13160,artur nogueira,SP
+927,2025-08-14 20:01:21,b4aed612bc4bba43b16b3b8e6d707fa6,1,81a3f1e46ec16acb4800a5002b014438,perfumaria,perfumery,page_view,tablet,7fa8298b790b9bb78ffac3a59336d27b,5010,sao paulo,SP
+419,2025-08-14 04:11:48,7f3cdf6539fdd87133286b5456b91ae1,6,4f741491850c0ce5c062655637fef0f3,informatica_acessorios,computers_accessories,apply_coupon,tablet,70d9c1727c10dc6cd4187548784084bf,23045,rio de janeiro,RJ
+323,2025-08-04 08:05:07,b8fa0384b93837cca8bfb537c3c32a64,2,4ef55cfc0052b8c8c9313fd35d00289c,malas_acessorios,luggage_accessories,scroll,mobile,9b0cfe79b2ce5646314846f6d9726b2e,89012,blumenau,SC
+989,2025-08-11 17:50:31,bc345481af806e7f82d41182101d563f,1,c4bb83a29caf7600c1a8bcbca6a85c98,esporte_lazer,sports_leisure,page_view,tablet,391321e6abd0f7924e416f8506906898,6807,embu das artes,SP
+470,2025-08-14 13:59:33,e8ebbc2a8acc77cf4a5f8f496ddca8d7,1,e88e5a87ca25def10ad4f2dd2a967f23,esporte_lazer,sports_leisure,page_view,mobile,314fcf9fe0f9497822eb881f942fca6c,36240,santos dumont,MG
+642,2025-08-06 07:48:43,0f835d3a44bfc8601fe5825f921ede8d,3,1347d4320dcd0acd750e37bb3d94a918,eletrodomesticos,home_appliances,search_initiated,mobile,f73ed0685b8f4388b07d4838f60b3571,68903,macapa,AP
+642,2025-08-10 16:24:18,bcfe21a120bbae5d45cf229b1329b5ec,1,aadff88486740e0b0ebe2be6c09476ae,beleza_saude,health_beauty,page_view,tablet,6680f380f3c92293b4c6a12435d0ebbd,44002,feira de santana,BA
+733,2025-08-03 18:18:35,a1aca6bcf003c08a08097758ff8cf96c,2,b8d682ed9fe73be0d13a38e716573f79,consoles_games,consoles_games,scroll,desktop,d1977d0dffcab41b61db477ceecc3746,30130,belo horizonte,MG
+478,2025-08-14 01:30:55,2a488b993ba9794cb757436f398489d8,1,7d04c7dea507d3f66a22b0997525b0ad,moveis_decoracao,furniture_decor,page_view,tablet,07597096095d50d3235d4145c7f98cc4,5207,sao paulo,SP
+499,2025-08-14 19:16:18,73f6f07cecb177c52aafb9ddd4b4b448,2,0f820791c5bd8fc3b05f6b897877fb1f,construcao_ferramentas_seguranca,construction_tools_safety,scroll,desktop,3d137ee6aef24bc7aa2d3cd0e083ce9c,6343,carapicuiba,SP
+419,2025-08-08 18:30:28,3e427aba8dacfeb381377ca002f96282,2,c4fde94eab39fba350fee41d60ffd8f9,automotivo,auto,scroll,desktop,7f9a82af65e8568d377ea5046f53a8da,35501,divinopolis,MG
+805,2025-08-12 15:09:58,12f985f830e8fc3be0aad2ea7c47b612,1,c9e6b23635a83b700579ba235b53eaf3,moveis_decoracao,furniture_decor,page_view,mobile,e4ac584ace8736ac1ea923ba3475f719,15600,fernandopolis,SP
+478,2025-08-13 16:40:02,cb2559f845c75418909740bd35463398,2,c1617123e66d2491ca93ceadfd36203e,cama_mesa_banho,bed_bath_table,scroll,mobile,7bc23e69723bc03a7d2589ee71a37d07,1140,sao paulo,SP
+419,2025-08-07 17:06:37,7fc0e7dcd8f29cc5285c7f4981c8fae7,1,ea5dab9d789df7f5cef0e41002bdf47b,telefonia,telephony,page_view,desktop,184c60d3f769361e505a2310ed7c508c,38182,araxa,MG
+504,2025-08-13 20:57:25,1457db4694dabd9ee0aaa7a8def2b152,5,b770fdfeb3598c315c74c881afdeacd7,automotivo,auto,remove_from_cart,tablet,61e5f16f5f4e5de288a9fc001ae443e4,21040,rio de janeiro,RJ
+499,2025-08-14 01:43:34,ca345cb1e12c873647c273a2a7985f92,2,e2b9488ff4e25e7fb5a2973a65eb79e2,cama_mesa_banho,bed_bath_table,scroll,desktop,0ee0424f2f4840a282623b8eae4ccaa3,30360,belo horizonte,MG
+838,2025-08-06 21:58:47,64042b2284d62375ab149d343150c5d7,3,7666acd3cb60e97bf02449e36be0c02a,esporte_lazer,sports_leisure,search_initiated,tablet,315b46c034e62923d7cf1870d173fadc,14940,ibitinga,SP
+878,2025-08-03 15:09:51,9bf04c159f122d323d21ddd3189962e6,1,08528915e9c75fe961048c13928b527f,moveis_decoracao,furniture_decor,page_view,desktop,bdf2cce7745cd9e6c79c4c5771863ae1,40717,salvador,BA
+478,2025-08-12 17:01:52,77b6059400dbc3ee923b21ff062612c2,2,56303e28cce31802381aea252883b8b8,relogios_presentes,watches_gifts,scroll,mobile,b7854c9bdaa0d9650bf2cf9a89399f8a,38600,paracatu,MG
+642,2025-08-04 07:28:28,276d837f05f017a708409066dff401a8,1,fa824bd872b3bfb379407d40ff3059c0,relogios_presentes,watches_gifts,page_view,tablet,6bea1ab8db5d65ec458b72229345a771,12243,sao jose dos campos,SP
+898,2025-08-04 07:42:59,195723bad1cadf0ee55cf2c9269365f0,2,211d84789fe01a27d1e5e12a60a30c85,beleza_saude,health_beauty,scroll,mobile,391ab06f2710fd604e7a4ad398e71fd5,22631,rio de janeiro,RJ
+707,2025-08-06 04:37:12,08ba3f633e08284c827e14b9700d8949,1,26a5c56121a055cfa75ae4f9e324c024,automotivo,auto,page_view,tablet,be33152ae3eb53008fdba8c5efa40ab7,7950,francisco morato,SP
+994,2025-08-13 12:28:54,1617a08d5850cf9628908bf7339c4245,2,cdf516ee3c66d21bf05ed94c812a2642,beleza_saude,health_beauty,scroll,mobile,ba7732cbeb7711ce8f27dfb225f5c0c5,24456,sao goncalo,RJ
+994,2025-08-10 17:57:28,fc70a16ef4c1c733f42e776ff0a980fa,4,2f07e976774b91520e17dd3b2dba73c3,climatizacao,air_conditioning,add_to_cart,mobile,2d7d65d5f4c5727c3c8630f5de2de690,4787,sao paulo,SP
+933,2025-08-01 11:56:46,641421e7a4129fa906e060ccdffd6cfc,1,f17919cd5c50df5ea6b11d9665a0eb2f,esporte_lazer,sports_leisure,page_view,mobile,f16b5d43cda092901d675615467e41f4,27910,macae,RJ
+506,2025-08-04 07:14:34,381408c4cb32738d5008a1bfd66d6e4c,3,e6b6e13cf71449a457269f425b89dc74,audio,audio,search_initiated,tablet,28da99e178f274876e3052c1740c6c87,18720,paranapanema,SP
+252,2025-08-11 07:25:11,de40e840af17b6227c01ca19031ab896,1,2d6dfe6841db8445d145a67913aec9d2,papelaria,stationery,page_view,tablet,6a583f4c6790a4c8330beb7612e17f42,23520,rio de janeiro,RJ
+838,2025-08-05 13:53:15,becd44b937217776c659d9465b22808d,2,bc166ad2b244b9d4eec97208498b1c07,automotivo,auto,scroll,mobile,4435c4547dca4cc6909b5f9b513c7993,17340,barra bonita,SP
+405,2025-08-05 05:40:10,291d6844b59e2c397d3c5003a8bd709b,2,f1e297029531521190bb2312a90df567,moveis_decoracao,furniture_decor,scroll,mobile,66efda21323af0cafdc4490864d3ad68,2545,sao paulo,SP
+631,2025-07-31 04:26:51,74167fa986badc6600b60439162a8619,1,c8e98656b0bfc1efbadc25aa3fb9640e,beleza_saude,health_beauty,page_view,desktop,ebffd9d1340266f1ed93232b8200699a,4232,sao paulo,SP
+629,2025-08-07 22:23:54,9d6c3f94903d3c85f5691210dbe2d95f,3,6b54c329383ae411a34c9791f7a51145,automotivo,auto,search_initiated,desktop,68434fce981a8a2ff359192a871420c4,38412,uberlandia,MG
+994,2025-08-13 05:14:37,a7c44bb8aa9c0737ed95216600460b84,5,26c48bbde38fc8ca6a01eff68015e35d,perfumaria,perfumery,remove_from_cart,tablet,6d1d129c5d436ab5291628643ca34343,59115,natal,RN
+495,2025-08-08 19:32:30,c81365d11511bb57b8fe9a8d3fab8883,4,2ff9737e49040a4de6435620ee96885f,cama_mesa_banho,bed_bath_table,add_to_cart,desktop,a7bc069d832786d5e0230ef0c6ce236c,8717,mogi das cruzes,SP
+454,2025-07-31 07:46:15,b3a21908915e2cb21871fb7c1a56a9e5,1,06acd3480e6a1afb023ad0eb8cdeecca,utilidades_domesticas,housewares,page_view,tablet,b9f44adf80ea63d6c55c0ee8c0360fef,4524,sao paulo,SP
+506,2025-08-01 11:04:10,73030ce73a719fa299775db21dc5033d,1,c3ccc0c6eb821d523d51af4a8ceff376,brinquedos,toys,page_view,tablet,111efab0031b5c6b18c5f17760f8b338,99600,nonoai,RS
+631,2025-08-08 15:15:15,22848cff9355124d81c561b59890a345,3,660e0f01907ced7b35929916341d8ad0,construcao_ferramentas_seguranca,construction_tools_safety,search_initiated,mobile,e7ba27eaa7692a165b91ba35a41da310,70660,brasilia,DF
+878,2025-08-03 07:22:14,66966a2562fadcb3f9e3acbbfa9a4523,3,26ef5c7fd62e0e6334083bb274a003ba,automotivo,auto,search_initiated,mobile,94f1230c44435fe9001ce30f1fe06135,14403,franca,SP
+506,2025-08-12 08:05:23,79dd6d239bf598a7bbec4b0465cdaf15,2,23e7b9a386cb15c0b5063bf0d45982a5,informatica_acessorios,computers_accessories,scroll,mobile,b91f66c680ece6d17ff2503ea144feff,14680,jardinopolis,SP
+707,2025-08-11 01:02:06,83701dc4f775d9d3bb5acfdee605200d,4,78d9cee7386ff7a3fb916ee1c076a278,automotivo,auto,add_to_cart,desktop,cd05473bb91c2abeb4d23ec8864d168d,64052,teresina,PI
+642,2025-08-01 11:47:18,33b1fcc0d244ba808384b9b3df985450,6,d766964397625ab68a48b7267bf7b04e,automotivo,auto,apply_coupon,tablet,ab28b75b64cb61b5247aea7f391778cd,20910,rio de janeiro,RJ
+323,2025-08-13 20:58:04,394c66f853de6f122620585a7b14bb91,1,6daadc7e6029cf01762f941e488caa1b,brinquedos,toys,page_view,tablet,b1a8a0800eac99ec4d83d6ca350a690e,5879,sao paulo,SP
+355,2025-08-14 15:15:25,b10c5ba343a99bacbba82eb53d10bd33,1,8f4b17412563c9aef144af0d2b3745f4,papelaria,stationery,page_view,desktop,fba137b4e135ca6bbcaf90576ed1fb65,37195,santana da vargem,MG
+372,2025-08-06 00:49:07,353304a58d33fb139cbd70a09140b7d3,4,60ee9861f35c13d4a3a2bc10e86bb05b,beleza_saude,health_beauty,add_to_cart,tablet,90125656b67f366e482a98da3af867be,72871,valparaiso de goias,GO
+758,2025-08-13 18:07:59,81e58748fd88658cd29a87a52d64f7d1,1,32c6fb2c7b8966ea413c684eb15186f5,esporte_lazer,sports_leisure,page_view,mobile,84b716b75427a213c1077894e4e97bb8,14807,araraquara,SP
+889,2025-08-08 11:58:19,878d8c63b45f5785836732d642ec2a16,1,d8187d92ba7b6cef0ed22c1e80bb729e,artigos_de_festas,party_supplies,page_view,mobile,2dde781a67e75871e72fc33cc353fa18,1403,sao paulo,SP
+901,2025-08-01 21:10:43,8c9e548518140fc63d1628623658c2f6,3,64dd98c857401579d7f88ddb97821b4c,cama_mesa_banho,bed_bath_table,search_initiated,mobile,ff917c9a5c8153119ba15b468afe1542,5020,sao paulo,SP
+994,2025-08-06 15:35:42,31bc2ab4be7965c0d6c9c1852ad9875a,2,8326a865712b71ff436aefafc04a4817,malas_acessorios,luggage_accessories,scroll,desktop,3415bd0630b0fae4e0a1b3c86d99dda3,3165,sao paulo,SP
+991,2025-08-10 19:43:24,5fcd01aff39a8f9922b7026f8ac46b55,1,3cfbfb223bf0e89feef39ee393833408,informatica_acessorios,computers_accessories,page_view,mobile,2b2dc4248c225ca73416881c0d817a54,25963,teresopolis,RJ
+629,2025-08-13 23:01:14,137f50d5bfbcfb9578c50605cc9adb16,3,2fea0f2cec6b6324a277d4a61c2ed2c6,beleza_saude,health_beauty,search_initiated,tablet,9bc0afc85b2f40c797f96f7911397708,5087,sao paulo,SP
+323,2025-08-09 16:10:00,d1e13322db3b41f98dd85cba72c94820,6,9b2a0b97c2471793b067f77f2252defa,esporte_lazer,sports_leisure,apply_coupon,desktop,813e74db515d69c751cb5e9dc66c7314,5347,sao paulo,SP
+746,2025-08-02 22:48:03,aaf2642dd99945833bc3cd3531fc125e,4,d8c92e2b378d2321b7eb32ba6cf52a66,papelaria,stationery,add_to_cart,mobile,31b0f587f0c7b541c511988575c67cb6,88803,criciuma,SC
+629,2025-08-03 02:22:38,cd9df5080a35c3fd18365602a80f3044,5,0603d2d85bcc46beb11bd247870c4841,cama_mesa_banho,bed_bath_table,remove_from_cart,tablet,83df90c049a8ba9cb243389ad5b8e965,4344,sao paulo,SP
+386,2025-08-02 11:11:57,7b07a86ba7d3c0c53f96bf14ea8ecc1e,3,02706657691ad03bacea6d0d0d69d13d,eletroportateis,small_appliances,search_initiated,desktop,2e1519fbbcdce2a37aa5aa94a9076e75,71250,brasilia,DF
+642,2025-08-12 13:20:22,453b016d1aa90100969032ca4efc7b8d,3,c354569eefd558bf201d0aedf35608ed,cama_mesa_banho,bed_bath_table,search_initiated,tablet,009671b5dc80cdf32aeb5850868ba81c,23032,rio de janeiro,RJ
+372,2025-07-31 06:27:26,702b544f72905c5e25b73bb12fc5abf0,3,317610c6c173aec78923ac272ae9393d,esporte_lazer,sports_leisure,search_initiated,mobile,f5a5fdba09df53572d4af41d3615dbb6,6454,barueri,SP
+405,2025-08-06 23:49:56,33ac5a0d983f8f8905499a9f926086f5,1,d4cec69b52f6c751bc505703037b1808,papelaria,stationery,page_view,mobile,8028fbabf6123c13297c82f4393a4724,1452,sao paulo,SP
+252,2025-08-09 19:20:11,dc17b8c70dee39149c5b8ec131a365e4,5,dbfa741e0e5dfae13c9f023d8b8cbd96,bebes,baby,remove_from_cart,desktop,07bd3d18ecba2420a8934b34a26f157a,37950,sao sebastiao do paraiso,MG
+898,2025-08-06 20:23:53,f6e75fe0c9c3615f87fcc3f535b34864,1,332b3e10a1e54aa72c52f41221eb53ab,cool_stuff,cool_stuff,page_view,tablet,3ccd408859ed809be5a4b53623a4eb2c,93336,novo hamburgo,RS
+560,2025-08-05 06:15:52,5a8e30b97c66494c399c5c17ba6ba940,4,bb1fe952bdc16ef8974d4ca11aec19b7,beleza_saude,health_beauty,add_to_cart,mobile,1ce154c6350c5bfa0b9640586e11a9d7,18550,boituva,SP
+506,2025-08-09 20:54:16,0a0a7db3f0b06e9fd2888ebab0f8a694,1,db49e555273e8f70eac0f18f20919850,fashion_calcados,fashion_shoes,page_view,mobile,ee568389580761e3d6965d5770ff2c00,60332,fortaleza,CE
+709,2025-08-06 02:51:25,5d13d5b488df88681ff37ffcd135b1df,4,348209d205939d7ee8112be3ef9a2002,bebes,baby,add_to_cart,tablet,24058044dcbcb7313582db0305dbe7f4,1210,sao paulo,SP
+665,2025-08-14 15:21:04,0c1095f12f17b8a8814c3b52b94084b8,2,d84e43351df6812fc8bf1c70405fb42e,esporte_lazer,sports_leisure,scroll,desktop,f614398f8fecd0568565d52203c67247,2404,sao paulo,SP
+470,2025-08-10 02:37:36,ff67ab5e872384e9b7cbe4260e1daeeb,5,4a85b07765a341b846c963da0381db96,beleza_saude,health_beauty,remove_from_cart,mobile,a729bdb3e153c28975cb6016ce63409e,22461,rio de janeiro,RJ
+499,2025-08-02 15:58:39,87eccba53579db5563b0588f8943373d,6,75285f54a9546fb99e970a15b52e15b6,esporte_lazer,sports_leisure,apply_coupon,tablet,aca661b86a424c1cbea17d14787d3ce3,18602,botucatu,SP
+707,2025-08-04 18:02:13,ea477083e770db0655938e79149f8c24,3,9ae3dacfd2327107a1e28274fac25a4e,cama_mesa_banho,bed_bath_table,search_initiated,tablet,be03685420bb977861dda08f4b4088b3,17063,bauru,SP
+642,2025-08-02 05:37:23,7890b92d81dc0d0d7325b2cda4cd14a6,1,91d61438eb9c4168814ac58103174e40,telefonia,telephony,page_view,tablet,ddef46cba050fd5946353e6c0db57c69,18601,botucatu,SP
+323,2025-08-09 10:07:31,2fa3f0808b4fc4e1464bfb5bd2229300,1,3c8403a4f7135ffcb0e050a81764088f,cama_mesa_banho,bed_bath_table,page_view,desktop,c582f7d8bdd468701cb419b374e819de,25040,duque de caxias,RJ
+499,2025-08-02 11:06:02,ed98a909fd98395ebe321b80d93bd150,4,ea650c84a7d5aaf2a2c5f1b108de8f7c,telefonia,telephony,add_to_cart,desktop,7c790dfe86d4a5ac3738f55965ada7e9,48280,mata de sao joao,BA
+336,2025-08-02 23:24:02,81d57cbc974b1173a56a8eac72e8c9ee,1,ce3524ed518a9e6ad7c72872ed88e461,telefonia,telephony,page_view,desktop,7cafce5e7504c37c1e9fff36d4eae6a8,36015,juiz de fora,MG
+252,2025-08-12 07:38:29,aee6a4b7dd37206736642224fba0de6e,5,0ee57e62251a7e435b7a3142c1f6aaf4,cool_stuff,cool_stuff,remove_from_cart,tablet,017c477c81dd0f10726f7828f0475c0e,13098,campinas,SP
+758,2025-08-14 16:17:37,2ea4a2c9681e6c070611eab34c72d057,1,0198a991deae439205851e71a7b0bdf7,moveis_decoracao,furniture_decor,page_view,tablet,0d508bb21cf7b5d51c46382a21bf379f,12120,tremembe,SP
+336,2025-08-02 12:21:45,ac15f9cd03259141ac441517ce3a3282,2,efef7693f29ade58f93ae5af15e7fa18,relogios_presentes,watches_gifts,scroll,mobile,d852affba1eb7b0fbb351e17f13cc5f1,7790,cajamar,SP
+470,2025-08-09 22:08:15,c5bfa0cc47e07f8ef82cf6d62f84e13b,1,4a0356df7b44fc692a2dbd9c5a67a1da,utilidades_domesticas,housewares,page_view,desktop,274c7800cda11096f81e2427618f830d,15043,sao jose do rio preto,SP
+997,2025-08-10 04:57:21,70c1a561e4290f2d1551c8a9f5804d4e,2,20a64c9ab614812a2634ebbd69bb4a02,cool_stuff,cool_stuff,scroll,tablet,88f21f18f1c3152b023a22a0f42bdab3,6515,santana de parnaiba,SP
+898,2025-08-09 08:51:25,8098f5c7290a32e67f211defcc47528c,1,dd676d49d051ea143257c1012bc1ee3c,informatica_acessorios,computers_accessories,page_view,desktop,6b7aef98835928c0e5483ff155dfbe59,1415,sao paulo,SP
+927,2025-08-08 01:51:14,611086d2305e396ee944223283d20362,3,635fc0b4d628df01648c6b2624a04b46,moveis_decoracao,furniture_decor,search_initiated,mobile,07688a432e555be9655e83874563bc74,65075,sao luis,MA
+746,2025-08-06 13:31:22,d98d984f06ada593e263ff7cb810d798,2,44989697efa3ceece037c5633ea143d9,automotivo,auto,scroll,mobile,793000c4be1a654272437ec6676b78ff,75400,inhumas,GO
+495,2025-08-11 22:00:32,3b34eb193a790f18c1952eca8a964987,1,cb9650b0b86415106d480099a14b9d6d,beleza_saude,health_beauty,page_view,tablet,afc8f3a11a809a74e5eef0bda1de6b9c,78050,cuiaba,MT
+372,2025-08-05 04:02:40,d8387dc05dc3ef66f65a2a2577d5f87d,1,b694ddbde0943a2ebcaa7bb2777dbf4b,utilidades_domesticas,housewares,page_view,desktop,3e1787c6399d840a6e0fc2def0a8c555,22230,rio de janeiro,RJ
+709,2025-08-08 04:59:30,cea0d06a5bbeed1369f325b19c27fe1b,6,a2981aad285aa55f2b0f5f2e7dadf5a3,esporte_lazer,sports_leisure,apply_coupon,tablet,14fcd8e69b2c3c306aa6187b533f746b,63280,penaforte,CE
+504,2025-08-05 03:58:40,bb16eb9b2572c004cc5eabd905ff5c74,1,6f248e27719f6f299e711e02651b6df6,esporte_lazer,sports_leisure,page_view,desktop,6ac0e68ca06c7a126ba938508ed19f86,2124,sao paulo,SP
+906,2025-08-04 05:12:37,2b134b9db1de9df1353432128c8d29ac,2,28b4eced95a52d9c437a4caf9d311b95,moveis_decoracao,furniture_decor,scroll,mobile,f35d1e92ac21650ca4c034199c8306f7,32604,betim,MG
+933,2025-08-04 08:26:40,3efd90addf25f86498def3d8aed02174,1,12b5c5d13512ad7cae70181fc503f42e,automotivo,auto,page_view,mobile,d64283953b232234dc6a8f6ce12afe6a,18076,sorocaba,SP
+997,2025-08-02 00:57:17,3f093776a4d97894c51992db9ffb1257,2,20c74b29c2264ca5ddce774c34d98dc3,construcao_ferramentas_jardim,costruction_tools_garden,scroll,desktop,138ff1f6d99b817b8af590d49696da7a,20751,rio de janeiro,RJ
+906,2025-08-04 15:38:02,34dc1959beee5ccbddabcbe79132f8b3,6,8047a9de3dd280cc068a2cba4586b91f,utilidades_domesticas,housewares,apply_coupon,mobile,8b9e6aa68f935c6c7bd002db3bf66c30,11704,praia grande,SP
+506,2025-08-13 05:36:49,ef6730de0a87fdb396dd69a4ab4e1c82,3,f20a14d45e85b05ef554d10d7283f7da,telefonia,telephony,search_initiated,mobile,8373e82f64fcf52a4b3fee90eb36af43,21931,rio de janeiro,RJ
+470,2025-08-13 08:02:42,e640eb5ba79e2f38f8cf36c6efac0edf,4,c28d0e4df4c6507137950f31b9bed1dd,construcao_ferramentas_construcao,construction_tools_construction,add_to_cart,tablet,ad56d34bf0f7e41062a7139c26515b37,13088,campinas,SP
+431,2025-08-02 14:24:52,090c54303fddc5393a9386f0ce454d62,1,addc4d1f7d82e1b6c5ba37d6559ac127,automotivo,auto,page_view,tablet,87e23f836bf7853cf7056d6b33ce09f4,13219,jundiai,SP
+991,2025-08-06 08:31:47,8f29ceb9da71dd3cfe7055c0c1fb7e7d,1,41efcebbf66be85fb74f7116bda2207d,automotivo,auto,page_view,tablet,8c43cf5ae5937637f807e5b34395a533,11750,peruibe,SP
+901,2025-08-14 12:10:20,db4581146aade4093e4c420024427dec,4,e71404b6fc3b275b7274ce772794a914,esporte_lazer,sports_leisure,add_to_cart,desktop,0b23378bea989bff6f5be704caeff912,33600,pedro leopoldo,MG
+906,2025-08-06 22:08:27,e0e0a604825249d7ae9ffacf34133135,3,86b5eb8613c4a7bbeaedb2fa28e0a6c1,brinquedos,toys,search_initiated,desktop,a836949b8cf583b1868d8d7ea4ca1614,90670,porto alegre,RS
+499,2025-08-11 03:18:11,bc5c23727d81fee31942495ddecec14d,2,e25503c7eef89bea2baa2f73beb8883b,utilidades_domesticas,housewares,scroll,desktop,93ce42779f1b4ef4a6329e31960d3d5a,88075,florianopolis,SC
+470,2025-07-31 02:17:21,d3e077372d87af3cb6f307c26855e2c4,2,2115a2dcb35d50b3726fbd24ab04aaa1,papelaria,stationery,scroll,desktop,0f6cfb0782cddcd76df38657c69dbb4b,14400,franca,SP
+805,2025-08-14 00:54:20,aa743174847b78266e47461b8bcd1bb5,6,8dfef1eace74e64779b2b82720cf9297,brinquedos,toys,apply_coupon,tablet,b91103208abd5c826bd0bc26ec99c1a2,95572,mampituba,RS
+355,2025-08-04 20:16:45,76525f0c94f889d91e4335fae56eaaaf,1,5d0386961a44323a9772e63672317131,esporte_lazer,sports_leisure,page_view,mobile,02e9109b7e0a985108b43e573b6afb23,4902,sao paulo,SP
+823,2025-08-07 06:30:43,325b358f012b5d274e0a3ef34a351f55,1,5dd661de5faff6a71b571602a8090e93,construcao_ferramentas_construcao,construction_tools_construction,page_view,tablet,8ee891b2d6dd0f6d8c05863038d99cfb,3131,sao paulo,SP
+707,2025-08-10 12:41:00,e98b542a840352aaf7d87f7d9f15f24a,4,1444bc50e2165224458beb85d5542beb,beleza_saude,health_beauty,add_to_cart,mobile,ba877bd20f4fc0198b9627ec48ed01a8,9280,santo andre,SP
+441,2025-07-31 07:30:55,311ca9f3c832a4e9b14093cf3c9ac98b,1,f034637ce06bb3a527488a37a59e522d,relogios_presentes,watches_gifts,page_view,tablet,abca17a50929e00d09e56810f3f09274,37504,itajuba,MG
+989,2025-08-04 01:35:30,70814f917907de02bf3b0803dd173782,1,4d7bb00ae05b63575484f113503baf21,casa_construcao,home_construction,page_view,tablet,a7b692898d3828ce34e905a4356faa05,4912,sao paulo,SP
+631,2025-08-01 01:30:32,e5e1d1173b32986df5c489e8f192b6c2,1,2020db9c389956e879dd05e6250413d8,malas_acessorios,luggage_accessories,page_view,mobile,09ade7f71421811e0f29b115713ed463,25065,duque de caxias,RJ
+889,2025-08-02 18:13:46,53c22abafe0ae32720fac7aff5c9309b,3,223d34a3d9334039f5ff9511dc044bbb,telefonia,telephony,search_initiated,mobile,7c3de819c5c8202f72ba56ff8f51ae39,24120,niteroi,RJ
+642,2025-08-07 17:39:08,9df082314a3267c298bfc605619007f9,1,a9568a13a4077638b75b8a64bc4818bc,relogios_presentes,watches_gifts,page_view,desktop,341056b65403009c5bc8c4b1f16c7230,93224,sapucaia do sul,RS
+989,2025-08-10 20:14:58,00eb2bf26ade27447b6532561c6a402d,2,d076ce587de2ab3cb36f6c34f5ec1c8c,moveis_sala,furniture_living_room,scroll,tablet,cc320e08bc9bc1b0a30e551d1de1e26d,5037,sao paulo,SP
+735,2025-08-11 23:14:03,cc24ed2ed67ceb1f6d4878edeea3aae8,1,a5ae8400fc9fcacd4af585a57bbf264a,pet_shop,pet_shop,page_view,tablet,966f8a8d003e2fec8c00e7bfc1e117ac,4278,sao paulo,SP
+478,2025-07-31 17:19:45,cd40968134f4910e8a0b772a0012154d,4,4e7f36f28c51e114a343625b628dd429,cool_stuff,cool_stuff,add_to_cart,desktop,bf6d0f7af96584b82e351bb127574eab,23030,rio de janeiro,RJ
+933,2025-08-13 10:02:17,36478c0e016a642d15a5dffc20b56c4c,2,a6690024de846637eee71e11fdbd95fa,esporte_lazer,sports_leisure,scroll,tablet,29fe179165945d637a964a545d74bd4c,12225,sao jose dos campos,SP
+470,2025-07-31 00:15:59,46c370da1eb308908760b4b8e7a34675,1,29a0f402bfb08e1e4602102eea060d04,cama_mesa_banho,bed_bath_table,page_view,mobile,56f79e7fa10370a6acc1f70e805b6cc6,11700,praia grande,SP
+889,2025-08-12 09:41:03,9a4df08b3ba855822a7d5e8c8a4c4f9f,1,6513f1270c9ff1de6da7c745ae2910ae,brinquedos,toys,page_view,tablet,3a74b8f2bb21642f3d1a27e612ce0856,35588,arcos,MG
+889,2025-08-02 06:15:49,d67a578455299dcc8de18bdce1a70aa4,1,3ada827a3b82590816ffa9741fa4bd03,moveis_decoracao,furniture_decor,page_view,tablet,06228f2a5c6b8d5b97c9dde4c675f086,13052,campinas,SP
+707,2025-08-10 22:38:32,ca835197242b6040a4ed36cf08916754,1,8dc0c7343c861029f0455cf20b0c19c0,cama_mesa_banho,bed_bath_table,page_view,mobile,e16d7091d21232b86422f61683e8024a,32675,betim,MG
+901,2025-08-08 07:05:14,c2e64d930487075593367a1ea29645aa,3,c0874e1265b2428abc4d213e9fa6beb3,beleza_saude,health_beauty,search_initiated,mobile,cc14ea7099959d91a17c9d7c3a46721d,29903,linhares,ES
+889,2025-08-11 17:42:49,94ac0b7d1d98d01b218caf186fb00d1a,1,791ca2a1ab6775e9c7e950de10febc1e,moveis_decoracao,furniture_decor,page_view,desktop,80be5593177c5863d92b84a8b3e2361e,9760,sao bernardo do campo,SP
+746,2025-08-13 13:22:23,f51670c66e7e928844fc66261ed1b91b,2,c656d2d3950c3165ec6574f3f6b9353e,brinquedos,toys,scroll,tablet,4ddf25b85103aa90e4e53f275db83285,15035,sao jose do rio preto,SP
+642,2025-08-13 04:12:58,0f7539c4d9c543cf35febd8ff67fd159,4,a5bb3dccb1334216320e482f44fd428b,esporte_lazer,sports_leisure,add_to_cart,desktop,27e262a272612013c7defb6b9e86c884,28860,casimiro de abreu,RJ
+997,2025-08-13 11:30:05,510b491c7782d235d7eb8c68178dfeab,6,0127db1f4effcf8f5b88d80588bc5624,relogios_presentes,watches_gifts,apply_coupon,tablet,1fed83cc5a2835d406f832dbf55125ca,22051,rio de janeiro,RJ
+405,2025-08-07 11:11:58,a7361cef18d3fa0382cf9b7179c7de30,1,bf2f8efdd119b43056e1355c46119f04,cama_mesa_banho,bed_bath_table,page_view,tablet,be3a69b6de0ec97f56118547394770dd,4815,sao paulo,SP
+878,2025-08-10 01:44:03,0855edaada8d5aeef50b56f26e604932,2,6eda94acf0ad08a1bb12f10aef74767d,eletroportateis,small_appliances,scroll,mobile,429fbed971f52697e9bd392d94787bc7,65072,sao luis,MA
+997,2025-08-14 15:12:07,e84b9343c4d7f0ff33f48ef21b9dc45b,1,5c61329e1b7e18310bbc294c17cd47bb,brinquedos,toys,page_view,mobile,75f129431d530c554cefb23cf1293d92,20735,rio de janeiro,RJ
+506,2025-08-03 16:06:55,8c3fb712bb2e85992047b1f11ea332e1,1,61d83b8d80a61b5fd688471b5b273b5f,perfumaria,perfumery,page_view,mobile,0fb4497f568fe7c3859c3c43d6be7277,30690,belo horizonte,MG
+405,2025-08-05 02:55:51,9d5eb4a7ada5ec00a0fe29ab80e194f5,1,15b3d40f375c0645c1eed4ed1cd8e17a,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,tablet,c2df85534137458f2c152f78895edb95,31030,belo horizonte,MG
+631,2025-08-02 11:14:37,4dd4a2d0b9d48ac685633e0fd8a89f06,1,141807ad4a13efebac9bbd9609137182,artes,art,page_view,desktop,c0d831f9bbb3ed3648e0dc0a21b3e48c,72710,brasilia,DF
+997,2025-08-04 20:52:49,f1d702f7f5dfd71800d4557053a100ae,1,5861217c6b00a886e28a101167dbb1e1,utilidades_domesticas,housewares,page_view,desktop,3932c5f51186189f8f28f15837d6129e,79010,campo grande,MS
+631,2025-08-07 12:00:47,93868f1b95f724d239389b3bb1eca24d,6,9e4d5a527ce5c7b4fd84f460c035c3c5,moveis_decoracao,furniture_decor,apply_coupon,tablet,d31c97aa3ad392c8e38ec211d41f5510,20735,rio de janeiro,RJ
+746,2025-08-10 17:16:05,3f8859a917d15a0ea9b7677e585d9271,2,6e893462529821f68777de295cd56d70,instrumentos_musicais,musical_instruments,scroll,mobile,5e6de9c0bac6cbbf51f2b28d567756ef,15040,sao jose do rio preto,SP
+323,2025-08-07 15:08:59,85d7e15edebcc92f98e52c8b48a159a3,1,3224c13472391d58f101518203e145f9,cool_stuff,cool_stuff,page_view,tablet,df1ed839c833445f1627ac20420e2aa2,11440,guaruja,SP
+629,2025-08-08 12:01:14,34e96035e861054d0816e2168ee210c5,2,bd9117f40900499b0f14a2c3389f831d,esporte_lazer,sports_leisure,scroll,tablet,3dfad6d85caf27ac5606ef87fe4afc22,85610,renascenca,PR
+336,2025-08-04 05:24:10,987c969d893ae9713001643cbe08fe88,1,bb09e8007aff97a9452967b19430cf53,utilidades_domesticas,housewares,page_view,tablet,2909eb21d741a76b2232969b48090396,83075,sao jose dos pinhais,PR
+336,2025-08-11 11:15:54,a63e6d9ad4758e94c0aa0d3611efc569,2,3bbc659a6c046bc03d8285cacb9e68f9,cama_mesa_banho,bed_bath_table,scroll,tablet,1f2c5059dad2c277b3b338163b49ca73,17360,torrinha,SP
+642,2025-08-06 01:42:51,cd943f34343cbbbbe4ca1219e227ae47,3,2084a7e9b0fac4aca4265ccd0240bd0d,moveis_decoracao,furniture_decor,search_initiated,desktop,3cf46afc066aa5bb5235f80619224056,65076,sao luis,MA
+994,2025-07-31 09:33:14,443f70a83cedbee25cb20bffaa9b275a,3,2ea8ec61f4c1078cdf7b1df620135059,fashion_calcados,fashion_shoes,search_initiated,tablet,6f2013debda201c8ffa9b4a783ef1622,2998,sao paulo,SP
+838,2025-08-12 19:25:45,197b426cedb5936cdb34c7ac176d58b9,2,0926524e4f3783f1b0e35c09d5fe13cd,beleza_saude,health_beauty,scroll,desktop,49edba1328b35f23bd65375cf625b546,81920,curitiba,PR
+336,2025-08-09 18:31:13,eb9d631f30d0dccddc0bd1e9fafdeb95,1,7b32b1b87594b60dced8abb4531d2986,telefonia,telephony,page_view,mobile,2ad1d56eabc0a121c250f111aae5e5c5,13414,piracicaba,SP
+454,2025-08-02 06:11:50,310c955156a6bd3565e12e49c4d2444c,4,2b4280ae2d10eefdff9b5e1b1a9ebf53,relogios_presentes,watches_gifts,add_to_cart,desktop,88e3d3541666f7f462d24e9aadeb5ecd,6705,cotia,SP
+889,2025-08-12 10:11:29,e9668d96ce074626f31507fcd00213e7,2,b75bc6d95abd11862892008658b17f49,utilidades_domesticas,housewares,scroll,mobile,bb8301515a08756fc7785fc57e713feb,7060,guarulhos,SP
+805,2025-08-10 18:46:05,8832232b097dba67d540a76f6ba88795,1,80728f3330e40b60b5ebfa9c6f740b8c,cama_mesa_banho,bed_bath_table,page_view,mobile,c0d9dda253199c2d4d3a2a255b77e517,74823,goiania,GO
+933,2025-08-10 08:18:58,c561230659c12a017bdb3a60786bc97a,1,fd55ab8af788f6bba621cd37a8701889,esporte_lazer,sports_leisure,page_view,desktop,7e18751f9a1a9c1b28daa5f4bad5d162,4940,sao paulo,SP
+454,2025-08-01 09:45:56,c04e5815b1b55566ca94507f0540bb2b,2,9393358ebcb4f182f4e42d0c3b863cea,bebes,baby,scroll,tablet,047349583aacc952cfd041dcd3c1ba1a,6844,embu,SP
+898,2025-08-07 03:26:36,6e660ca85210c89e215463852d16f236,4,1a2a204d5ef11c75f78d34ab0456c9ed,livros_tecnicos,books_technical,add_to_cart,mobile,c930602fc2e14c47e0939aa7a88f3740,44021,feira de santana,BA
+372,2025-08-10 08:42:39,3bf65193b71f8b81fcf6167cfc13df20,1,2215034e518b8ae4090da2aebf8f7df8,papelaria,stationery,page_view,desktop,103fae9c95f5c4d4fd7a3b7a277b527a,98280,panambi,RS
+642,2025-08-06 21:06:28,a9d6d93225edcd259f4cd5e10d5ef656,1,4228398e19ac96e84e14924449bac556,brinquedos,toys,page_view,desktop,71c345d302ee36858bddf6299d7aaa12,12243,sao jose dos campos,SP
+823,2025-08-10 16:31:40,0a3be6888566894976245d7cb56c0235,3,5302215c46b3b1e3824060964c170159,esporte_lazer,sports_leisure,search_initiated,desktop,2ec230304bd21a8c64339ea68945437c,37150,carmo do rio claro,MG
+901,2025-08-11 11:33:00,ad0d3c49b144627644b8e067ddeaffb4,1,a22308fa06c519ecab4687f713c225a9,utilidades_domesticas,housewares,page_view,desktop,1447cdf970b1a1697ec349576d85e2bf,58600,santa luzia,PB
+889,2025-08-10 07:00:50,e56ffe8318ebaa8e036399ca8809f975,2,d7474b7ea7868cefdb2dba4e92345505,brinquedos,toys,scroll,mobile,5f9d77dafcb64af05b5098aed0d3efbf,2317,sao paulo,SP
+838,2025-08-04 01:55:01,a8a72553d270066753aae3e20a8d035f,4,6b0894fbd8143c541f3c40622d8a9603,ferramentas_jardim,garden_tools,add_to_cart,tablet,814d12af84beb46ade17b81e5a01a38c,20211,rio de janeiro,RJ
+405,2025-08-02 18:07:54,0c5292f5e3690805390efddf53935915,2,35b9e8c317cea9e313573fe8cd9af9a2,relogios_presentes,watches_gifts,scroll,desktop,59d66d72939bc9497e19d89c61a96d5f,2435,sao paulo,SP
+631,2025-08-04 07:54:37,ed34da9abb1d9f7a8d64d9204d8a9ee7,2,8ea331107c7373a412b73374be7c6736,perfumaria,perfumery,scroll,desktop,3ad67b047caa5bfbc18a42406c862220,1544,sao paulo,SP
+927,2025-08-05 10:00:58,df3647cd1abeadb6a0fe143deb1b8cd2,2,c348450d15a924d32e7f9b0dd91ca938,bebes,baby,scroll,desktop,07d980dc24f39e66a3398573341d8820,2226,sao paulo,SP
+889,2025-08-13 10:33:37,21906853307eab2fb1743556a919e9bd,2,310fb273d383efab30a7599552f3bfe8,moveis_escritorio,office_furniture,scroll,desktop,89be91f6d069773a65226b2773313752,83601,campo largo,PR
+802,2025-08-14 20:15:39,073c25ebd966a952d38da1dbbb1f4227,1,e724a0cc4252ae8385e3b66944b6a3ea,automotivo,auto,page_view,mobile,39104edef5e46d7b8c61848cc95e6d97,8694,suzano,SP
+758,2025-08-07 15:47:25,624d88e25a8f2d2810512b5789a746a6,1,766be6c33b2024c3e45a2a9bb706f718,esporte_lazer,sports_leisure,page_view,tablet,2b18fa6313971489a081a55d1bcb95fd,12315,jacarei,SP
+898,2025-08-02 19:35:23,93812989241fc83d407dd007dafc8f3b,5,38f0c2769dec3744c8cbe008650383c9,telefonia,telephony,remove_from_cart,tablet,247b0807f08c4c693fb7f2bf229b70fb,70754,brasilia,DF
+878,2025-08-07 05:57:12,cd0549937dd2e79fb141bf699fe2884c,2,884b444b6ef19272ab3adf358afcc921,cool_stuff,cool_stuff,scroll,mobile,4b934f9a99d1695c32d82e0eb521a101,27333,barra mansa,RJ
+431,2025-08-10 22:34:02,26c149bebd475a62be04365d6c2064fa,1,18d307d967bbf1300aa00b34f34c374c,beleza_saude,health_beauty,page_view,desktop,c00e5d6ffcfb689b08d7e34eeb97ebc5,29705,colatina,ES
+506,2025-08-11 09:32:44,355a3acbbb6e562f2221b26de02308de,1,28ef7ba5765422d40274d5ebeac97c9b,cama_mesa_banho,bed_bath_table,page_view,mobile,31ea38714274af619a3a0f6a152d2eac,32180,contagem,MG
+504,2025-08-14 00:10:08,c81f68a90b18cfb4921d0e55c30a9f49,2,c8eb5b2d7173db25ec9bfc54dcb4ccbb,bebes,baby,scroll,mobile,ef842dbc1d074b0cb9da91b005abb8e3,6416,barueri,SP
+927,2025-08-03 23:03:05,9cfe17d7f310c898ff790dc592d005e1,1,a11998d0de02ca907c060119dabe8ead,utilidades_domesticas,housewares,page_view,mobile,3d20f9eb3b573ac7c42e3888c339467f,17490,piratininga,SP
+994,2025-08-04 01:40:35,3a10ca9fdb3b43cecc4b8e24f9759e20,2,6777865be5ee937f7deb9c390e9d920f,moveis_decoracao,furniture_decor,scroll,tablet,87c8862d8281c68f56ca235fd93fd0a9,79980,mundo novo,MS
+405,2025-07-31 13:15:20,72ab52080f9c06be2905b77f1c3f0c3f,4,6d6a3d7c546173af704995f09e1edc58,moveis_sala,furniture_living_room,add_to_cart,tablet,6094c28588d2bfbbb7bbf30c89f12f97,5416,sao paulo,SP
+386,2025-08-10 03:57:27,ac5baec50a0a561a000ed259814803cb,5,0896208dd8490b3dbb75344a92ab4106,cama_mesa_banho,bed_bath_table,remove_from_cart,mobile,08166f338dfe33955d8de821ad099e5a,14200,sao simao,SP
+991,2025-08-10 18:50:50,77ab80500d906d9fc81caaf623090c80,2,8eda2f0e6d437afc08f71ac4b3b380a4,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,desktop,18a96282a43739cad398f66152230450,4013,sao paulo,SP
+495,2025-08-13 10:54:46,7955dc8ce73a68fe390f4e5c54e855ba,4,4f27f0b527bb700ed8541270356a38f3,esporte_lazer,sports_leisure,add_to_cart,mobile,03dcb7b1479590ad3188549f8ebfa66e,99713,erechim,RS
+997,2025-08-14 04:27:10,094cafa0ff204c7f367f840ba94209a8,2,b883409932bf862f43008f116a06cda5,construcao_ferramentas_construcao,construction_tools_construction,scroll,desktop,82e1a1e7c48fe142617f3cff6c5bfef3,35960,santa barbara,MG
+707,2025-08-14 22:57:05,1458a88f3713f047a6d4a23a8ee0f3e5,4,c7e02747ef9366a4fb7f4ac4fd261c36,informatica_acessorios,computers_accessories,add_to_cart,mobile,4ea3dd6fbcdc60a8ac2ee17617df1955,22733,rio de janeiro,RJ
+631,2025-08-07 09:08:25,e49c19b5e8d487509f25220e02c9b2eb,2,0f2550707d4df66cbd9937420497ee8b,utilidades_domesticas,housewares,scroll,tablet,7e410d1a869ec40ee1b4b9afe6364de8,13920,pedreira,SP
+878,2025-08-14 04:19:48,d3ed2c4491a68c9acf08dd0595ae057f,2,c2d1e60e4deda24940c8039c99f08bbf,eletronicos,electronics,scroll,tablet,f43f9cbf9193975d73ad27716f2c0506,7713,caieiras,SP
+504,2025-08-08 15:05:18,22acdc5a401b5ccb535fb27cfa9cfffe,3,701381eb0d8b3d7b33e0892adc8b0172,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,tablet,dd473d247facd88bb1d5a4816b99c7b1,5017,sao paulo,SP
+631,2025-08-08 08:23:29,e137e57001df5ee4d2cb03d56139f2b4,1,84c79830527ae823029ee6b904cf948c,construcao_ferramentas_jardim,costruction_tools_garden,page_view,tablet,5f1e5036481a6e6cecde27f3f762bb7d,28030,campos dos goytacazes,RJ
+478,2025-08-12 05:27:30,c608f7336568970b364efe2928979019,2,23318fc7dadffdde2b4ebf8dadefcf68,moveis_sala,furniture_living_room,scroll,mobile,3f66d7e007ef728aa55bbf88f8c55034,89990,sao lourenco do oeste,SC
+372,2025-08-13 14:51:18,b48a7fbccbe678a096c4639b103a9af9,3,b952d6773e9a3a9b86c9faded9ec3c86,informatica_acessorios,computers_accessories,search_initiated,mobile,e75759502bead797744232e0ced3c0d4,13304,itu,SP
+499,2025-08-07 01:12:11,2ea8bb2930217f9907af50f779f18386,5,a0ff95d002b9e836b60b47e97a200f93,casa_construcao,home_construction,remove_from_cart,mobile,3fa92e145b040515fc173a120cf81304,74922,aparecida de goiania,GO
+629,2025-08-04 21:42:39,1fdc27be5c31f3a14982e372b4780dd2,4,81d3e576c988a53ef6a2e4d0baaa18e2,moveis_decoracao,furniture_decor,add_to_cart,mobile,beefb5d83e14244b519bd61fc25c112f,19907,ourinhos,SP
+927,2025-08-09 06:43:02,4577619d76b693fe937e457ac8e482f6,3,9af9fb5e25c1c09f035e01b7936f6c6e,bebes,baby,search_initiated,tablet,dd2d3e7151277804b1da3a8d7d67bdcf,89700,concordia,SC
+642,2025-08-01 19:52:16,1dd772d0efe564f57a787c82c5fcdd87,6,b973581b7ad538c460edbf9378b173ad,beleza_saude,health_beauty,apply_coupon,desktop,be910850e16a07b8ef89bce483e5600b,23936,angra dos reis,RJ
+933,2025-08-09 20:35:48,8165ad99aa3f293fd8c487e18e8c1d68,1,d39d1b0a696aa782911206ec3c023ab1,livros_tecnicos,books_technical,page_view,desktop,50ac16a2d87e6ab7fb5d9db91764e5bd,17017,bauru,SP
+642,2025-08-07 15:39:06,5d6ba9a28eb4cd87b8c65cc995850296,2,7934d547a892c625b8f469a2242961c3,informatica_acessorios,computers_accessories,scroll,tablet,6cad2595071b142d5f90563f43558cc9,2862,sao paulo,SP
+336,2025-07-31 19:19:20,07ffa8096f295bac24527f1364530297,2,1e7645125a016e28f2546c914d8e32bf,informatica_acessorios,computers_accessories,scroll,tablet,1372bab98f9966bcd4a6fa3e6df6dde8,4104,sao paulo,SP
+642,2025-08-13 19:11:08,8f255887fe8b85c220e25b63ccd30a06,2,599dc392f7a23273471b068d72408224,informatica_acessorios,computers_accessories,scroll,mobile,cd6dfb23b4b61776cbf3ab819b69c108,2333,sao paulo,SP
+405,2025-08-02 21:38:16,549d18cce1fd46ab0ed45a76cab1f23f,1,eeba3ee5aa7d1d571752248eb4c81c20,moveis_decoracao,furniture_decor,page_view,mobile,f3d0fea0d8a92efd77eb11feaa53a151,38411,uberlandia,MG
+431,2025-07-31 23:29:02,a6f116c3fec7399c4e0d473c73a3eecd,4,2a2d22ae30e026f1893083c8405ca522,cama_mesa_banho,bed_bath_table,add_to_cart,tablet,a328c9e8403f344c058b8ea18826ea06,95680,canela,RS
+927,2025-08-02 17:45:45,b40e8b8ffd7f8005f3b655ed36676f87,2,a638c3e5a768a4bdec5ef22363011a49,informatica_acessorios,computers_accessories,scroll,desktop,c16477b98b39807fd1a78ad4f33f6207,13150,cosmopolis,SP
+933,2025-08-10 21:22:27,c87bdfa527f494e256901a8eaf082ec2,2,e83e378e0d9201ebc31bbf3ceb57f9fe,automotivo,auto,scroll,tablet,70af4c53ef8785a916deae4611f1ad24,89610,herval d'oeste,SC
+802,2025-08-05 21:08:54,7181fcde3f0ce4dc47a9d1c64ed15b3b,1,a49969155f3a64afc931fd281444b2b6,automotivo,auto,page_view,tablet,6ee9dd7a3a539c1ae0b9ee5c9a29961c,89770,seara,SC
+927,2025-08-01 01:46:51,73914591b886a40daeaff8ff1bed45f6,3,078a6c96f58d2261cc4241dc9907b143,informatica_acessorios,computers_accessories,search_initiated,tablet,57953ff2a999a79ace45303decbc6245,9240,santo andre,SP
+997,2025-08-12 16:38:29,daf0a508037d7f807f72808b1d720a40,2,9680867d27bf4f20ac82adbe4dbae9ec,beleza_saude,health_beauty,scroll,tablet,f791bb72858d19fd93fffcf98e6920b3,4564,sao paulo,SP
+629,2025-08-07 11:02:47,49c38c2dbdb7f2357b97af94661d1956,4,2433506ade95efcd559a351c7bc682a0,automotivo,auto,add_to_cart,desktop,47e8ef9d4dbc59ab98422f3a07f6865a,25964,teresopolis,RJ
+805,2025-08-05 09:31:10,46892c9ab706c93de01025d07b029234,1,f6fe388c9bfc145a2790437f1e4888d9,fashion_roupa_masculina,fashion_male_clothing,page_view,desktop,f3b1b8e7f16598ac61071071cc3203a3,5026,sao paulo,SP
+478,2025-08-07 22:30:27,57458ec5d4b1bcb40817a87cd407898f,1,0eda670810c42c5fcf92ca8be2a615a9,esporte_lazer,sports_leisure,page_view,desktop,e2226f481eef03f2876d1a27f0f4b1b0,11030,santos,SP
+735,2025-08-08 22:41:54,437a11fac2c2620588bd20096cd7051e,5,bb95985d24346356f988502bec69af0a,esporte_lazer,sports_leisure,remove_from_cart,mobile,3bca31228f5a4aaf4cf61d28bf38a390,71745,brasilia,DF
+838,2025-08-11 13:58:45,cc6a4635d81132a30bd989836fe9ff82,3,4a9947ec1fcec2b3321193ed5590e8cb,relogios_presentes,watches_gifts,search_initiated,desktop,e66926d000cad7d9ecc9c5f28537741e,38408,uberlandia,MG
+560,2025-08-11 05:10:13,7d9da42e2199a286266a8084af43ba85,3,e2e9a22be498ad23b97170cbc20c477c,automotivo,auto,search_initiated,tablet,88047d4db0593446a2c4cb780d3378e6,15170,tanabi,SP
+927,2025-08-07 05:03:50,ef5e03b25d6991bbbcf88c60e6214151,2,e3ecd1ee80239ece6f0cf6e93664933a,papelaria,stationery,scroll,tablet,d83257348027bd8c59a228cc034de5e3,14790,guaira,SP
+707,2025-08-09 18:01:46,054bd8842309379cd9f34431efde1239,1,0f0c4960b05d6145bbb4b348423503ef,eletronicos,electronics,page_view,tablet,bac1f311e403ffbccc91a3faa105a936,5019,sao paulo,SP
+495,2025-08-04 03:58:54,4f978374abb33989ebf04cf91a6d10da,1,397192d59d6294262d63b01e93b3d4dd,pet_shop,pet_shop,page_view,desktop,2b1c17f524720a484f86dcb7d454edef,92010,canoas,RS
+758,2025-08-01 08:37:02,2840826c1d92fe0b6c3e79a4a68bff3e,3,83ad269665a5be4f1e69a2f13ab39553,pet_shop,pet_shop,search_initiated,desktop,75cf2bb379c9454396cfe90a80e6e184,25046,duque de caxias,RJ
+470,2025-08-08 22:57:53,ae5ff20a1d69718fe7d1386408013ee3,1,3eab174ff708dddf896f165e766d1b54,sinalizacao_e_seguranca,signaling_and_security,page_view,desktop,c0435bc209d7d2b2b8b15a88ee101950,66035,belem,PA
+898,2025-08-14 21:13:31,d6d96f27f24d818b943983695aa74ce8,3,29af47aaefb3a7a8bc5b00d008cdba89,relogios_presentes,watches_gifts,search_initiated,mobile,5a99dae4c9606abe29dc96573cdf9356,77820,araguaina,TO
+441,2025-08-13 20:58:58,35b76a23094463a80bd6f5ad1f2eb8d8,6,f110a8fd4a8052d5717ce2adc2bb71d0,esporte_lazer,sports_leisure,apply_coupon,tablet,271914a49066332869b3cd825b956f37,55004,caruaru,PE
+506,2025-07-31 07:43:39,954044bfd6fb537969f65fb21750ae1d,3,8ec2a1c69db7506fca148836e2d0a3e0,bebes,baby,search_initiated,desktop,fa74ed50f1a843f0316b5c75666b076e,20271,rio de janeiro,RJ
+478,2025-08-04 03:49:52,b52548625e32de3e7e0dca735663ec8b,1,fb31d5d2acd4bf37057330c1a96af712,automotivo,auto,page_view,desktop,f8bc1d81f395f6239a2a5ab1b9edf1ab,30130,belo horizonte,MG
+733,2025-08-09 06:17:29,782814abe8d16073509294a1de1ffe0d,1,4bdcd91fcab0b7401865fa7d7f916253,ferramentas_jardim,garden_tools,page_view,mobile,220c1e6683112e6fdc33ecf766135118,72150,brasilia,DF
+898,2025-08-08 14:57:34,4a0a9ff7be23502c8356f3b5fbf5472c,1,68bec1af3851f58027db8beadf3914d7,informatica_acessorios,computers_accessories,page_view,tablet,1131d0d5f1d88abc31671dc4d50371df,37200,lavras,MG
+336,2025-08-14 06:55:51,17d871c2a8aaebdb6d8b7dc48398afae,1,baf13e0439b20cf7b30c07d3657f8145,bebes,baby,page_view,tablet,e85cead1b63c9aafe00a0b0d4238d26e,38701,patos de minas,MG
+470,2025-08-01 06:58:15,1f567c8732fb5317d6ce391624d34cb2,1,0be701e03657109a8a4d5168122777fb,esporte_lazer,sports_leisure,page_view,tablet,3556987e5b22d5372214fb48fc9fe02a,13495,iracemapolis,SP
+470,2025-08-14 07:41:51,b16914f7da3bcb393356ec5a35d59a51,2,09b2a4f1ce3561a6562ffdccc0ca7c18,ferramentas_jardim,garden_tools,scroll,mobile,7babc7fa23c90c950ab4a919f1d4c00e,12285,cacapava,SP
+252,2025-08-05 12:12:01,947f2ec0cfa373eb779979b222e09b5c,2,bdca5879b3afce0e138e71a68ad26d04,cama_mesa_banho,bed_bath_table,scroll,mobile,b6216e2929abf9261e14d2e40f9a4d17,9195,santo andre,SP
+506,2025-08-02 15:54:33,b815bc9e9f6b9713dbaa7f27c5b1bab1,2,2052b3c5e08893e567c2fb7778476c75,informatica_acessorios,computers_accessories,scroll,desktop,53defe9adcb049a5e1001f9d333e3710,40105,salvador,BA
+506,2025-07-31 10:21:04,c41ad6dff0d077fd45ac8549be56f557,1,24cedfce5dc5fe3e0695de06ee56d9c5,ferramentas_jardim,garden_tools,page_view,tablet,765622c306877776bbb4cc8fddee37f2,31330,belo horizonte,MG
+506,2025-08-04 07:41:20,fc1091e859ef2296d4b36e5d31e554bc,1,2c3dfe5b09e660349378f30d628d70bb,construcao_ferramentas_construcao,construction_tools_construction,page_view,tablet,098c1087368788918c5ff9f2dfa4c9c6,95185,carlos barbosa,RS
+933,2025-08-06 13:15:51,7b2263dae41524e8a4b5ba0f101c4ddd,3,cf0cc04c3744454b3bfca288d96e959b,esporte_lazer,sports_leisure,search_initiated,tablet,ae2a13be52ea5fee673fb7f720e856a0,31814,belo horizonte,MG
+419,2025-08-13 01:20:35,7bef0b4674da88edebc39071240600b4,1,2d4500a3d35334916c955b3c365dbefe,eletroportateis,small_appliances,page_view,mobile,f13d52604bb35cd3e253bee5b28a4386,58220,bananeiras,PB
+478,2025-07-31 00:24:36,00459c4eb23e40414ca067d06fa303d4,4,60a8d8f0434c4531bf310eebf9f19cfe,cama_mesa_banho,bed_bath_table,add_to_cart,tablet,96d0aa18ee946b81f6b78e07830194a2,78008,cuiaba,MT
+758,2025-07-31 16:51:09,1d6a944bceeba3cdb4ad7a1fe2938fd4,1,6a6ac21bea0794ba578bd5614699dcf3,perfumaria,perfumery,page_view,tablet,86bad679b2105392469601cac375740d,98803,santo angelo,RS
+495,2025-08-01 15:52:15,a459383f702f0417d0d65fff9945aac1,3,e57eb018e37376580079825eb29a3419,relogios_presentes,watches_gifts,search_initiated,tablet,9d2ce111f0f71e84ff66d19cca09dd5b,27281,volta redonda,RJ
+642,2025-08-08 23:31:02,ed2e8a4ffe0c5bd8a2033bbfac325641,3,537148287359f3f816095b3bfc368130,cama_mesa_banho,bed_bath_table,search_initiated,mobile,64dae5543aea0656485fb67a49bb5e44,36301,sao joao del rei,MG
+499,2025-08-05 14:37:38,7d0ff11552c535ce8179ab49b5f0838b,4,0a9c1eb587d41f043827b05a8b02070a,esporte_lazer,sports_leisure,add_to_cart,tablet,b2d1929493cdc221883eba2f1deef82a,9571,sao caetano do sul,SP
+252,2025-07-31 02:09:25,cf826be53b1fe4a39bc33c7f5f827835,1,357a9e8a4b691ffbb0f855b23d490c4e,utilidades_domesticas,housewares,page_view,tablet,d92462d83762d5e5c112bccc344119e6,65940,grajau,MA
+478,2025-08-07 04:34:11,bf1467eac502b1bff6e73858d11b8302,5,e2b02dadb01104e3f9f588311b3f2612,informatica_acessorios,computers_accessories,remove_from_cart,mobile,d729f7285136c50ecee9c2e2f25df6cc,16300,penapolis,SP
+758,2025-08-13 11:07:16,ce0ceb45fe0c526c8b6959f36131687f,4,4df66ac9aab3086c57a1cc409b06fed6,eletrodomesticos,home_appliances,add_to_cart,tablet,dc9844b33771e435cb001b30ae742573,9540,sao caetano do sul,SP
+933,2025-08-03 02:19:45,8d43602a38aad2e3712856431d9c2f69,3,f20ecbadee5c21ee0f8b35381c49f267,moveis_decoracao,furniture_decor,search_initiated,tablet,d2f86e7867ceb0f4054333653490ea33,31842,belo horizonte,MG
+989,2025-08-06 22:14:05,5e3d32f8eaca4f6c9dccef909ed73e4e,2,8d991c2f0c5075b7a88c07d1453ac80f,utilidades_domesticas,housewares,scroll,mobile,9c7dea3aa16d6a972fa85ba49976a2a3,95110,caxias do sul,RS
+802,2025-07-31 02:16:05,4af4975d2cb4cecda86dcc1716bd2f14,2,e6c6f1449d623d6f5d534e64064b8dd3,utilidades_domesticas,housewares,scroll,mobile,36bd892f6057fa876faf6352fe330a6a,12310,jacarei,SP
+997,2025-08-11 04:59:27,5863bb76ca9ee3075fc26943071fe556,5,9eb0c62c8c4159426b700eb10045dc44,telefonia,telephony,remove_from_cart,tablet,cc77ef7997c86d380d2cd5f6b4ca5f61,4432,sao paulo,SP
+927,2025-08-09 15:25:49,5c666fa03ba6450edbc6a15bf7c5e6d9,2,33a556a744bc9ea4e216c3990d352d03,telefonia,telephony,scroll,desktop,9c5b3d90e6fbf8743dcdc6caef354ac9,37716,pocos de caldas,MG
+470,2025-08-13 18:18:00,0bc54a02fdbcb70408167af288be3dc3,1,286ae430a4ebbf9a6048a42f362fa322,relogios_presentes,watches_gifts,page_view,mobile,e9710c8ff387bd8030f5665e90e7c019,60530,fortaleza,CE
+454,2025-08-12 01:36:00,436e9e545e5299f9e29e1f6083267aec,5,4b44730a7923e3c19eb67f1c8bfa1c39,malas_acessorios,luggage_accessories,remove_from_cart,tablet,671e951533c86366cf6325bcc8a02ff4,13337,indaiatuba,SP
+802,2025-08-06 02:20:19,b362c2d95a52eaee614ed6309a832ce8,2,e5de2225ad9ea5307da42efd7fe437f6,papelaria,stationery,scroll,tablet,f3eaa4bbb8a5fd3df7f56d04eb72a9af,80740,curitiba,PR
+441,2025-08-13 16:00:24,83ce897f06acad62a82d0d50a7ce9cce,5,c10d7c70907ad6d09ada0581ef6bf839,relogios_presentes,watches_gifts,remove_from_cart,desktop,958da6ff0122fa69bc5e1dc0e176abd9,9812,sao bernardo do campo,SP
+707,2025-08-01 14:29:40,d5f26a2b6936a0e02839c31d0cdc526a,3,a35908642db2ef18437c352a421035ef,ferramentas_jardim,garden_tools,search_initiated,desktop,10ec21ca9dda867eb24ecc979180d09a,13212,jundiai,SP
+336,2025-08-10 08:33:24,08c82d1e90993b00869022fc4e98697f,2,c4334dbbe9c97c0eb165debf7132c689,malas_acessorios,luggage_accessories,scroll,desktop,82573fb1c360eeda8a3e8d1ddc2d794e,31035,belo horizonte,MG
+898,2025-08-13 13:19:18,dbeabfe949d48f1d7e102d7df651ec8e,4,cd3be6f2b54a7e252f5283ad7c26970d,pet_shop,pet_shop,add_to_cart,tablet,071cd8999ac70f2b72112bc3d49b09fc,48710,candeal,BA
+906,2025-08-12 15:54:04,19d12029252139d6480df2681d6111b9,6,2cc6b9c8353f08189f70b928d2185a9d,cama_mesa_banho,bed_bath_table,apply_coupon,desktop,5cbba3fbbcc0f703a5abc526bdb948c1,92500,guaiba,RS
+927,2025-08-05 04:12:50,f63d914e794b8fbcd7bcace71693e22e,2,63bff8e34e5c639696856394be9a9ac1,papelaria,stationery,scroll,mobile,030e8f4f620aaddbacfa53665f789fd0,14875,jaboticabal,SP
+936,2025-08-01 00:45:09,5d96879c568aab2c05eed074e1765a83,1,abba22ec8f8647474e51e996d74da8e7,telefonia_fixa,fixed_telephony,page_view,tablet,c3cfaba1449b1a6759e7e02413c24bea,16901,andradina,SP
+504,2025-07-31 06:34:39,c37c51bf32c22db465dc7d2749c9e0ce,2,65680a7e713d50001948661c2b252f37,relogios_presentes,watches_gifts,scroll,tablet,3b5e7b15240ddea08729bdc7b9ececb3,17650,herculandia,SP
+504,2025-07-31 14:00:04,326e8dc32f5915b6209d6671d7ac7315,2,598bd041890a22dfac5e4411f456cbf6,esporte_lazer,sports_leisure,scroll,desktop,c059ca887dff53763a246fe39ea26680,43700,simoes filho,BA
+733,2025-08-09 23:48:15,093cd8998b382e15fec8f33653718c55,1,23658e8d5d2c1d61b0d59b34ebbabb44,cama_mesa_banho,bed_bath_table,page_view,mobile,507773c65aebb2ec670b6bec5ed36bff,79031,campo grande,MS
+631,2025-08-03 13:13:30,f412c0b64f02ea79f8a52d6fe4532b3f,2,60a82b9f55ecd2035ad8d9c61e2afe18,cama_mesa_banho,bed_bath_table,scroll,desktop,23eb7c40dc95aa4d44040b0ac11d5aff,19700,paraguacu paulista,SP
+733,2025-08-14 10:09:24,5c1cfd3396dc73c155cbff6e8958c617,2,fb61126545fe19cfa0593140a5cc3b13,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,desktop,1cf241a1ae500b4a6bbb9345b6cceb6e,11250,bertioga,SP
+898,2025-08-12 15:20:33,86c9a39c17fae370a496545e5d9a324c,6,e3217b2b6ec69befdfa1e98962b2565d,brinquedos,toys,apply_coupon,mobile,369ac2454c4b3e699137e19d6a03471b,13202,jundiai,SP
+906,2025-08-04 03:15:35,da439a6171097bca575bafbf575b7d48,1,1b0991f5c6be6a8de9ad8e1027ff67d7,fashion_roupa_masculina,fashion_male_clothing,page_view,desktop,1757712418a4a1385cec3e9845cc7908,95560,torres,RS
+499,2025-08-07 08:28:28,eb3df526c00097de12986e7f17592ad8,2,f20d17c5697e45b09853253384f0c583,utilidades_domesticas,housewares,scroll,desktop,1c82279b43c1a19f86322dbe08bc6bf6,13337,indaiatuba,SP
+898,2025-08-04 05:54:46,796180b64dc72ccf2cf97022e18436a1,1,eab1309765ca0c3ba5c2ae2b85b28b00,esporte_lazer,sports_leisure,page_view,mobile,b6b22878b5c49dad8167be8ff764a35a,99900,getulio vargas,RS
+506,2025-07-31 07:57:54,5653eb3360ac329f6c2b7eb91fb8d776,1,1ce5d622fcc57fef0c65feb523eb2be1,brinquedos,toys,page_view,tablet,b1b07cdb9a53be2cc167513531cd092f,4863,sao paulo,SP
+733,2025-08-05 03:50:02,eca75e9adc8c91318ff3031a136b5130,5,d87a746a8c32da19aabdddac8b632877,telefonia_fixa,fixed_telephony,remove_from_cart,mobile,2ec904e60190e21e22178cf6b3c44a7e,9040,santo andre,SP
+997,2025-08-12 04:28:46,e660c434379aab7e2cadcfb1b66aec8e,1,2e1f117f6901eb865cc19065c77543f7,beleza_saude,health_beauty,page_view,desktop,346554e2c119539266cb49f9671dbbe2,5782,sao paulo,SP
+906,2025-08-09 07:38:26,a72bd498fc675be01dcf6c5f5e86e520,1,3b714ee872338c6248d2f51934935f2c,cama_mesa_banho,bed_bath_table,page_view,tablet,fd6be8b946505a1d1a15686ad6073310,19026,presidente prudente,SP
+802,2025-08-13 17:04:15,db6054a501afc119137d3b7ba547aa30,5,64436613065a92eedd50d29d4ec0cd43,pet_shop,pet_shop,remove_from_cart,tablet,b20d4c380371b297b3dca595a79c348f,89036,blumenau,SC
+499,2025-08-04 05:58:55,f744e91c00c30f8d6fbf8b82a0903c40,6,776b3debbda0734131d6046fca2cd957,utilidades_domesticas,housewares,apply_coupon,tablet,a438f83805f67b26a97db7536b3a35e3,25938,mage,RJ
+997,2025-08-12 22:11:27,fd88b35ff441b1536cdb975e1f804480,1,ea2999d120b8644995f93e02aa9660c3,utilidades_domesticas,housewares,page_view,desktop,f1943a265a96f9fcd3fabb7d44707b00,65943,formosa da serra negra,MA
+735,2025-08-08 00:56:19,83857ffbd031e05ba434ec824ebe70b5,2,090481b27cff4d143f62be584cba5ed1,cama_mesa_banho,bed_bath_table,scroll,tablet,570d281edfea10f6512b40b0a2391e76,30160,belo horizonte,MG
+707,2025-08-05 09:28:51,bdebf3864c17651e6fff4ef53f155b05,3,f7d2c621aa931cf19b039d6089c106ad,papelaria,stationery,search_initiated,mobile,d60f6870e44d4eee8976d251eb6a4772,88508,lages,SC
+495,2025-08-11 20:19:41,e3a89345d860faa5a9431ec4fb1e307c,1,24c0de23191c9450049b2b3d8749ad35,cama_mesa_banho,bed_bath_table,page_view,desktop,ae6346c98b34af56ddb4f5fa73968b7a,87890,terra rica,PR
+499,2025-08-11 08:14:10,90988a2f99816e66258626637c4d1599,4,ad52cb93ae060c9bdd776831a915e94d,esporte_lazer,sports_leisure,add_to_cart,tablet,fd7d2fe8189e3d7209824dd6300b921e,12230,sao jose dos campos,SP
+889,2025-08-08 06:32:21,53f9e8b5951b3192ee519409479d4d6d,1,b644708366a941f6e8db3bdf92f82421,utilidades_domesticas,housewares,page_view,desktop,f96be73d5c1d3bfe8fcba7924798ba91,13500,rio claro,SP
+478,2025-08-03 03:48:30,a56b03f5e6015f1a502b9810309b98b7,2,8b68bdd62b3d58f750f213d3ae36dc4e,brinquedos,toys,scroll,desktop,b6cbe1a8674ee23e9fb086e3c61677b8,41308,salvador,BA
+994,2025-08-06 00:33:05,ba3c543c2b495c38f9dc47b4814c7b32,3,c34e98ba0749e6f9163215b9f293a560,esporte_lazer,sports_leisure,search_initiated,desktop,1ac5dab85412d6d1e4a731ee0a19fdc2,2672,sao paulo,SP
+898,2025-08-04 15:48:05,d17506f80de12a65411560016c3317a5,2,ec87fe7c217a713732b71344bc43274b,moveis_decoracao,furniture_decor,scroll,desktop,1367524785b0c0c4ef54168c40a952fa,8676,suzano,SP
+454,2025-08-14 07:23:59,ed1083946003bae3e6a6c80f0df6a647,1,b6397895a17ce86decd60b898b459796,ferramentas_jardim,garden_tools,page_view,desktop,f3c66d5bafea434a46cc6006b62569cf,16403,lins,SP
+431,2025-08-02 15:58:46,68809414f9e0cf7bce8d8b29b23a319e,3,3db53484d668b78b3bbefe2f430df477,construcao_ferramentas_construcao,construction_tools_construction,search_initiated,desktop,04ef415f1d1c565ac89d4c345ae6fc40,3120,sao paulo,SP
+991,2025-08-10 16:40:48,255f6fe0da9d281431dd4fcce29b46ec,2,99993da1a1a645e779c9b8ab09b09f30,automotivo,auto,scroll,desktop,45c0d522920cfbdd48e94222e39d85d0,65057,sao luis,MA
+252,2025-08-04 23:17:04,b871400041cca0b6a0240e50ed375ee4,1,03c395f45f46b57acf3db9a696fba6d6,telefonia,telephony,page_view,mobile,d821b0981be9795c42ff1b2dece149cb,2122,sao paulo,SP
+889,2025-08-14 20:17:37,81a9409f95b016ac318a250b96465548,4,dd2a86c701f0442fa851c5391a5b81fe,cama_mesa_banho,bed_bath_table,add_to_cart,tablet,dfb60c90d4774d7ba5eaf60e550bca3f,12947,atibaia,SP
+927,2025-08-14 04:16:40,806f3e02b4efdcdc15863987086d5519,2,4c303e0fd131aa3fe487c108b5aa8c06,artigos_de_festas,party_supplies,scroll,desktop,c96ddd4f4ec5f80283f27a9eb6e8943b,13140,paulinia,SP
+323,2025-08-08 16:18:07,36ca42c46926ac2cf4153c58fa9610f5,3,1bdfcb8320195a0fbab354ae99d95d91,utilidades_domesticas,housewares,search_initiated,tablet,4905363e80389ad8df558452e9206216,28994,saquarema,RJ
+823,2025-08-05 13:16:41,5d442fd431e8112816463237246a2b6b,3,04a2ef44f3ea03a72be6f1f99ee0bfe6,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,desktop,ea6184b812df993f07fd9d7edca1c246,6454,barueri,SP
+454,2025-08-02 08:35:27,db925a533d94cee42707026949892c7e,5,9969f7caa71f4ddb8127440e8d5890e8,cama_mesa_banho,bed_bath_table,remove_from_cart,desktop,5f03b965e26e79a371d229cfeeb578d7,7991,francisco morato,SP
+906,2025-08-06 19:47:24,9c2ba98b81feb86a71ba30fbc3520f28,4,d55b87646120370b6d1ea88ace0b9e51,bebes,baby,add_to_cart,mobile,54471308461c633773c872f5036729d7,13843,mogi-guacu,SP
+405,2025-08-01 20:26:11,b201351377dd577182a072e880c2c7ae,4,2bea2a1842158b9363c4092b11314267,beleza_saude,health_beauty,add_to_cart,mobile,dcc9c0fd8dbf091ca2965710ef45c16c,18095,sorocaba,SP
+470,2025-08-01 01:43:24,50234a251c35e59ffaba3b0a8342b37a,5,77bff4816ab0cdd46ae338713dc8537b,ferramentas_jardim,garden_tools,remove_from_cart,desktop,8f3111ce59c5dc5de1f424c61c2bd9a8,4363,sao paulo,SP
+631,2025-08-07 03:02:27,b0aa4e154cca1e3ce961c7267e5b975d,1,185013b2b9237c14bd26a394d9fda023,climatizacao,air_conditioning,page_view,desktop,0d4060cd9fecd2c2dab97a161facffe0,14920,nova europa,SP
+642,2025-08-14 05:30:27,b24581c2613d18d6cbcf6cce42aa6555,1,cc158c284564106f4b668ae02389e2c3,telefonia,telephony,page_view,mobile,5e808359e1225405290a48a19eacd30a,17065,bauru,SP
+927,2025-08-07 20:30:54,83fd55588a80384e120381b6a7588acf,1,2273be0f0b60b5d12c8853cae6ccf7ef,cama_mesa_banho,bed_bath_table,page_view,tablet,88bf3be174f4d23accc34ca037f98a51,32280,contagem,MG
+936,2025-08-11 15:16:04,4e9197af241b5714a60a998bde13aecd,6,98fa242dbcad30eeec98b1187ef08db3,fashion_bolsas_e_acessorios,fashion_bags_accessories,apply_coupon,desktop,1f002646e8e36047b4be779104d4c1cf,5302,sao paulo,SP
+405,2025-08-01 03:56:10,e74c41931c0fa48e37c07bdf0aa5a8d1,2,4697e1b622324d38a8989bff2bdc1c84,papelaria,stationery,scroll,desktop,a367c26ba031fb9f19cef6188426004d,11050,santos,SP
+823,2025-08-04 20:32:48,bfdc5ea24dc2232fa4f68dd6658f4f2e,3,0668cf65b55579eb49c9f2d167c71dad,beleza_saude,health_beauty,search_initiated,tablet,9521072dbd0031039c673eb99b23e0bd,80050,curitiba,PR
+323,2025-08-10 05:20:02,bf72f7754763965018f2af8e657c4fb8,2,a9b9032e79635ad9618808cfdd644c77,esporte_lazer,sports_leisure,scroll,desktop,b10ad793f6d2cc31b08a3b8366f3d251,44004,feira de santana,BA
+355,2025-08-07 12:17:57,a6dc8c80c0a118ee2500ba81bd939cf3,4,12e2d17d42cd9d770771fb08675a870d,papelaria,stationery,add_to_cart,tablet,674e2cf1e34b5485037bc74aefb8ff43,20511,rio de janeiro,RJ
+997,2025-08-06 23:28:33,4c6cc85a89f512df728a98f49b54c7de,1,b47246a2d424fae0bb3e352ef204496a,automotivo,auto,page_view,tablet,cd06321b66b405ff89ec1e4e14c03886,84250,imbau,PR
+642,2025-08-06 07:47:29,4bd8f16f1eea99ae36382282aa03d538,1,0c35aab0ba0e5a36a652fc2b10f2c102,industria_comercio_e_negocios,industry_commerce_and_business,page_view,mobile,c0ccab4f31b652bc24055a22e9a67ea7,92020,canoas,RS
+642,2025-08-04 23:23:26,945da86df2234762e62c9e704b936b1b,1,f38ded084a0a2da8b32fda4789f494a3,bebidas,drinks,page_view,tablet,8b0d12cf86fbe3d7b1968f73807cdf97,13225,varzea paulista,SP
+746,2025-08-09 08:21:25,bc4d026da89c7219af0e37f31d6b1ea9,2,bbe4dfe43d77a5d150ed30618b20db25,beleza_saude,health_beauty,scroll,mobile,f35f8afa21f524f1501bd096a6c6961f,93520,novo hamburgo,RS
+707,2025-08-14 16:23:45,51775bbd39b922160a84caa55f2190c6,2,44c2baf621113fa7ac95fa06b4afbc68,moveis_decoracao,furniture_decor,scroll,desktop,5038908495a860fe8f2dddc9ea5f7252,22071,rio de janeiro,RJ
+470,2025-08-12 07:00:48,b8aac82a5c0548d9dd203a339f469069,2,d048c384871633c66df10bc4d05e2345,automotivo,auto,scroll,mobile,eaab462d4876467252e6711600551f09,36037,juiz de fora,MG
+997,2025-08-02 03:03:51,ca95eb21df668f8ccf2e9f213b9527a5,1,8281b348c92d101d10c17e412b99d748,beleza_saude,health_beauty,page_view,tablet,c16948c2abc51af80a151392f718e895,38740,patrocinio,MG
+506,2025-08-04 13:11:13,63fed2da86c0786cbc166968a5e6abbd,1,15e71ca2be5a30e15c92ab4b36450571,telefonia,telephony,page_view,mobile,bdd2db062e160b56deef394d3124eed6,3088,sao paulo,SP
+441,2025-08-09 07:56:42,2953e41dea84f8fe69dc569138b6002f,1,7bd42138fcc3aec6e8a0494f5a34bd25,consoles_games,consoles_games,page_view,mobile,595e4f5543fcf93e124729bc947ca896,5576,sao paulo,SP
+642,2025-08-13 23:47:19,a12365591fbc4f0ad1deaec3bef23605,1,8d404ec088b339aa069d726152e21cc3,ferramentas_jardim,garden_tools,page_view,desktop,b21ec1735698910d58c344e453cda6d2,85811,cascavel,PR
+805,2025-08-11 05:32:53,0a32173125f7b32ef02aec262e27a948,3,26e4016b8946bc71f7294154866226df,informatica_acessorios,computers_accessories,search_initiated,mobile,bb8b06423616902c6b6d6cc7673e9169,9811,sao bernardo do campo,SP
+386,2025-08-14 19:01:49,45f8082a5dd6200883fb282919dcd8a8,2,1b1bde24cbdf36a390e1abd717b2f7b0,cama_mesa_banho,bed_bath_table,scroll,mobile,d31ecd507a3584211d380efe1eba045c,6433,barueri,SP
+506,2025-08-07 14:43:34,581c3fbc5d580eda16d065cfca471865,2,2a565e1622c978b79bd6efc394ca6fee,ferramentas_jardim,garden_tools,scroll,tablet,5afa58a8f5f4690413cfa9e809d551c1,15053,sao jose do rio preto,SP
+707,2025-08-02 02:04:11,59cd85e2ee958a5bec765f2f07861395,6,0e474dd27ee6b8386b49a18097d937ae,moveis_decoracao,furniture_decor,apply_coupon,tablet,28a42ce270d16184b183a4a8f6abe13a,24905,marica,RJ
+336,2025-08-05 10:53:52,b5497c073e0cc7f337a46cc0c423a0c0,1,1cf785e20371a66f535ab3b920d28140,papelaria,stationery,page_view,mobile,c23ff02ce0c6b05a0fcfd7fdd9af6b4b,72501,brasilia,DF
+323,2025-08-12 03:53:24,1a6d4833c060a4f4b5e296057be4fa85,3,233b276631735c2cd04a89d01bdd8a58,automotivo,auto,search_initiated,mobile,74f1cb6900dadb1afca23c04643b06ce,38742,patrocinio,MG
+735,2025-08-14 16:33:16,ff04d958186bab54872637cc6f097898,2,7c2d0df8e5fbfa71d54a400b33a8502e,beleza_saude,health_beauty,scroll,desktop,e7e8995e1bd3d16660d38a6629ed34cb,3222,sao paulo,SP
+994,2025-08-13 20:30:11,81838c1229ff59900c350dfe32061da0,1,ee9bbf77fd02094848375de9fe61807c,utilidades_domesticas,housewares,page_view,desktop,1edfe222c4ca7a1b3c561f4a2d685b40,31872,belo horizonte,MG
+631,2025-08-10 20:32:55,50be62f7ec43c7363188a381ac10757b,1,91ae5412c05e994ae67784b3bf7e50db,relogios_presentes,watches_gifts,page_view,desktop,4d40a08bdae00bbe6bb0f97877ef6a43,18025,sorocaba,SP
+709,2025-08-13 08:02:27,4f378face3cd0133931de16d0a2658aa,1,ed29a27280733170d8ccb00691f743db,esporte_lazer,sports_leisure,page_view,mobile,1e1f83c5730b3c641d9b309594b54b75,68908,macapa,AP
+629,2025-08-08 01:08:43,54f9b6228478d9b8fdda0b198647de1f,1,c4f8e50f322e3f8b523e0e26559144ac,brinquedos,toys,page_view,desktop,3cba8ffcf762c735844f0cb07b0a0802,71571,brasilia,DF
+405,2025-07-31 21:41:30,708944782215b950642ef74c5843bb98,1,6c8b94e30aa28faa5184176c25f137cb,eletrodomesticos,home_appliances,page_view,mobile,4943a66958fb2f2d22f9173a3844f21b,75830,mineiros,GO
+823,2025-08-10 14:18:04,7646338721482cc1c3429c76ae261c94,3,3d36f403ac27db5c5b8faa68836e3d1f,moveis_decoracao,furniture_decor,search_initiated,tablet,b8c6b346f7d03ec4b422622476ed05f1,3961,sao paulo,SP
+506,2025-08-12 20:23:17,02d8426ded4654ed60b46ddd6d1a4f8c,2,17fe46c4cd7376a1a75f47e2fa4d5c89,cama_mesa_banho,bed_bath_table,scroll,mobile,c9d1abc0b230150138b5716c0f5720db,22021,rio de janeiro,RJ
+405,2025-08-05 08:00:47,5b5a8855830a3f6bf125706aad389a44,1,146f38b5c222913dbe6606e5a25cd318,esporte_lazer,sports_leisure,page_view,tablet,8c6882c7b349b49ba05d5cf9bb85a45b,3665,sao paulo,SP
+906,2025-08-07 09:24:38,77f7fce090bc5794f0cabfac948b34c8,1,b846c1b90a30689a98f530aa20edd424,esporte_lazer,sports_leisure,page_view,mobile,670286c3dbfe9a5518aa71f374f3fc29,16308,penapolis,SP
+642,2025-08-07 21:02:56,c752a2576a1e3722cb2332b927d4638a,1,7242835dfa9321bbbc31ce5f605603d8,esporte_lazer,sports_leisure,page_view,mobile,12c4baf4f1b678d493ea9e219addb862,13360,capivari,SP
+665,2025-08-14 00:24:28,69a08b6125c4dbe1e658f5410fa5be95,3,780130a191b7abd450d121ac7290d15b,eletrodomesticos_2,home_appliances_2,search_initiated,desktop,b5b05f548b0ef6c8f6a6ef4c9eafeaf0,22743,rio de janeiro,RJ
+707,2025-08-03 13:12:58,44d53248bdd39a477bcf6278e73a2844,1,657aa59c6c58816ddc4f86c51a2759c9,bebes,baby,page_view,desktop,7e2ae24e734d02f10866ccab9c7ad0c8,6542,santana de parnaiba,SP
+506,2025-08-04 06:19:03,dec279f41d4f2631279947edf78abb3e,1,fc5043902812d122c4e80113ff924c1b,papelaria,stationery,page_view,desktop,4b25f866232ce890939c85623bfa9605,91250,porto alegre,RS
+991,2025-08-09 10:06:30,d32034dfc685b1ae15dd4c78eace868e,3,13b604480efd32bdb45d23fc99a1a1ee,automotivo,auto,search_initiated,desktop,39ec290b99d3f51dd92e2c2119d23045,13520,sao pedro,SP
+746,2025-08-11 20:38:38,1051dc1922b7d6fd269cb1120adea82f,1,ac850a749748b386d598124ae34ba1b0,utilidades_domesticas,housewares,page_view,mobile,640e0d867e85601bd8e64029df6034b5,2534,sao paulo,SP
+495,2025-08-09 20:14:40,340485e58213e37b8cd9723e0548f7c6,2,2772d1e494d431a05b7bcc95b02163b6,pet_shop,pet_shop,scroll,mobile,d1c3d5127ab02d8b9a11c63df869edac,6816,embu das artes,SP
+838,2025-08-14 03:16:36,10f1f9be58b2f03349c40a280166de70,1,3a362c0e7f9a69276e2d95869a3e143b,beleza_saude,health_beauty,page_view,desktop,c5404efaf3af6f9c0e2746421c91ed22,7181,guarulhos,SP
+252,2025-08-04 00:37:47,10f89eb78b39c530ee01136e32381f1a,3,5b2bc7f0927cf91077fcb99abcde248a,cama_mesa_banho,bed_bath_table,search_initiated,tablet,1897e5d4555c5f0aad67e6a0a4ed6468,3349,sao paulo,SP
+506,2025-08-02 21:35:07,cddb7c930b86c98185caad9fa6cd65c0,3,bd4007f3a50676aa56e2696897f4a706,esporte_lazer,sports_leisure,search_initiated,tablet,3a69e1826b490a9a1253e94e511feb11,14783,barretos,SP
+997,2025-08-11 03:07:08,320eefc764d8d3c3b9c88173c7e46943,6,b44ac72ece514e2e7985803cf7cefbc5,livros_tecnicos,books_technical,apply_coupon,desktop,9563467c58d0288dddd8ed8ba3a7e785,31615,belo horizonte,MG
+758,2025-08-03 03:48:29,39c5aed6f78b3c1700a36b13734327a4,1,e3d17fa3c240d8614ea0d89d249b2a92,beleza_saude,health_beauty,page_view,desktop,815189e23296829c6945392078f998c5,72405,brasilia,DF
+495,2025-08-12 19:57:52,faa192d11e50270ee798ec110da044f4,2,aefd95d8fa48ead0bcdec7fb758daea0,pet_shop,pet_shop,scroll,tablet,3a92e5f77889c2ad9b099ded326d58db,12919,braganca paulista,SP
+504,2025-08-02 03:50:19,72be690ff8a35cf36393e506ee0975fd,3,9f684ef1e31358afd3d4ce991c576e2e,moveis_decoracao,furniture_decor,search_initiated,tablet,7564f5c9fde0f92dfdca2a934bdae5af,3984,sao paulo,SP
+901,2025-08-04 05:59:54,88973adbb8d9a870b3d12137c4fe6c8b,4,4a642c826cde0ba3b3e7dd93bf83d575,cama_mesa_banho,bed_bath_table,add_to_cart,desktop,5c29495a80be1cb218d3428a8cd3a6d7,16201,birigui,SP
+991,2025-08-09 14:16:39,7aa45f0da7dbc08f11d376d597b2403f,3,313b2b462b7ebd82e290eb54b10e8a69,papelaria,stationery,search_initiated,tablet,1291474366a550ebc251d9187e763d62,12213,sao jose dos campos,SP
+252,2025-08-13 06:56:15,56ba07126743e448497da8e3d14ad665,1,8f4325bbe83f7ee057479e45ba62a5a4,informatica_acessorios,computers_accessories,page_view,mobile,7bd6815275fc2c7e9e408623b028d00b,7144,guarulhos,SP
+372,2025-08-11 08:34:41,9909994172bb92df37805f2d2442faa1,2,8cc939634b5bc1029a1aa5fe945b8666,esporte_lazer,sports_leisure,scroll,desktop,88ecb91d6d5e47ebdc2129cd046b0935,30840,belo horizonte,MG
+495,2025-07-31 01:20:51,0e8aaa6517ca0b989a2df53396f879a3,4,f96af21b8cf0b09ce2aed5462e40671a,climatizacao,air_conditioning,add_to_cart,mobile,e5203612ca86f5cf6e916ed0dacf45b9,65606,caxias,MA
+898,2025-08-10 19:53:14,e62a03d00892173f46bb99a1da0f86f3,4,5f993fcf6ce45202932c40c51466dcfe,informatica_acessorios,computers_accessories,add_to_cart,mobile,e8ead022ae2b3779a4aafdcb1bba8f31,8635,suzano,SP
+805,2025-08-11 15:45:19,8ae206912a2afe2c2bc2f1cd3d31cc90,2,394e7e390f3282732faa3a73a6033c3a,papelaria,stationery,scroll,tablet,d3d27cd74ef90e977a6f083e7fab7cc7,3287,sao paulo,SP
+889,2025-07-31 07:40:32,6d9ded111ea89ad26ed04e6b806de89e,4,5681be0ad7f0ceeebac80058e718d34f,informatica_acessorios,computers_accessories,add_to_cart,tablet,1163721cb0f5178d87f7f7acce41d9a6,17810,mariapolis,SP
+994,2025-07-31 05:30:02,50e68d10e42e10334f902f07c7f89f61,1,29279408d40e4f6e9c9ad85e4e97d676,fashion_calcados,fashion_shoes,page_view,desktop,e047dae90f668bb660ad7edc1f98923b,18103,sorocaba,SP
+560,2025-08-13 21:36:21,206be412d24a2671defc55f90bf1662c,2,ca39b2683ada25bb55bebe99c18f33ba,esporte_lazer,sports_leisure,scroll,desktop,f9c289f38556adfd667697beccb72818,28550,sao sebastiao do alto,RJ
+506,2025-08-10 16:06:34,b2e34f6581fc7955943b4d7ff3fedc18,2,11f97b0fc032508935ea374eadece168,relogios_presentes,watches_gifts,scroll,mobile,a8bfaddc94bd785d9bc7a1a2c56d3795,15015,sao jose do rio preto,SP
+495,2025-08-07 15:12:45,b7494292e530fcf77327f1649793a426,1,7770bdde7d6bfd349bfdeabc4ce54c07,telefonia,telephony,page_view,desktop,0514d58859a4a5ca6476885ba50b2f6b,22610,rio de janeiro,RJ
+499,2025-08-03 05:35:37,be3fb1099513e32c002c7855a40f09bc,1,606b5bf4a5c5ac2f72196afa18b77d3d,relogios_presentes,watches_gifts,page_view,tablet,8be0e3177b16cb9aaeb93b7724f6760b,11670,caraguatatuba,SP
+336,2025-08-12 08:52:21,f19c33b8cef8914fd3e1facb34fe4b2c,5,20332c1e41e427864b3561a657caaf0d,relogios_presentes,watches_gifts,remove_from_cart,mobile,6c902b7d5ede3beebeaf224dc79de64f,33200,vespasiano,MG
+506,2025-08-12 23:55:23,2717c5939d8b3dbe3d99319e16bdb6f6,5,a45d376e2359c18076d5c16a042777e5,esporte_lazer,sports_leisure,remove_from_cart,desktop,3f1577ae405a1a1aad963e093b05ac6d,24210,niteroi,RJ
+733,2025-08-11 07:21:14,9499bb274ee28faed7cb67027a326406,2,da1dff19d0c764f3526003e9af3f35a2,esporte_lazer,sports_leisure,scroll,tablet,387aa98865327ca522ea38566a6dee06,18085,sorocaba,SP
+355,2025-08-03 23:58:28,93de82c81a0248eb17ff8f0f5f1cb9da,3,a859dc323c1bebb21c887054599fccce,telefonia,telephony,search_initiated,desktop,da5b37d060b609736157deff1c1313e5,86802,apucarana,PR
+707,2025-08-09 22:57:57,52f0992e20b8f1c4b113d00df8fd9d93,2,bf2365078da8fad96e4c22880492dd9a,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,desktop,a81a403c9b43458bb1535fe88d3e40c1,24220,niteroi,RJ
+504,2025-08-02 04:01:17,933d04190021321a552e32ede56bc054,2,ad3e8888fa82a721dd44c481da333ea7,papelaria,stationery,scroll,tablet,32661f8d3b12d0074a094346eb13106b,2255,sao paulo,SP
+441,2025-08-13 01:05:16,44b63b4dcaf4535c4f5f2fab7262fcc7,2,cc5447118c174dcc6456c84ccb29e6f7,perfumaria,perfumery,scroll,mobile,00c916ff33b521444787ac76ac6b029d,23036,rio de janeiro,RJ
+470,2025-08-06 11:55:07,c658bb8cec1d8abc36b0f23ce79f49be,2,1522589c64efd46731d3522568e5bc83,artigos_de_natal,christmas_supplies,scroll,mobile,0d216e34840c7ca11a4ddef86e321dbc,91380,porto alegre,RS
+707,2025-08-11 13:40:15,1141df1ba23dc9641ff60c129628783d,4,90fe2fe298ee4705129235c33958fea2,esporte_lazer,sports_leisure,add_to_cart,mobile,81f7fe1420cf7891acd2301e6c10c7a4,6182,osasco,SP
+355,2025-08-08 16:04:45,2d8e6928e55e8da0c7ef096702a74b48,1,b0da53e60d332dda5010da35eb6dc537,casa_construcao,home_construction,page_view,tablet,92d0b88e58cc6a4ca246f8ce829bfd67,14940,ibitinga,SP
+898,2025-08-10 19:34:43,6dd2c6f73170b8f3b10e4720e6b54032,3,2ec00000248555d06c4dc55425cfa871,brinquedos,toys,search_initiated,mobile,793266cb580a4a4d3bd21e0b6ecfa2ac,90660,porto alegre,RS
+323,2025-07-31 04:03:01,aaf90b48c468223f8e602d937b2175de,4,574a84e6ebd42413eb6d2a7e97f04612,beleza_saude,health_beauty,add_to_cart,mobile,9623f3f91ec327fcbfe8bab241e55b16,5186,sao paulo,SP
+372,2025-08-12 01:56:25,7a84164f936f2435540fbbb12b241930,2,9d60109d64bee97e7112ea96e57992dc,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,tablet,5a73cc26ef1d615432abc79e05ad7981,5870,sao paulo,SP
+631,2025-08-07 03:10:11,d8c88eafe65e8e7210a84872fd488edd,3,6df665a20caa80a66804f836165bbf36,automotivo,auto,search_initiated,tablet,22b04aabcbf2a01fd2c923338c560559,22240,rio de janeiro,RJ
+735,2025-08-09 13:46:33,56193005c66b353063ef884af203336e,4,5a2f62420bd55b28cdc512cd79263c73,perfumaria,perfumery,add_to_cart,desktop,782191ca0d8839c892e01e1623297908,24315,niteroi,RJ
+560,2025-08-10 02:14:32,c59317e28ba7e4ca744c6006e905b286,1,5c2ff601f8b9eab50e5d9938b41ff01a,consoles_games,consoles_games,page_view,tablet,6680fb57c925e66f60b0d1dc79d57f47,73150,brasilia,DF
+386,2025-07-31 09:49:12,b26f177937a176ef76f32a7c0fa03f02,3,4884efc9339400dcffa6a8ef0d23c2bf,automotivo,auto,search_initiated,tablet,46d73ea171779c28cefc16560672c59f,91510,porto alegre,RS
+405,2025-08-11 13:46:02,54fa4a1d6e9462d0c5b747c02794d734,4,2012a57204f00f8fd57f8196130bee26,cama_mesa_banho,bed_bath_table,add_to_cart,tablet,b49e4810bbf4e9b419706e2e3c0e2cc7,88304,itajai,SC
+878,2025-08-07 07:31:29,be0c739d184760c9effb409a317c2cc1,1,d4937a7e8d3db0f265d1f0302308bb12,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,desktop,1bfe8c34e1bda76d0858abf02e1c9288,56326,petrolina,PE
+709,2025-08-11 19:54:06,a0822e7d4805f4355a0cc53939cd05a7,3,6ee95908a160b5c24eb2580cd4c3afb5,brinquedos,toys,search_initiated,mobile,df0f9265d8d4d516937a2eddc8c90dec,2244,sao paulo,SP
+495,2025-08-06 13:42:06,3609ff0cc79e7a07b4cc0616fa16aad0,4,554bc96f8adc27819810a1aacf333535,moveis_decoracao,furniture_decor,add_to_cart,mobile,c17eeb0c7f906a4384f5c08df6abe92a,75550,inaciolandia,GO
+878,2025-08-05 01:04:05,e814ceee6c93933d5faab1e4beed3834,1,0b8750fa58fefe42cf03a9e2e4b8fce6,relogios_presentes,watches_gifts,page_view,tablet,4fd3a2b66fae1c2e6ef8b82bb7de0f8b,13185,hortolandia,SP
+495,2025-08-12 09:41:36,dc6cee232e64102de1ae63fff7c38871,1,e3666e22533af88b1cbd15536ad6d903,esporte_lazer,sports_leisure,page_view,desktop,31c2518bb0a8ce514321a9279deeca39,13561,sao carlos,SP
+709,2025-08-13 02:07:48,6e316412bd0f394423556d697fbc6d16,2,afdb083178822a8d5ead45e3e69c9ebf,cama_mesa_banho,bed_bath_table,scroll,tablet,c64415b33660f4d571749038dd8e3ec3,2273,sao paulo,SP
+805,2025-08-02 02:11:27,301bf3798cdc72286c3b1c8602ef1f0d,3,02cd69fa0c8bfb37ca444168927c1e85,automotivo,auto,search_initiated,tablet,709d1287dc090688fc664d694ffdd620,21740,rio de janeiro,RJ
+355,2025-08-12 09:44:11,8e036358b5575b6c70773af8496ec5b4,1,826e0179d6f0f44339c0fa71c464acf0,beleza_saude,health_beauty,page_view,mobile,9fd53f72f6708f4ca3bb4ae749f883ae,33200,vespasiano,MG
+665,2025-08-11 02:25:49,2e9b700bfc894ec6834f9dfcc551670d,4,cd2ea14a901da3b47b33516f3ca6929e,beleza_saude,health_beauty,add_to_cart,tablet,f5b897dc4f5070fd85e2bb3ac2050e57,12315,jacarei,SP
+991,2025-08-12 10:32:22,8635815549630cbffea696e18a9f8d6a,2,db0b761c0a07642146c6df824bb8789a,bebes,baby,scroll,tablet,f435be2fc1336c5bd3bf67a394388bfd,74230,goiania,GO
+994,2025-08-03 10:08:29,2731bf1c00685708217536d50bd1c8c9,2,91247af15fbe5fcdce542685c643b6a9,eletronicos,electronics,scroll,tablet,5c694a3890f4de5708c0252c38cb6b5d,35790,curvelo,MG
+898,2025-08-06 10:39:04,54da6f5f969bb4601f0d78611694232e,2,3eb48f70bd1ffaba382679c71ad7040f,telefonia,telephony,scroll,tablet,34b6102348176b1855e32860af2ce096,79600,tres lagoas,MS
+927,2025-07-31 05:13:34,afe44c51b2ff47d26e457d10585bf8b4,1,53831e0850c84699b8fa4a593a529774,ferramentas_jardim,garden_tools,page_view,desktop,1412a71cfa4f44a7e5473220f820b4d9,51010,recife,PE
+933,2025-08-11 23:37:36,b883f3ec183aff519703556b87fec08c,1,7c3dfe73f41e5b101e66e11649f5be2d,bebes,baby,page_view,desktop,7665719965d712b599391098a927b70b,37002,varginha,MG
+906,2025-08-09 13:58:01,2e7260a389c2f73bd05eafad99f0b62f,1,c76a7f2aa3596ac11fa33fb6f98cc7c7,esporte_lazer,sports_leisure,page_view,mobile,2fa1c3845c28d7cdb0c761be5ad792cd,13285,vinhedo,SP
+805,2025-08-07 21:01:59,6440135860433debb1d531daa37afe74,4,255f3797304030e3962e9a17ba75b2b1,esporte_lazer,sports_leisure,add_to_cart,mobile,2280ecb8db2591c39d1c7d3e9caa115c,8810,mogi das cruzes,SP
+386,2025-08-05 00:13:14,ad41e67f80ad7ac61ec5b605751c56d0,1,a84c7b893ea37674ef896fa866793e7d,cama_mesa_banho,bed_bath_table,page_view,desktop,444e3c9eb1699da5f78e83a464a3cbae,2409,sao paulo,SP
+898,2025-08-09 00:37:50,4b6204272cd5f2e9c0b13cdb47fd3c8e,5,3e0ef3ff4fc511b36e717b18a3d080df,livros_interesse_geral,books_general_interest,remove_from_cart,desktop,ae747f0645998238d4c68d5f362a3e89,83560,itaperucu,PR
+936,2025-08-05 19:35:09,35b6010ad8b185e27365ae8366cbb76d,5,3b363eb5f320bf6f9a812a5dccb8682b,beleza_saude,health_beauty,remove_from_cart,tablet,e31b80f478df67bee358c8d799deeef7,71805,brasilia,DF
+405,2025-08-10 09:31:14,b70e717fe0599c3bf2f69725b26fdf8e,1,d59adec5f338fc378737245a857f662b,cama_mesa_banho,bed_bath_table,page_view,mobile,cc61ecdda15905388185bfd77969ae72,36213,dores de campos,MG
+707,2025-08-08 02:01:02,3de54af5bcf3d0ec23cb153a187c9f3a,1,6d3dbba0d82ea4b0e3fae73f4afc35ea,informatica_acessorios,computers_accessories,page_view,mobile,513c65ee62da825036ba50177279b68d,27338,barra mansa,RJ
+665,2025-08-03 06:20:59,4e513a51bf088b776864a966b91fd79c,3,08208bc1d6a06c114cb662f3b2c95e05,construcao_ferramentas_seguranca,construction_tools_safety,search_initiated,tablet,d33e6be4d4330badbc3d7adf96059e1d,31910,belo horizonte,MG
+906,2025-08-08 16:18:50,7076e8afd996949ee319e1a6f2f8d5b4,2,57b82771ce003dac0f16625ce9e85dca,cama_mesa_banho,bed_bath_table,scroll,mobile,eb6032dea9f269982768cc6eed456cc0,5541,sao paulo,SP
+898,2025-08-13 17:37:24,f6181cf38d7a4b108b7d4ccfc72543ca,2,42a2bd596fda1baef5719cb74f73030c,cama_mesa_banho,bed_bath_table,scroll,desktop,b9fc1ffdd7894b8ab1c910d26c415a4c,30190,belo horizonte,MG
+709,2025-08-03 04:20:13,00bf0246fe43d0dac8842035f21f8a76,2,dac8681a7a366f747f42546e4922ad41,bebes,baby,scroll,tablet,29869c1422b9c068973f8e44575f73d6,18550,boituva,SP
+906,2025-08-08 21:10:36,b2d11e9b51fedcbef949f55c89f4dc84,1,4906d62973cf8df98e77484df13685ac,esporte_lazer,sports_leisure,page_view,desktop,fd6692516c7c9fbc14eba639f54339f6,22790,rio de janeiro,RJ
+838,2025-08-09 08:38:43,323a81cf20fb536503c017cfd5c2d54f,1,115e606ac8059e4cfa1c6c3310fb365c,informatica_acessorios,computers_accessories,page_view,desktop,58f814af5001d06b0d34d8a836ab18eb,30516,belo horizonte,MG
+499,2025-08-02 14:58:43,468e0abd39582f1fedef2ff885ef67db,1,acdf5c2a687407b37b00081300de0bdc,construcao_ferramentas_construcao,construction_tools_construction,page_view,mobile,512cf0c67f008c01fa859b2848796df3,91790,porto alegre,RS
+898,2025-08-09 05:49:47,37ff611a66e811a6732203b3d2b38ad5,3,773fc6de13d1f04a533ab4186b52420a,bebes,baby,search_initiated,tablet,ad00064c4378e2e092279373e8c17f57,87014,maringa,PR
+802,2025-08-09 01:38:40,f882d8943a6e76b0876c6affb9ac2dfb,3,71bdf1a4d18c3cd68f108547f0b4cd1c,moveis_decoracao,furniture_decor,search_initiated,tablet,90d06da6f94664d6339da2e47ec4f104,31840,belo horizonte,MG
+994,2025-08-01 23:49:22,9b1258af23d35d3f7e88782312e388a8,1,aeb2f7fc62c8a2a56ae6e2f1b04d4e62,perfumaria,perfumery,page_view,tablet,b500f2a821557b8ecee0ff0938fe54a4,71670,brasilia,DF
+642,2025-08-02 07:19:28,2ea4875e4673944bc07e7520e5d96df1,2,cfcb14e1f3b7ac5213b4e2ae7697598b,livros_tecnicos,books_technical,scroll,tablet,4b326cc8e41dce8453e87a6f4781683f,37550,pouso alegre,MG
+386,2025-08-02 08:51:24,884f8c52120644a232953881424cc353,1,d1fbb5683c8e93f314d0f2bf40d07761,cama_mesa_banho,bed_bath_table,page_view,tablet,eb8d2efedf1ad20c664fa356b6286259,85813,cascavel,PR
+805,2025-08-11 07:43:04,309a1beccf92e425e658cc2932b663ca,2,be7815756efd025355c3e09139c3f2ac,moveis_decoracao,furniture_decor,scroll,mobile,f40eb5de6af3d4c70d1d351c66214920,86047,londrina,PR
+936,2025-08-11 02:25:27,f4db8db2617de3def6b82bc375ecb725,3,081d21aa3dc9b583104a15fc4dfd1160,cama_mesa_banho,bed_bath_table,search_initiated,tablet,3f10448ee7afd7fe6bf60e78cb53e776,13840,mogi-guacu,SP
+560,2025-08-04 17:22:28,79fe43e014435439f7e9d753a4bb720e,2,e1772099adc6b03202a50a2aae5efb0c,brinquedos,toys,scroll,tablet,832c08e54843ff23ffaf3325b8c19b3f,29308,cachoeiro de itapemirim,ES
+997,2025-08-12 14:38:08,6757b444241f1c6cf395f850f975fb52,1,78f9e0fb082486f571595a1875c306c8,utilidades_domesticas,housewares,page_view,tablet,d8a7587f5db85ee07524c29c57bd9434,5468,sao paulo,SP
+336,2025-08-06 10:48:01,a173943bbe482d9a4eea12d0767a38ad,1,1a131431da4dce6844b08bf2d6f4d2f3,cine_foto,cine_photo,page_view,desktop,87c193ec1213c678cbfdc2cce91fd7e8,88430,petrolandia,SC
+735,2025-08-09 19:03:43,2b2d00cc7790247c69d95d823c8d9c6e,5,72cb4380c5a90c64048cafdf60d31f88,instrumentos_musicais,musical_instruments,remove_from_cart,desktop,5dcae475de267e3304949b772a368008,51170,recife,PE
+927,2025-08-02 00:41:48,47bf1bff38af6287f6749bec13383f37,2,98f867248b7d5c7262dea39dfe1d74bb,utilidades_domesticas,housewares,scroll,tablet,70e53f10815ab45ad410390a7dceaff3,93546,novo hamburgo,RS
+805,2025-07-31 10:45:27,bf18d7a165e5587fc4c0255650798092,5,db03c4bc6a5693b6af0bfd893769a584,moveis_decoracao,furniture_decor,remove_from_cart,desktop,e94315e85e8cd829a025c96474438549,17512,marilia,SP
+746,2025-08-08 04:27:29,f3fb07f62a29762d49d364a2efdeb17f,3,a014ce59dca05d6160b0a995600511b1,beleza_saude,health_beauty,search_initiated,mobile,c5e6600df098003f3a7e1773cf843916,14025,ribeirao preto,SP
+431,2025-08-08 07:15:14,5cc56ee044870a357f395d0c325274d3,1,731cf6fbf44cc64a9583fabe2c00750e,bebidas,drinks,page_view,tablet,03543e7bcb602107d81abca01f3d94a5,5406,sao paulo,SP
+989,2025-08-09 23:05:53,61077f55e443e26ba5368cf308ba71b7,1,a4bc24bcb44abb54f2f6214991dcdab0,utilidades_domesticas,housewares,page_view,mobile,0c2361f803a38f997296b5957edfd57e,4112,sao paulo,SP
+506,2025-08-03 21:11:41,8168b5079d6ea023893d64ff63f7c4c7,5,c1b94ad68c3ff2b989d6df457a0d657a,utilidades_domesticas,housewares,remove_from_cart,mobile,d8cc2308f3165af44778e8eaf94e4b7b,3019,sao paulo,SP
+506,2025-08-11 16:10:23,2cfefc9a6a972224d0e4a6a1363dfc18,1,33d572fab2a1a7c217d8831ade7d9357,pet_shop,pet_shop,page_view,desktop,15a981406bf7ff3eec3a9bfe70ace61b,30315,belo horizonte,MG
+936,2025-08-09 15:10:02,bf57ac29566f5216f081607e3173e634,1,00a8c742ae1da97e9064205459977e6c,informatica_acessorios,computers_accessories,page_view,mobile,d2a152f163ce22a719a37862e8df2a46,5006,sao paulo,SP
+933,2025-08-10 10:29:18,1db6fd71da6b8e8ddc494d957697922c,2,6ec26b3516fecd18cda3001a9c48a242,beleza_saude,health_beauty,scroll,desktop,44ab0f851094a0f3504b6253bc076cbd,98870,girua,RS
+441,2025-08-05 06:54:54,b5e852d38cb35637d6e92026a54bc952,3,1be9a7b25f7ddfe1dfda88b9b64f595c,relogios_presentes,watches_gifts,search_initiated,desktop,a4ac3300d35270a6f46218702e1a36ba,20735,rio de janeiro,RJ
+629,2025-07-31 11:46:27,2e7a7949ed59755832f8877b154bb202,4,eddb814fb553b6951f51b34c5f578ba0,agro_industria_e_comercio,agro_industry_and_commerce,add_to_cart,desktop,700740bf9157a830e0728f14d64282bf,36080,juiz de fora,MG
+994,2025-08-11 02:55:22,282ae180b69678a933118f4585d5beb5,3,cf3aebf1fe742d73907fed51ead1945c,moveis_decoracao,furniture_decor,search_initiated,mobile,67c9bf527ec4cfe44434431770e96b49,89400,porto uniao,SC
+838,2025-08-04 04:52:29,77d20cce54e3b6b20b7207081077b084,1,bd158bef6c521e26c8af76664c4d167d,bebes,baby,page_view,mobile,d45296ae6c08dd80fa1661b58e04ae88,18608,botucatu,SP
+994,2025-08-13 21:13:46,3d1b213b4f9d6a6aa1cff9e5ae6a9c0d,3,b8b743faa0c9c15594a70b1bc2e78d8e,beleza_saude,health_beauty,search_initiated,mobile,6d077455bcea33907fe6be3f9fd042ca,7600,mairipora,SP
+901,2025-08-14 20:24:28,0c9712bf6ecf766c8e85d92f7991eb54,2,edcda2e50aadade37544f55a8da52207,telefonia,telephony,scroll,mobile,1388412c79ec06a2c8bbeccacbc59030,28623,nova friburgo,RJ
+707,2025-08-01 16:40:13,d1346bb9ea61df1a779d52d1bafeb667,2,ba3a1e2c6cc1fb7a27dd74916212e6fb,brinquedos,toys,scroll,mobile,f89a0ec060b6f0d7cf07782993dd5d42,4142,sao paulo,SP
+906,2025-07-31 17:06:46,564f0d69cba2da3f21f9017402d0dc06,2,faa36d27544b2b05c79f3d8c801d5dbd,perfumaria,perfumery,scroll,tablet,b8d1e0101aa162c796f1af6b73f30051,5754,sao paulo,SP
+997,2025-08-02 08:47:34,40e7f3dd68599eba447d4f95e9cedd1f,2,b3b0bce74668bf355cbd94db1e4d17b9,informatica_acessorios,computers_accessories,scroll,tablet,bb266b215a960fd467f227445deb1c52,30170,belo horizonte,MG
+901,2025-08-11 18:28:45,531848f78249503b665b3dfa71732bed,2,1f15aad258a1559be6c62fe1a774daa7,pet_shop,pet_shop,scroll,mobile,a91fd4761ed507625be2c9c2e1835069,2010,sao paulo,SP
+838,2025-08-06 12:23:50,da52d7f564d770bd7d3e123431815b33,2,7f303faaca61ab40b8f37d23b4ad34a7,brinquedos,toys,scroll,mobile,4ca1119b9bdb444929ab6051f92ca4b4,31920,belo horizonte,MG
+746,2025-08-14 12:53:27,15b2eac395043e2fc2577903cef35ffa,4,079b4f19f1705ffc39bdceabfa7fe7ad,automotivo,auto,add_to_cart,tablet,3c0982e4ddac70bc120bc074214a8476,78032,cuiaba,MT
+898,2025-08-03 04:49:55,75aa1071d01b766bb4b3e8b8d613555d,4,c8e7965a98acecf61c4cebbaf5c08c53,utilidades_domesticas,housewares,add_to_cart,tablet,5f36b55048cb51c5b249d619ac843d30,71963,brasilia,DF
+252,2025-08-12 06:53:36,e5b0afe11f94a8e9deb313561498c491,2,c384df04227582c085d6524937a3768a,automotivo,auto,scroll,desktop,8c7814ad86a0bcfe387a0b69efe52148,4845,sao paulo,SP
+906,2025-08-04 04:04:59,507bd98ffee3ec255833c4233bccfb5b,5,e0df353ed6d11a723c8046c7aec42d62,brinquedos,toys,remove_from_cart,mobile,273ccb8d8296ab3f9aa5cc8d37784123,5583,sao paulo,SP
+901,2025-08-14 19:32:47,65dd288522b06b501b85cb2c05152190,2,ae615b6d90889dda51e5a2e821d23b22,relogios_presentes,watches_gifts,scroll,mobile,09967b46ae66281b372b1b001b213897,36400,conselheiro lafaiete,MG
+936,2025-08-13 11:51:31,6abbcc9f45795f1845a3b4437ad9e5d8,4,8435e69e8ca35cc17d3471e240ea0d44,bebes,baby,add_to_cart,desktop,d975494f268572677bae5b5f44e2f915,47700,santana,BA
+898,2025-08-11 00:03:28,8c11dda15b999a9f9ac9dd43d91e26e5,2,ebefb6072c2491dbd1d5ef8a76d245ec,esporte_lazer,sports_leisure,scroll,tablet,59756c62ec090e8323aa2a526916a246,60442,fortaleza,CE
+733,2025-08-08 09:17:31,eb0f82d3736ca2bd8ec20d1be9163a66,1,69383c86144a5cfa4d16a0b7dc23d69a,beleza_saude,health_beauty,page_view,tablet,be5dff27b5167beccf3d9dd51e43005d,22410,rio de janeiro,RJ
+746,2025-07-31 15:57:17,444a5cfcdc5e76437c038ec2e42e4ac5,2,44523a5e61f0a718c2231922b8856ad7,relogios_presentes,watches_gifts,scroll,desktop,1500da334da019c68fda219f942ba38a,95040,caxias do sul,RS
+838,2025-08-05 11:34:05,5d9bc2aa134dd8adae770399d88f42c4,3,cdef49b7bb863e9db298e7868ddf93e3,relogios_presentes,watches_gifts,search_initiated,desktop,1bd5d0c2a8d4401513a58bb76c10a1d1,4619,sao paulo,SP
+405,2025-08-03 22:23:49,6dd7106231347cf1197b48cfac1db9a1,1,1cf1166849ef1df39734ef593d71f20c,perfumaria,perfumery,page_view,desktop,cd9ee4391bf0098b7cfde33287c340c8,37795,andradas,MG
+709,2025-08-12 03:18:01,ef27ad6a759b60d8a7d93688c171aa20,2,c8e167a128928bf9c4e5ab674e78d2c2,instrumentos_musicais,musical_instruments,scroll,desktop,b2880172995bb524150b904fc24a5e94,15190,nhandeara,SP
+989,2025-08-07 20:48:45,8f2ce98b00c29447f29b7b384c7a9640,1,c8de91ccb69dc89ba37b9dde15843aa9,automotivo,auto,page_view,tablet,c04de8425949ac25b8cb527f97efb1ec,78600,barra do garcas,MT
+802,2025-07-31 05:20:41,dce6f9a140fd4b1c5941da022a650535,4,22c5ddc22ea8cae84fc9917def682dc6,perfumaria,perfumery,add_to_cart,mobile,084be429c23e342acf5084ac6156d22e,86066,londrina,PR
+431,2025-08-03 08:50:29,5f00dc1a9cc2562dacacea4e8cea2811,2,5546b861464398b784d10d8894ac97b0,telefonia,telephony,scroll,mobile,025d137104467c3e5c07018d9d0bb6fa,24412,sao goncalo,RJ
+470,2025-08-07 21:47:34,76f19d6a7d77ce535fa4160a0a94358d,1,4413a608a42bd21bbf9d5abbd58c249a,cool_stuff,cool_stuff,page_view,mobile,1413a9b68adac5c0fddcdeb92223ed41,95770,feliz,RS
+642,2025-08-02 06:35:43,fb92391db333011d9c394f9e9d569d0b,1,e8f1f23c31482d8f798aaa64733e85d9,telefonia,telephony,page_view,desktop,3c29f545213b70a3ac37bd77da044948,70857,brasilia,DF
+372,2025-08-02 17:36:54,a4d0dd278a425410a8fc24e0d8711a27,2,ed832a46332b37403eb8670e6bcb9ee1,beleza_saude,health_beauty,scroll,tablet,bc4eb6761d78ace2cd036de69ab74f5c,14780,barretos,SP
+906,2025-08-10 06:27:47,bd5a9cf926384411a6c2f0696449a603,2,9a2baa159a216dcc9eb422cda7271ba8,brinquedos,toys,scroll,mobile,49ec50688a497360a34fcf6a14211abd,16270,glicerio,SP
+323,2025-08-06 21:09:39,e05ca5295fa14909119f1623a1737fb5,2,d585c50d622ff40b4d69959caa42a5a3,beleza_saude,health_beauty,scroll,mobile,aba5e6574122629e4f00bff233170a3b,2920,sao paulo,SP
+252,2025-08-10 05:53:48,32e2a69fb11e96ef27db307b21db154e,1,5d8ad55d3f8971622b53ef88f1229af9,casa_conforto,home_confort,page_view,mobile,11009613bcdb201007d97df9090a9b7e,4213,sao paulo,SP
+355,2025-08-10 01:58:44,fb10dfd11e28e35c964ac8ba36c7690d,1,ab9aa96e13784729bde0fddf698eb1e1,perfumaria,perfumery,page_view,desktop,e867ba503d6893139e395132ae138ffd,90150,porto alegre,RS
+889,2025-08-02 23:39:23,bc3389e52abbda44032300e38db97c25,2,23db0ed96c4c3278cd56fc70e4798742,bebes,baby,scroll,desktop,e6e46b9b0eec2f2400923f175eb00e3a,27277,volta redonda,RJ
+838,2025-08-11 12:28:07,6dfe3ddd436ac19e55962c1e03189bc4,2,5f24a2c5fe04fac8072d899fffa77540,utilidades_domesticas,housewares,scroll,desktop,95a1e94b0e816bb748d75ae1da8013e1,31310,belo horizonte,MG
+991,2025-08-13 02:45:44,a4edae4af0161e30468c898771c742af,2,28695d1fbc87ba371ee1a55dbb422f0c,cama_mesa_banho,bed_bath_table,scroll,desktop,a4565992c7592020c4fadfd19da372c7,13495,iracemapolis,SP
+470,2025-08-02 23:00:05,b72b2adcbe29bf290dce6043f04298a8,1,80a08e4dfa5115b34f674eca035a01dd,esporte_lazer,sports_leisure,page_view,desktop,7f3e8656011a9b8d6c12df5991ca69ff,21073,rio de janeiro,RJ
+997,2025-08-06 05:37:34,9db0a6065f7c15895b9a2705b6dbc77d,2,078482c5821678267aeb55b8edcdcb29,market_place,market_place,scroll,mobile,17aeb0f1c1dd5757f8aa0f4c098165f3,1232,sao paulo,SP
+889,2025-08-14 12:22:16,b30f69efdea5c24b0e45d79297b690a1,4,7514a3aab09ede7053ace487b3c89873,cama_mesa_banho,bed_bath_table,add_to_cart,mobile,7fba2abf57430b012926fbdcae4b9aeb,75280,orizona,GO
+470,2025-08-04 08:45:56,ce4cb710ba906b8b905d1f9451f7797d,2,a578af9e0a32506a9bd6239a50cf928b,telefonia,telephony,scroll,mobile,91a135708ad7c21c2675069c33a98670,3572,sao paulo,SP
+838,2025-08-11 13:20:31,93732ed72146ae356dec2a111f0879e1,2,54b755678728b84472c2b654ac4de777,alimentos_bebidas,food_drink,scroll,desktop,13ec734449904d3346466df58a6db4f7,21760,rio de janeiro,RJ
+709,2025-08-14 03:18:38,f92ec85d59e831845be77e6cb91af597,2,cbdb31ccb8741d52e26bf2a42c1648d1,utilidades_domesticas,housewares,scroll,tablet,d05fdf65460ea1bf8735cd5843c3d97d,27511,resende,RJ
+499,2025-08-07 23:59:57,c02f2c46944ac7911ae65033aea15c86,2,05fa3b5ecdf7f54e97fe25127db0ee7c,esporte_lazer,sports_leisure,scroll,desktop,4d9deef78d8ce98fac506b32b9021ce5,86707,arapongas,PR
+994,2025-08-04 08:38:09,249865ef7c68054c2d31ded934f362d1,2,757172573ef8a2cc354243f3da4fa565,ferramentas_jardim,garden_tools,scroll,tablet,25f24493ded5ebebc26a69b5db344e35,22270,rio de janeiro,RJ
+642,2025-08-12 22:41:18,836df37ad1fc6e991443fabe4783ae5d,1,37583bbe907fb493b9b2efdc7b24ab54,moveis_decoracao,furniture_decor,page_view,tablet,31a0924f318661d053477b0e7870298c,75906,rio verde,GO
+709,2025-08-01 07:30:55,e5e9eadd7d1db375dc607a5b9d10923c,1,e10cb463dd774bbee6a9002267ff573a,automotivo,auto,page_view,tablet,857880c4b99ee98fd9a1025dcf816354,13976,itapira,SP
+499,2025-08-01 07:11:02,edf79f26de20af3499b50c3f1375bedf,2,7e53e051875b2a0c9f22acd8a9a29a20,industria_comercio_e_negocios,industry_commerce_and_business,scroll,desktop,83204b6332128225f205aec5935261d2,3734,sao paulo,SP
+991,2025-08-07 05:45:06,162e0d0e69e279de6dae202082e45c63,2,e82ca7be7d1b57da564dd48fbde08f2d,instrumentos_musicais,musical_instruments,scroll,tablet,6aaf48f89c871980e35d3e1f5f549635,15130,mirassol,SP
+336,2025-08-05 04:50:37,45b49329c43ef921bfd31d3adda0bfe7,1,91c82ace62e0ca1b69b1a45bcc214b45,relogios_presentes,watches_gifts,page_view,mobile,f89b831965cd3743eedcd485cf699925,35350,raul soares,MG
+504,2025-08-01 10:44:40,933ed96b9264f37332ad5e04912c7691,2,231081927a13592c84df280baf744393,moveis_decoracao,furniture_decor,scroll,desktop,3cd16a72f707d4969180be6761107d6e,17053,bauru,SP
+470,2025-08-03 05:30:56,0f6d05e9c956bb1bbd47af66ad74b86b,2,cd3835370fe681dd37af664b5f84d88e,pet_shop,pet_shop,scroll,desktop,e7e264e44cacc99a3813e8fc72533ef1,18072,sorocaba,SP
+470,2025-08-12 11:25:52,af53cb36eff709464404f2d00c290c41,5,ff14b42e6c031d90825f40f2b1089185,papelaria,stationery,remove_from_cart,desktop,539c2ff1d3e3c1e4c167dfc3df332f3c,59064,natal,RN
+989,2025-08-10 09:25:18,498e5038515e2787cabeb0f0d17d32cd,2,d982791b03ad95faaa03fc746ad04672,informatica_acessorios,computers_accessories,scroll,desktop,3f92f9a537646f57f47b0f1415c7654c,11706,praia grande,SP
+336,2025-08-14 17:54:39,6cbfd3701bca0484c69f2996f1c5f930,1,f494b6e2b8bd806b45b117992c959a8a,utilidades_domesticas,housewares,page_view,mobile,04286686c86ebb7e5f9276bb33f8fbe1,24220,niteroi,RJ
+838,2025-08-06 06:08:36,d1978f0fa5260fa6f2cac38d784785ab,4,8f6e596987a0b45c0c2b2e938aa89a96,relogios_presentes,watches_gifts,add_to_cart,tablet,da9dc8ec1367751857141943c95765c7,79041,campo grande,MS
+758,2025-08-12 13:24:12,a672c01a8706789a69a3ab1da540a965,6,8232a265a535c1f886b38335667be2a5,bebes,baby,apply_coupon,desktop,6b728f9855c35b9bb52276facffb8788,24130,niteroi,RJ
+642,2025-08-13 01:05:35,f185f0c103eaf4cdb003c5fd33d29a9c,2,28fb90993dc41cc9bd28407d44c581ca,esporte_lazer,sports_leisure,scroll,tablet,082d6b71dce3485197b2204a0462acff,13186,hortolandia,SP
+506,2025-07-31 19:52:00,0930e7c9d47ac4f9a8f80b42514ae049,1,5dbf50af9485478b933f1028e108640d,eletronicos,electronics,page_view,mobile,155262bd88357533c2fdb773fc05485d,5785,sao paulo,SP
+506,2025-08-09 01:59:03,ed11d279d89c44bca26fd1b29db725b5,1,303719bf7adc0897358c3dcc3c7a6190,brinquedos,toys,page_view,tablet,9ee8464e78171dfec7dc9548b9bb3e59,22471,rio de janeiro,RJ
+504,2025-08-03 18:44:59,679b52550b180e159ebaf811fb542de3,1,c02a979508b4fbd64ce1db1ccd8dd6fa,informatica_acessorios,computers_accessories,page_view,mobile,f2044f20c466f86696dd34b9b969847f,26515,nilopolis,RJ
+889,2025-08-01 02:38:45,519c2ade7c1ac88ddb2a0e01477dd70c,2,65aad7866bb1987f122e668fa84040f4,beleza_saude,health_beauty,scroll,desktop,6420bfe19a1230cc5e7edc7371268077,78455,lucas do rio verde,MT
+994,2025-08-09 11:29:46,0da313f310f44b43f20e65ef3665222a,1,6f79d50d852c044e3f7f0954d13aeacf,moveis_decoracao,furniture_decor,page_view,tablet,9219f82efa5fff7ab0687b36fd038d3f,97700,santiago,RS
+405,2025-08-06 23:36:26,843ff05b30ce4f75b6170b39c78a8ee5,5,779559842fc122d55edbd03153f35e81,esporte_lazer,sports_leisure,remove_from_cart,tablet,8718d37e3e19a80c134708dbe5815732,95595,cidreira,RS
+991,2025-08-08 14:04:20,0df7ed475af4782bbba1363517a9ec16,6,f1c3f797ea4be7deb12eef156cd95b90,fashion_bolsas_e_acessorios,fashion_bags_accessories,apply_coupon,desktop,ad2496612be484d26991e7af767f29bb,82410,curitiba,PR
+802,2025-08-09 21:53:28,1fee8a461ed430f2a0a4ee0b68c9f1dd,2,6ea7a562f5a6249001ce232582060265,beleza_saude,health_beauty,scroll,mobile,5f2fab3e4ebe70800d18f18c0e545ef8,13232,campo limpo paulista,SP
+994,2025-08-11 18:54:56,3771dfd1e9b145a2459775515f01d34b,2,e1a5774894b0dcbed9a61bb82b96b3fd,papelaria,stationery,scroll,desktop,c541681bb8f119d61fd87bd2c06e2931,91040,porto alegre,RS
+642,2025-08-14 17:01:46,ed401ce445967c386a2373dcb0d4e72a,4,9b2c558d8722ce82e6cae7ac037c2ad8,papelaria,stationery,add_to_cart,tablet,e8a425f2b5d885c380a80386d64277b8,13091,campinas,SP
+631,2025-08-07 04:47:34,7b92d2af2f3ce0611b68dfbc5db7870f,3,093f7389fa2eccda5e86add8da4aa19e,cama_mesa_banho,bed_bath_table,search_initiated,tablet,116e9cca974c7fcf42b2e9b8b737da90,5621,sao paulo,SP
+386,2025-08-03 17:44:39,d1b933e07f5326f19fc4be6e7c02e39e,2,8d746e360a815705bef8e23eda6d4aa5,moveis_decoracao,furniture_decor,scroll,desktop,76618d6560887af4998f64283a07b513,38810,rio paranaiba,MG
+419,2025-08-06 04:09:25,2f7e0d9b02c05f440fea44dd6d81e8b4,4,42bb409da80c21a2ab7f65ec0c4f04d8,eletrodomesticos_2,home_appliances_2,add_to_cart,tablet,fe81bb32c243a86b2f86fbf053fe6140,1453,sao paulo,SP
+372,2025-08-01 07:34:39,cbd55dff082c38949f4a03a3719c3422,2,f5e5ad97ed609d83f1f9ef90e2d52450,market_place,market_place,scroll,mobile,dc7853d6016d0ec0e68b25f1f7046599,5303,sao paulo,SP
+665,2025-08-11 23:13:46,2a8d9f1d2d99d0e67e6ef28ec7f55589,3,fb00f51d564e36645bf7eab56ce5fd43,cool_stuff,cool_stuff,search_initiated,tablet,22ba07eef1aceefa113687feabee4b64,30640,belo horizonte,MG
+758,2025-08-14 03:23:43,da76f9977b3186c7e1a7c10ec515c835,1,659ad89a496494282d5dc1af1428c582,cama_mesa_banho,bed_bath_table,page_view,mobile,d27295915d486516b99c3aed8628e83b,20520,rio de janeiro,RJ
+419,2025-08-09 20:09:10,402943ae9d74ed16a21da5455f419294,1,9df7a56fa4352899fa6976c54a35ae3a,relogios_presentes,watches_gifts,page_view,tablet,d15605acc62833da0624a0bd2b50eeb1,30421,belo horizonte,MG
+823,2025-08-11 12:59:09,87880cd71e9805670dae6794534f4282,4,a5215a7a9f46c4185b12f38e9ddf2abc,pcs,computers,add_to_cart,mobile,f199ea84ac53cf917976f3d432a4ee12,7912,francisco morato,SP
+936,2025-08-13 05:08:32,2df9fc063bd388d8bd8a509ce6cbd7a3,1,aecd0c211a5e24ca163d35e5087189ed,esporte_lazer,sports_leisure,page_view,tablet,e6488d17c6c6331cdc09695741df024d,31060,belo horizonte,MG
+431,2025-08-12 21:02:59,10dd16991df7b09028004ea139cf0111,2,5bbebc281f50fcd65e31a103730bb64e,eletrodomesticos,home_appliances,scroll,tablet,f14e70852069f3306296aeb226115ab4,76980,vilhena,RO
+746,2025-07-31 09:53:31,1c76b7133be1eb64e6314d5b0685f47f,3,07d56eb519d315a2d8fb2f98f095e6bf,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,desktop,0a81c56b387e196c58e1144b858d1324,41680,salvador,BA
+478,2025-08-14 05:14:16,7df9914b5cd074d81dcb343a7107765b,1,575a896d07cd269eb0b2b8762e0be261,esporte_lazer,sports_leisure,page_view,desktop,eb51871bb18a99294b2130d3976cc706,14401,franca,SP
+997,2025-08-14 20:25:16,a3a80ba0dea267641017665d0f9b144b,1,79fca321dbd3453bd8211690e39f1659,bebes,baby,page_view,tablet,a49541d03e056ca867d3b96f267b8a9a,29015,vitoria,ES
+665,2025-08-03 18:50:51,c09557607b4707656905142f3e80c1be,5,e57e360b85e2ef90b804521ee8e16909,eletrodomesticos_2,home_appliances_2,remove_from_cart,mobile,8d0e4982b1986eb1d5953cde05580a37,57046,maceio,AL
+372,2025-08-13 03:13:23,4a00ac708f3f33c001588e9529e90691,1,ae61923c5593e8c2f7063cf4ffaac4fb,esporte_lazer,sports_leisure,page_view,mobile,82a1a712d8738a8320082f86f2cad79f,31330,belo horizonte,MG
+933,2025-08-01 12:08:34,2ac2c26386ad549a2d762e224cbb8d65,3,4e5dc46fe4e31dd605f374ee43f0268e,pet_shop,pet_shop,search_initiated,mobile,9f2c3722e1895d2cfc3d9f96f5f7716e,13331,indaiatuba,SP
+336,2025-08-09 19:37:07,17d00a6f67b69339cddcd4fc49c84f9f,2,18962ffc781d31e8d995293458954e91,moveis_sala,furniture_living_room,scroll,desktop,c65b063059376146a029cc02d2d4df6f,22040,rio de janeiro,RJ
+441,2025-08-09 00:15:04,a90c0553da200832991f1db0e9ca75dd,2,55782cb82e0efe052da0a3da237da3b2,automotivo,auto,scroll,desktop,59cd88cf03bb765f08bdcafaaacc38bd,30421,belo horizonte,MG
+560,2025-08-13 15:11:13,d00682c2eaf70db1869809d2fbaf7aba,2,61be4e522756a21071b8a02c2650bd3e,moveis_quarto,furniture_bedroom,scroll,desktop,556ae943ba81f78f9d6db9e9b7ce38d2,30180,belo horizonte,MG
+898,2025-08-03 20:36:31,b6b58a1c673e6fddc7eb8aa3b5992e00,1,cc5c6bf704a4b642e8964b5b2dcdb0da,ferramentas_jardim,garden_tools,page_view,tablet,ae4ee175689d48e31d08116beb86531c,13060,campinas,SP
+901,2025-08-10 04:15:00,73c26315a261beff993de96116b6d605,1,ba82e510acd9a0fe69a44cafea53f9aa,papelaria,stationery,page_view,mobile,56838c2e700402f2ceda13992e3b8dad,4324,sao paulo,SP
+936,2025-08-01 07:20:34,589b394c269c9debfc7c47e5ed514dc9,4,9695ef7fc6824ad30eb18ab61ecf906a,esporte_lazer,sports_leisure,add_to_cart,mobile,6f5c52ea47e32b73958b0ac0f3c34e88,13500,rio claro,SP
+838,2025-08-03 03:24:58,5f3789bef735a3dd4cc9a85f08b69fc5,1,43a39180da2ed07ba59252d23cf029e7,utilidades_domesticas,housewares,page_view,tablet,48806103f609b2bb022644d2853a57f5,78045,cuiaba,MT
+642,2025-08-06 18:26:27,064f9ae5ca1199c397a8155b2338783a,1,506a50e2a24273052e1ed28217b78733,industria_comercio_e_negocios,industry_commerce_and_business,page_view,mobile,73de7b7b976fc6b75283b05f67fd6b5b,12570,aparecida,SP
+560,2025-08-11 02:27:12,71e993ef101217dfb733f56e8f99cc20,2,ac35486adb7b02598c182c2ff2e05254,beleza_saude,health_beauty,scroll,mobile,eae27b5d35951bf2e2317457f4d47ed4,6182,osasco,SP
+506,2025-08-07 03:12:38,55cd7bfe95dcd698acf176278e14888e,1,a6690024de846637eee71e11fdbd95fa,esporte_lazer,sports_leisure,page_view,tablet,2878e5b88167faab17d4fb83a986d38b,3367,sao paulo,SP
+372,2025-08-07 13:44:56,ccf87313c84aa31965634de45095f410,2,a6f449f6257f26e556013151cee46b4b,papelaria,stationery,scroll,desktop,aa2fd34a8929265bc0bd0efb35332972,45652,ilheus,BA
+707,2025-08-08 08:17:48,26ab7fc41bcc634a71bf252e0f2e2009,2,4ae3d2e3c9f7168ba872b2bd4686d816,utilidades_domesticas,housewares,scroll,tablet,53de55fa655e5c369a9aa667d0ae7a84,80250,curitiba,PR
+997,2025-08-10 17:09:05,2b6e68e78e560c5b8dd02ca48f064a51,1,52cd8731a875ed2d76925ead2c6e6f5a,perfumaria,perfumery,page_view,tablet,b5af880788fd18dc583db64755bf0a56,29375,venda nova do imigrante,ES
+823,2025-08-01 18:43:25,311ec637af917bce7b283b74754e2baf,2,08fa0d50b027a64e8600e9c04759c825,esporte_lazer,sports_leisure,scroll,tablet,5473d80ee730a2ec3551d464d93b90ce,6150,osasco,SP
+936,2025-08-14 16:41:29,454586ba91da2327e8b3797673c84707,2,575617410387f4e614f39628fe8e81bd,esporte_lazer,sports_leisure,scroll,desktop,26a6e3e036636ef1d5636f98b66094cc,14600,sao joaquim da barra,SP
+878,2025-08-11 20:49:20,715f38d3b677f1e88e7516c3018bb241,4,1f88e86c9d7f76b2ab388a07cc8b535b,esporte_lazer,sports_leisure,add_to_cart,desktop,273a333047511083c6e77ef31fd25f2d,11533,cubatao,SP
+927,2025-08-10 14:07:27,f68312987c796a4b29fa222afa28c4c1,1,a822f75b08133d32f99d68448e2fcedc,esporte_lazer,sports_leisure,page_view,desktop,4c7403593a8f583d6968bb15e6ed749c,6709,cotia,SP
+997,2025-08-04 12:14:13,c0fa053afcb588fce87ade5024cada7a,2,60aee8f4bd3599ab0fcd1dcf285c9852,relogios_presentes,watches_gifts,scroll,desktop,dd95799592e245bb3f6746f25b4e6275,13035,campinas,SP
+927,2025-08-01 01:43:33,84046645ab90d775e6cb9be687a30018,1,94fe5d8bb49bb5643b837cfb59ec8d62,instrumentos_musicais,musical_instruments,page_view,tablet,6c07344b9824e1e92eb5063bce0c95ab,35162,ipatinga,MG
+441,2025-08-14 04:53:53,0b312ed4cd3253176725070e0567b01f,3,e7db7c40ea6647c808d48581f1308d88,bebes,baby,search_initiated,mobile,5f9e57e6275e77379564f6b45b6c9565,13024,campinas,SP
+454,2025-08-11 09:58:10,a1719762c10f68d33412963f65d7efed,6,39d927da9853bc98764f42316d02351f,esporte_lazer,sports_leisure,apply_coupon,desktop,a72c0c82da664895fb7166d9e0a40368,4476,sao paulo,SP
+802,2025-08-04 21:43:02,f836b48f2ee74cdb3fa9bcab656902df,5,39fab2af0c4e38ee29c6b8e05c81f93a,moveis_decoracao,furniture_decor,remove_from_cart,desktop,a8df4001abe77cf8473902c2b7efe418,5161,sao paulo,SP
+936,2025-08-01 04:57:47,ac5bb07473c4f65c7de7b65c1374a734,4,d93d7e81a8d724c4ef661e75647cf325,bebes,baby,add_to_cart,desktop,33d352eefa8484bf716f767284490592,5311,sao paulo,SP
+838,2025-08-10 02:09:38,940474e02a07d83fb5d8ff6083783296,5,5145cef9f9e1293cf8cba2c924eb94e9,moveis_escritorio,office_furniture,remove_from_cart,mobile,4c3a186e612effb1e9bc13a60fe5f384,2404,sao paulo,SP
+991,2025-08-14 20:42:21,3ce436f183e68e07877b285a838db11a,1,8ddf5554f2617f6324e26cb41a35f41a,beleza_saude,health_beauty,page_view,tablet,871766c5855e863f6eccc05f988b23cb,28013,campos dos goytacazes,RJ
+991,2025-08-05 15:19:50,95f5fe645df31a0190cb6354a603dcea,2,ee406bf28024d97771c4b1e8b7e8e219,cool_stuff,cool_stuff,scroll,mobile,daddad443c8d1bd86fa6ea8395e69e82,30710,belo horizonte,MG
+642,2025-08-05 09:22:53,683b739c969b6695ccb79703e84d2181,3,8fadf68a98d539874e3365004f8bb2e7,papelaria,stationery,search_initiated,desktop,a1d7e8961505df7409196957bfcc2e74,13370,rafard,SP
+665,2025-08-10 22:26:40,eb3d995301c320683de629f5b4dd0c78,3,9d5aabe3e3265ed911b2a85d14474635,brinquedos,toys,search_initiated,mobile,c79bea603fab0001ff7ae295b107888b,81480,curitiba,PR
+997,2025-08-13 17:06:12,c6cfaa95f28c055677c5a0a114f03b33,1,81040eb9c21d4f60b7771836b3255489,beleza_saude,health_beauty,page_view,mobile,d759dbfdebbd3ce9d7d28f6f383105e2,86050,londrina,PR
+758,2025-08-14 01:15:00,76dbc1556c66d771e8a6b60c35957e01,1,4aeaa9eb0499aab80a28183611cffd43,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,mobile,d33c5d355ab0a46b3fc4e41f2c99f19c,48410,cicero dantas,BA
+709,2025-08-03 17:12:27,f631b840468adb93e192259ece8b5c40,2,f3ae4b9a1e86b6295ee5b21dd0943692,brinquedos,toys,scroll,desktop,6eb5ecf14a3c47999e32609ef6f6f737,6543,santana de parnaiba,SP
+889,2025-08-11 23:28:46,8defe1397196855efc5abc7f4a806bcb,2,b84ee1832bd494a163f0a8315efde95c,informatica_acessorios,computers_accessories,scroll,tablet,4734fbf54dc311bb5593c823625133a5,98787,santa rosa,RS
+560,2025-08-02 09:08:00,c2de0f8a86d98046feba1f4c5f88306a,1,a7e25abccd44c762ce17be417966dec5,esporte_lazer,sports_leisure,page_view,tablet,27a53659b6216c57d106d48be0c50264,3521,sao paulo,SP
+495,2025-08-09 19:59:58,eecf2b94cdbe9ef6245fabb5e091c987,3,1d994f3116c393f22021e72f17ab5af5,alimentos_bebidas,food_drink,search_initiated,tablet,94819c1119bcbb29d414ac33b904e82d,18403,itapeva,SP
+889,2025-08-12 20:16:49,8e0aee736b0ca13d2e4e3cba6e3d067f,4,6c6c606fb5adb58ab9ef88a8d96ddd09,beleza_saude,health_beauty,add_to_cart,tablet,4c1f2c9958f38cb98a3913c8cb84fc0f,4079,sao paulo,SP
+506,2025-08-07 15:43:35,c386aa441b01ca7a484d2763114ab2a1,1,e98a500a671ec3eea9a498507b0154fa,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,mobile,1d5037eb2695392bc7e8fdef8d0f6c04,13023,campinas,SP
+506,2025-08-06 10:46:46,a680fe6d7d39da354273aefb119308c8,1,8cd056753a29f6bd8bef9fbabaa74f43,esporte_lazer,sports_leisure,page_view,desktop,9cb483da9c96d3a5087405d01c3d54ae,81770,curitiba,PR
+878,2025-08-01 21:36:14,4bc5b288fb0dc9643111cd35867e87ca,1,1be077a2d74abc6941e3fe47906df83c,brinquedos,toys,page_view,tablet,bc44427aae137aa87a14d442f2b7fdc3,89510,cacador,SC
+504,2025-07-31 09:24:55,4f65f6d688e904125fba1e3e87c75214,1,11c3ff6555092bf425ea842a023a7809,cool_stuff,cool_stuff,page_view,tablet,5e632447630ea07f307e39fa5d82b0e8,12620,piquete,SP
+386,2025-08-13 07:30:22,c389715f8b1f89ba6f0160230cfd95a7,6,f8d86453c62a01cc2920531c0bdf194d,esporte_lazer,sports_leisure,apply_coupon,tablet,87a7db17f4e44fceb48191d2e5612acf,55940,condado,PE
+504,2025-08-04 16:05:19,aea121c7ed7090e3fd711f7e6e74912b,2,71f0bc096460c175e49cb3826bc8761a,moveis_decoracao,furniture_decor,scroll,tablet,ec68881255e1e36e750fcb69f2315092,64006,teresina,PI
+631,2025-08-14 01:05:16,987dbcb1c8ec0e64620b6823603169d6,3,9bc7d25a36d620cf449cfdebe3de132f,beleza_saude,health_beauty,search_initiated,tablet,8dc9cb425d04c03588070571f516b0c8,36570,vicosa,MG
+898,2025-08-14 06:57:07,bc80b4e6fc53eccd155fd449dbefda27,3,0be79cf589781c512bd91976eadeeff0,consoles_games,consoles_games,search_initiated,desktop,41f7adb163a427fc217d7606a17a9fbc,13418,piracicaba,SP
+336,2025-08-09 03:30:26,48969e0a2e81b1be34e650c00415e030,1,6d3d8ade6b793a08b041b6bc653c08ca,moveis_decoracao,furniture_decor,page_view,desktop,d7e0cbfa7a0017e977db6647cd3c7df9,4931,sao paulo,SP
+629,2025-08-02 13:14:47,5944da5b7ceb112d474bf31ce6c6b742,2,ecd15c67f7a723b7de79f4346911e122,informatica_acessorios,computers_accessories,scroll,mobile,77a077a1a20ce37d0843a933d9043b45,20766,rio de janeiro,RJ
+431,2025-08-08 22:14:41,dfe9825762431b40b05e387b94712d60,3,8fd88178b111d5d12b4a85be4ea8bf4c,instrumentos_musicais,musical_instruments,search_initiated,tablet,e30ed0a5c4ad5a533d44e16a00b83c9d,80045,curitiba,PR
+927,2025-08-14 13:11:48,fee3a7207a4a940e951e244a13ffccea,1,e2765be8c962369ccda8f9880e6c3b6b,cama_mesa_banho,bed_bath_table,page_view,mobile,b86b13f832d20a80daac6a473cb62457,37890,muzambinho,MG
+252,2025-08-07 00:23:47,a7c105e27ad87e9c6c3f324645800bf5,1,5900bded018b6ea12771f169967122d2,sinalizacao_e_seguranca,signaling_and_security,page_view,tablet,05cb25c0b98e8d6f839049d97adfecab,53530,abreu e lima,PE
+419,2025-08-13 18:31:46,6f97c50773c310a9c35d8897b6083e87,2,7e68b55d4ee384bfda2b61c827d3f33f,brinquedos,toys,scroll,tablet,d29375f49ed5779772a9f78e90874c89,9423,ribeirao pires,SP
+478,2025-08-06 15:20:37,746b45780778b0a23bd60a088b891959,1,9cef9507ca068525d2ff2fadf077e5c5,papelaria,stationery,page_view,mobile,8cc29ee0f7c5b87cfddf1ba2403bb88f,30330,belo horizonte,MG
+372,2025-08-10 18:19:14,9e69321bb2e7f46db966e815d56ee6e8,6,775917a2882dceb1d02aaa6b1abc1b24,moveis_decoracao,furniture_decor,apply_coupon,desktop,2d5be5b4d4a603856911a03bb0dc8d0f,98804,santo angelo,RS
+901,2025-08-04 17:39:27,a1b5ca506b592bb72d4caadcbfe71385,4,16c1c1a3dc1ddc2fd5e32ae7fe616b0b,cama_mesa_banho,bed_bath_table,add_to_cart,tablet,c811311629fd3d76f5ca5eeb2abfa7e8,17511,marilia,SP
+746,2025-08-11 22:48:38,a7b21a6a3ce44761ce4955ab0ca3c99e,1,728af3cd3c85437cc72784d472f8edc4,cool_stuff,cool_stuff,page_view,tablet,c89baff4e3b659c48ebff23a7767799b,36305,sao joao del rei,MG
+629,2025-08-09 16:01:52,2542745ac649a2a8e9d27da530a80d3f,1,15b142fc0f773fb67de91301d1701894,moveis_decoracao,furniture_decor,page_view,tablet,038124edcdaa5fae5dceb9b71f0c49d8,2066,sao paulo,SP
+642,2025-08-01 16:40:48,e98b07a762a24e72b12e0bf2617eaf4a,3,f21799537eed0668347f55d5c1dfda03,automotivo,auto,search_initiated,tablet,354b654b99e81e4c2d40efda561643e0,28950,armacao dos buzios,RJ
+629,2025-08-10 18:39:54,1c362ec19c48872fbc1a38557234ae1d,6,195a72beccf48da20d71e2d7530b470a,beleza_saude,health_beauty,apply_coupon,mobile,dfe454834d8880b9037fed8f2cc790b0,29308,cachoeiro de itapemirim,ES
+989,2025-08-10 07:50:11,3c6f2c53258e60f1475d52d320a3891c,1,6f422d8cc7a2f0dc9936dabad9db6828,cama_mesa_banho,bed_bath_table,page_view,mobile,4dc105bde97d5f8bf38a8ad92e49fe2f,4935,sao paulo,SP
+823,2025-08-04 07:29:24,94b6aa1f152173976f523dfc04cd11fa,3,ff9032482857269e8683f0c2f8ba4709,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,desktop,a557b2d4e2a88cc6ae5e9dc6158d895a,4247,sao paulo,SP
+936,2025-08-10 01:53:10,87753d19371f5dbbaa878954d87fa0f5,1,1c19fc5db55cbd645b6021cd2841bdb4,cama_mesa_banho,bed_bath_table,page_view,desktop,a0527540f53842b5e705b3f7c245dc13,28140,santo amaro de campos,RJ
+906,2025-08-04 12:21:35,9daff53df6b6fdb6bf1ef391d9138f5f,2,add20623e743c90cefc65db803efa18e,perfumaria,perfumery,scroll,tablet,a3e2cda6aa36a8b56c59c414f3a5f378,5007,sao paulo,SP
+431,2025-08-01 21:07:42,ec25fe55c673e43d4b3a9bf813cc189c,3,c58c4a2286822275285e4fae432accbc,telefonia_fixa,fixed_telephony,search_initiated,desktop,2f42854be89a364edb459d2eacd2defc,29163,serra,ES
+709,2025-08-13 12:22:16,d1852c771f218173ebde6d0fa31af036,2,76eb799b655cf6ad3354a092e11246dd,informatica_acessorios,computers_accessories,scroll,desktop,3b89c5ae5ede6cc774386d606ded6e77,30720,belo horizonte,MG
+823,2025-08-08 00:35:33,616077b2a7c75e09c541623ceb18c22a,6,5af8f974918d5e68bc22ea894296adb6,ferramentas_jardim,garden_tools,apply_coupon,tablet,03e7923886f2bf499508dcc22da46422,68010,santarem,PA
+733,2025-08-13 19:35:45,9cfb0df685121979aeb180fca03b8ae5,3,211d84789fe01a27d1e5e12a60a30c85,beleza_saude,health_beauty,search_initiated,desktop,0e107dcc5202d6a2100f7625a883955f,1046,sao paulo,SP
+997,2025-08-06 13:04:17,b3dad37a7ed6c67056ababa4a4deff4d,1,4e9c78909e68601b5bf58e5797a789c7,climatizacao,air_conditioning,page_view,mobile,d0886880ad8e1bb53c74aa0923b0d0cb,6170,osasco,SP
+823,2025-08-11 11:23:10,484bead74b34094eb995e4ecee252deb,6,612f9101c59a6a365b661f2546fdceda,pet_shop,pet_shop,apply_coupon,tablet,b5988313a89f2d30445fb18971677259,20261,rio de janeiro,RJ
+927,2025-08-11 21:34:55,4dd8be21997b67cb6bdb882ad1137f15,1,f418649d11303fb6fcde71c9133f2ecc,utilidades_domesticas,housewares,page_view,desktop,47075b7e79d05b3d1c76bca315ae187d,75833,mineiros,GO
+936,2025-08-02 14:28:21,d9fa3536203bde0f33d22c61326df332,4,5dddb31154cbd968caa4706ef0f4e0f0,ferramentas_jardim,garden_tools,add_to_cart,mobile,3ed1c7a7fff4c3a4cd974aa106bb3f05,9635,sao bernardo do campo,SP
+323,2025-08-05 09:29:41,390998295b49e0086703894e31d9e512,3,773a9c97b7435492ec93014cd43ecf77,brinquedos,toys,search_initiated,desktop,f42b136b817fc56506451c4dcc4f2b0b,86010,londrina,PR
+506,2025-07-31 18:35:14,77c2f46cf580f4874c9a5751c2d88474,4,d9933dd922fa78131c80a6987a707f9a,automotivo,auto,add_to_cart,tablet,402cce5c0509000eed9e77fece8056e2,63430,ico,CE
+252,2025-08-06 22:27:28,4d73f3be7a90bb514642db6fea2aa7cd,2,64ebd99011a464d8ad8c12e9587038f6,construcao_ferramentas_construcao,construction_tools_construction,scroll,tablet,9b8053235a21d91d4a863a30105fc7e3,13760,tapiratiba,SP
+901,2025-08-13 15:41:36,1160a851f085cd83176e0e32dcbe2687,1,1f40cca568a44eb6405b017e2418f53c,eletronicos,electronics,page_view,tablet,b6fa5547432b36b4b9b885f9395a744c,12010,taubate,SP
+994,2025-08-06 05:01:12,498ce7988d1d397953797898c734dc82,2,6ca11e79ed1acb748ccbb8e6b821967d,perfumaria,perfumery,scroll,mobile,e7a1c791bc9982fe20ddccf0cadc0f14,17513,marilia,SP
+878,2025-08-13 12:06:53,85fdc9f140218413947b78ea86ce9855,3,35fedf44451bf3020fd3abaf5827d41e,automotivo,auto,search_initiated,mobile,00539155ce68fbe677934aebdb17e09b,8290,sao paulo,SP
+838,2025-08-08 10:23:26,83b48fc1876fce5840cc200c3695704e,4,6d8e78c479334cba03552e61a97eca2e,fashion_roupa_feminina,fashio_female_clothing,add_to_cart,desktop,17f3766db048319e954cbe3689649475,13070,campinas,SP
+709,2025-08-07 13:23:20,b3f9c0e01b6f0cd35967de0e0b7f0427,4,a9490f0e069790ddb7d8e7935ea3584a,moveis_decoracao,furniture_decor,add_to_cart,tablet,6a05d13b646fd82aa2a109d0e1ec7d84,35701,sete lagoas,MG
+506,2025-08-05 22:40:02,05290ca0306c13fc3eacdb969d058b85,1,c4fa0206ee58c2694c9642e6483b576a,perfumaria,perfumery,page_view,desktop,bb9b4553d42e28d6b5d59fd8b2540207,95913,lajeado,RS
+419,2025-08-02 12:09:43,9b3a1839ff915bd1c62f01725598acca,2,de72fab731d211f997cb9fac9d8151a1,moveis_decoracao,furniture_decor,scroll,mobile,3d6cba2464a5a92a342347462aa89b6e,27966,macae,RJ
+323,2025-08-05 08:39:34,d9d643b00c98c1b7ae45d925285eccba,1,e0b6956a1860dc425aab39707b0044af,automotivo,auto,page_view,tablet,4d198e41650d7032794365dfb840001a,5017,sao paulo,SP
+878,2025-08-01 23:50:47,d157ebb8ebe34202c1c494d8b38049a7,1,620b45f968a49556658d15ef8560a30d,informatica_acessorios,computers_accessories,page_view,mobile,dda70e98b52ff380a9f4c67ba1baeaa5,88106,sao jose,SC
+355,2025-08-03 23:04:54,ac9bcfbca17d0dee80c0d80125d55b71,4,8e312c483d79e02dbc1d68cce77e26c8,cama_mesa_banho,bed_bath_table,add_to_cart,desktop,0ba0cdb0f7ad9f992ac4bc9c8e0f5e2d,21341,rio de janeiro,RJ
+878,2025-08-04 01:16:38,402c412f0d4238f4503618b86b509939,3,ba2a4b4789f9736851b6a9c98d30f21d,esporte_lazer,sports_leisure,search_initiated,tablet,b86c3ccd584d448b6aa2200f8401991e,32240,contagem,MG
+454,2025-08-10 17:55:24,e1fa3e11507423349f9e0833b9698b2e,4,6cbfc716ebf92d25d1047a5fe47af5de,cama_mesa_banho,bed_bath_table,add_to_cart,mobile,0484f4053df3702347e3b260d0eccf39,71503,brasilia,DF
+936,2025-08-01 12:01:59,5ee0e90d6cf5698c23a76ab1debf467b,4,0645a55c7e265509606125e11b6fa2f0,moveis_decoracao,furniture_decor,add_to_cart,mobile,ca68a08b57ed32344b850bfa39dd6814,86604,rolandia,PR
+629,2025-08-09 01:19:49,fe183c5b40e3f8c97a4a5eda7392de2e,1,26eed370f5b5e551ed3a9854d522a65d,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,tablet,c68af324f2ec9ab54fbc9dcdca874af0,38703,patos de minas,MG
+504,2025-08-05 22:34:09,db4bfe6f8f3a7fb9635e8b0f2219a719,4,43c603a90cd6fa3056c5def766f44d23,automotivo,auto,add_to_cart,mobile,0f45ff8119b49d6240a3c45f6f60234a,49040,aracaju,SE
+499,2025-08-14 15:06:37,654111c54075858e34bbabeeb1a1273d,3,398f22ec36f9955449190bf09e971d83,beleza_saude,health_beauty,search_initiated,mobile,dc9d7738c8da323923a5205895d5b398,7124,guarulhos,SP
+560,2025-08-11 22:27:03,bfff9bd5326ab677cf86986235912397,2,6d1d611877ca6fe8901e27ea00df988b,brinquedos,toys,scroll,desktop,302be2cdf5c3cca66741fd7da8ad5fa8,68193,novo progresso,PA
+560,2025-08-12 11:39:00,35e8f2cff4eeed925cfa42f6731a4425,3,8a231b2009a17900eedc8a27cccf7828,esporte_lazer,sports_leisure,search_initiated,tablet,b5126ff357b20f7088484373d346618b,3820,sao paulo,SP
+336,2025-08-08 10:39:21,e02c67c745a0ed9e6b0a907408503e2e,1,49e9e2a6f7eb17fbd54ff019b3e3e8d6,cool_stuff,cool_stuff,page_view,tablet,13139131c06ef5dd80e4760e2152766a,38600,paracatu,MG
+478,2025-08-04 21:50:28,29e3a2295fa12b8d38458c597bee5635,4,bf8caf9fd8cb603716cdc03bb8f2f60d,moveis_decoracao,furniture_decor,add_to_cart,mobile,a41415ad767a9b63a17539bae0d36c66,13974,itapira,SP
+405,2025-08-02 23:19:31,be0b9ebc5a6063c689151c824e2730a1,2,25cdef5b1428725aa16b8b9a6fbd72ca,industria_comercio_e_negocios,industry_commerce_and_business,scroll,tablet,c690c0f509143039a808cc93aca2d9f0,88130,palhoca,SC
+506,2025-08-12 08:06:31,fad05c6edc4b2f7ec246318da04cfd72,5,5264cb4a58b418d789758d2f82913ca2,cama_mesa_banho,bed_bath_table,remove_from_cart,tablet,150848e4c31cad2bdae9dd49fe8c9910,12216,sao jose dos campos,SP
+252,2025-08-04 23:41:18,f3de897db02b60ae259ac54f92c43d17,1,6cfe89ec0814c1a570172b0916b102a8,telefonia,telephony,page_view,mobile,2026fd98a236e9f50742ccfbc21112f0,23098,rio de janeiro,RJ
+642,2025-08-12 19:17:33,672e326393f31d8250830a45a7995cb0,2,2efa6045e8d94172a5502d33e578656d,esporte_lazer,sports_leisure,scroll,tablet,dfe1d15b2c0138f025ec35ee2882706a,11673,caraguatatuba,SP
+823,2025-08-13 23:02:18,2285565c69d3cf67aff44a8a910373f7,3,d76371ba8d578341888d9c3d61ee90f5,beleza_saude,health_beauty,search_initiated,tablet,6ccbb05bf38d868e2a997d0dcf1c32ad,3570,sao paulo,SP
+441,2025-07-31 18:31:24,ac5d6be319154128b9a3bbce143401ef,1,4e299043dd819cc6f103f77b4bcf11eb,cama_mesa_banho,bed_bath_table,page_view,desktop,f9e540cafddaa8f7df04644ccd520a33,12287,cacapava,SP
+336,2025-08-06 18:06:41,a5252e81424e5fb2c7ddf01256cf94e0,2,c33af1c0bec994ff07664ab6dcae7a86,moveis_decoracao,furniture_decor,scroll,mobile,5a0b87c34f674cb92d999d2a37096227,38705,patos de minas,MG
+506,2025-08-09 19:45:33,b54a3497f7d74ec5e0ba9e086a06260b,1,f0737b524fe6b57f2ad4f174ce23a62c,esporte_lazer,sports_leisure,page_view,tablet,4fcc02418b087994c8ac9481d37560a3,27525,resende,RJ
+994,2025-08-01 13:12:58,0e1f1e73c7d0c1e639b2b56fae48cfa3,4,591f4f7c62c8baf1117e1cedbbe77f0e,construcao_ferramentas_construcao,construction_tools_construction,add_to_cart,desktop,8ae1c90bc2d88b7414b2b011abe281c9,3585,sao paulo,SP
+631,2025-08-02 08:00:21,35da61fea067d2343fcef9efa970944f,1,808190a48d18d09af357796e2b30d932,brinquedos,toys,page_view,tablet,e43227dd90b1d76fca2c870b657bb453,32675,betim,MG
+709,2025-08-06 09:36:53,02faaf661d80bd26b06ca44de75a20c5,6,d36078c6a92906c4c3a2b2a72c146230,fashion_bolsas_e_acessorios,fashion_bags_accessories,apply_coupon,mobile,ed88bc440d530e4a7cca8bb4f2c110d6,37900,passos,MG
+642,2025-08-12 06:45:20,8baba35b56c3e5c2e80183e5def5e364,1,914997fa7aef743334b7c0da8580fd5e,cama_mesa_banho,bed_bath_table,page_view,mobile,3e1202f3d3d47deb7509e78c606644b4,21215,rio de janeiro,RJ
+758,2025-07-31 19:01:33,8acb7867a1b2968030d945c538682170,5,e34f7accdfa3f3f2ab0c16db77858f6d,cama_mesa_banho,bed_bath_table,remove_from_cart,tablet,d164b19f04a89cca783eee581d4d07df,65636,timon,MA
+878,2025-08-13 17:31:17,9de7fef5728db3b3dbd095e0533f58e4,4,536f5439f278dff98e415fce685cc77b,cama_mesa_banho,bed_bath_table,add_to_cart,desktop,bcf0a5f0f3ec8639f940749aab360d8f,30570,belo horizonte,MG
+901,2025-08-14 15:15:02,d6e96f83633589d4a7dd877c2bea57e8,1,556f5f6c941fc24540f7602d7079d1e6,beleza_saude,health_beauty,page_view,desktop,cb1773ccb80012b3cbe87a1eb8c17428,15950,santa adelia,SP
+735,2025-08-01 15:34:02,df422639c27dac93686a9186cf885466,2,595b8278e4e5c52c86a4da3812b70081,cama_mesa_banho,bed_bath_table,scroll,desktop,fc2261ae2c583aa2e68241456a6467c8,86140,primeiro de maio,PR
+454,2025-08-01 10:26:32,854f983619b24efc2aa702bd11f207c9,4,3685c687db4b3d2da5085d23b408e93a,cool_stuff,cool_stuff,add_to_cart,desktop,71200e5ed443c22e1df3cfe1e053c07c,2082,sao paulo,SP
+499,2025-08-01 19:00:11,9af79b39675d49c918269e2888361ed9,6,93709a210f8c878e1d9b12ff28580f2e,relogios_presentes,watches_gifts,apply_coupon,desktop,d3207d6aa2f0ea52d7412bff13194a2a,85988,entre rios do oeste,PR
+927,2025-08-09 21:59:33,655cbe6a7b399bcdd1b055c1eaa48e7e,2,ba29a4c469271c108790a9dcf0344716,telefonia,telephony,scroll,mobile,06c5a017e2b74d38903164d42e7687f1,4415,sao paulo,SP
+441,2025-08-10 10:29:41,89129b4134df3289d76b155160d6e441,1,8d37ee446981d3790967d0268d6cfc81,cama_mesa_banho,bed_bath_table,page_view,desktop,21bde4e982c4681021edabb899bcebfe,38701,patos de minas,MG
+733,2025-08-10 10:17:15,aec38d4420cfbed169a7d1e2163a8154,2,f8b1b810ffb15e012d0ebba1be2810aa,moveis_decoracao,furniture_decor,scroll,tablet,f4301dc158276be8a00b759b7f1a7f22,3580,sao paulo,SP
+758,2025-08-01 03:58:27,19dba1813de49accbb9b1ccf74cba591,3,115d882d50c476a481e899b79aca6174,eletrodomesticos,home_appliances,search_initiated,desktop,a08c31126f854a190f90b423b6423e25,9771,sao bernardo do campo,SP
+499,2025-07-31 02:25:49,ce40914475f12c24e87e57bca904be45,2,9630b857efd71e4e583678219f57f0e2,malas_acessorios,luggage_accessories,scroll,desktop,b46ace6f12b26ad64443c557953aee62,75071,anapolis,GO
+989,2025-08-07 08:01:53,fa865c3b6a22d9eae6d21cb673649062,1,ca5861c2b694c968ae74e0a6ad72790e,utilidades_domesticas,housewares,page_view,mobile,66cd50e1daacbac871334fa71f3c6a67,74921,aparecida de goiania,GO
+665,2025-08-04 21:15:49,60509bada328e6c2341f67c3d58d5cad,1,d7cdea99e6f50310c242d02f16f1f63c,relogios_presentes,watches_gifts,page_view,mobile,1b6b0794e27afc2a2f56caf7783ac5bb,38066,uberaba,MG
+419,2025-07-31 06:42:10,9b9681cfb00f0a6f1723cd1d4f0be965,1,c5ad0e6b10f446cbb63f9c56fe47c3f1,moveis_decoracao,furniture_decor,page_view,desktop,3d16152c514410c047904cd433439892,57955,maragogi,AL
+642,2025-08-10 08:41:38,a9bb7262db7f75330d596923bcd27be9,3,b1ff030591e1d0e0069e54d11c5c21d5,utilidades_domesticas,housewares,search_initiated,tablet,6c207e522015abb0a23b0daf07bbe8c7,35680,itauna,MG
+478,2025-07-31 20:37:08,b0ed92092fac9c620ba0a0ce59eca40a,1,0fa81e7123fd0ebe03adbbe99d912827,cama_mesa_banho,bed_bath_table,page_view,mobile,786f871d8ef8aa582c55c3cea614f9ee,3111,sao paulo,SP
+560,2025-08-01 23:33:20,1e11025f8a103ddbf95ddaca105f7f4a,3,b70adcd90b3dc72e1b0243fbffd2b625,perfumaria,perfumery,search_initiated,desktop,4b4e1b485b402bcbe0a5894775f95127,2837,sao paulo,SP
+933,2025-08-10 19:23:08,b710399fff76d7d382dc542fa66da001,5,7755106d0e62f58f17df7f06db8751da,esporte_lazer,sports_leisure,remove_from_cart,mobile,c2509f00b43eb6c13fec5c8b16cf6a8a,5618,sao paulo,SP
+927,2025-08-05 17:56:35,75d126a99e57ae6ed59ff56708f2accf,1,acd87806fdeb28ef871e3a33bddd93a8,automotivo,auto,page_view,mobile,542003f439714809b42b48544b296f6f,15013,sao jose do rio preto,SP
+823,2025-08-06 02:10:57,0d96322bbb3ebb688fc30c1a1aba3e5c,2,cc81f952b83d2bdcfbd980e2a7249adf,pet_shop,pet_shop,scroll,desktop,8c9fdd93b77b8164ce7ac6da44813fb1,21032,rio de janeiro,RJ
+419,2025-07-31 23:01:59,3d10d3d5947319b132a01b9332e5b437,2,b2855c4e42b8a50f359904c6763eeddc,moveis_escritorio,office_furniture,scroll,mobile,3f806ddc608d1246cd93c6a750884016,74680,goiania,GO
+252,2025-08-06 00:31:59,c7148da8b575be2e41e23cb3e34edf5b,1,67523567791b73064e78d6a5731f379c,automotivo,auto,page_view,mobile,903ef81574df4baba67b022204c2aabb,38066,uberaba,MG
+441,2025-08-02 23:21:49,84dbc8cadf81995826879280316b6397,3,476ddefd263d2173f2f8a7a3fb5ec75c,esporte_lazer,sports_leisure,search_initiated,desktop,02f3f4574ac77170d5846d6a1a3be5e8,40285,salvador,BA
+823,2025-08-13 14:33:50,110610bf53fc189ecdff1917a441a991,1,90e72f6ceee757db03bba3a4eaef5dc4,automotivo,auto,page_view,desktop,120c80fd3ef1f24d1a364d88a3be7dfb,79010,campo grande,MS
+927,2025-07-31 01:02:19,72aec8b08542b4ad46dc664e1a0c69c0,2,e79755f8622cb7f42ca6f7b72284a7af,informatica_acessorios,computers_accessories,scroll,desktop,607ee8bb02a830ab3fe92493d4cc9892,59082,natal,RN
+735,2025-08-01 10:38:33,a6bf868985556478698f51cf124b1567,1,c60375672af95c47a105065af56ba16e,moveis_decoracao,furniture_decor,page_view,tablet,31786275e5f0953e0d19ff73b4ae5630,23015,rio de janeiro,RJ
+419,2025-08-11 12:12:32,a3e8795e27e7e50f56f6c7742551de28,1,734a3078bba2d8bf0113b808a86dc7bc,utilidades_domesticas,housewares,page_view,tablet,3bf9a44ef770ac450177ebc53c1445e0,2227,sao paulo,SP
+506,2025-08-14 14:47:49,057f00cb7a5ba328ca62472de1472fcc,5,3c5ff6cfedc787b5fcef300fc43100c0,automotivo,auto,remove_from_cart,desktop,d474be3df7d9b20e955385b114b4c42d,5331,sao paulo,SP
+936,2025-08-05 14:57:36,3e2930de7e731ac3ed3a0b024aadbb69,2,a743637eea3be2e0ab81acc155c9cce2,cama_mesa_banho,bed_bath_table,scroll,tablet,41cc5f6aa8c35f905d5ccab6db922369,36050,juiz de fora,MG
+431,2025-08-10 05:48:04,d9e285d36e3ae26036cb309ef5f65c76,6,59526429f5ef2fd355737bd1883f7856,automotivo,auto,apply_coupon,desktop,ed9ab198380446cd2c36517f5c3898b4,85811,cascavel,PR
+735,2025-08-06 10:39:40,49f311ba3c66c63e7542a637655d4a2f,3,d017a2151d543a9885604dc62a3d9dcc,fashion_bolsas_e_acessorios,fashion_bags_accessories,search_initiated,mobile,84320fdb6a094f124ede160c4df879e1,15115,bady bassitt,SP
+419,2025-08-05 07:29:31,336b6f8b290fd1dcbf2f9011c0fa6f5a,2,a00cd7752fb98e0a8382def60ecc0b17,telefonia,telephony,scroll,tablet,586d4b1a6b454e8da0d79170755d38bf,23060,rio de janeiro,RJ
+372,2025-08-08 17:34:53,bb0faea38cea645a7755175bbadd6535,5,ac32162917f9c1842336f4018493fb1d,pet_shop,pet_shop,remove_from_cart,tablet,cb94a4934d3faee353f9de12c70d0510,7913,francisco morato,SP
+898,2025-08-10 17:50:16,8fc77aeb6702524e82ee5274a353e7a5,3,424471a68d6b1ae4a53d39723e6981d3,eletroportateis,small_appliances,search_initiated,desktop,f7f7327cbfcf3a9248607e516ff7069f,88070,florianopolis,SC
+323,2025-07-31 18:23:36,e20e5dab42cf2fc3a11d1c89e087122b,2,4cd6ba4ea3112de8fc238307c4dc6307,cama_mesa_banho,bed_bath_table,scroll,tablet,4e21dec7323ad0b039b139d47fae3374,29118,vila velha,ES
+470,2025-08-13 01:39:02,cf8e348c6494786b1090cc70f23b2e5f,2,801a8823d2fb3157110897e1af035a5d,eletroportateis,small_appliances,scroll,mobile,4d5a16af4722856e79e5c877cb493765,4929,sao paulo,SP
+838,2025-07-31 00:55:10,5ac6b6fb2a239fac96ec7dc787600709,5,ed1c1bd7e59e3a26cfce3c9c8e7898ee,esporte_lazer,sports_leisure,remove_from_cart,tablet,ead79bd27a251fe8a2070b1304f10044,37270,campo belo,MG
+735,2025-08-14 17:17:18,af49ba922d1afdfd1a0299ac893443e8,2,4cbccd77b25ad10677a460380987eaf3,moveis_escritorio,office_furniture,scroll,tablet,fa2418e0a0f08920ee7db4e62ceb5043,37200,lavras,MG
+823,2025-08-03 14:08:40,b8f48f9883fa05a9e6fa06367fce7e87,3,0e46632ce140985c23007bb52b4c4039,esporte_lazer,sports_leisure,search_initiated,mobile,21f8380c328a63d3b44d25da17545860,38182,araxa,MG
+441,2025-08-08 19:39:25,dface4a39e0988b07091bee092e06a0e,3,b11308cde5c2dc1c7f2f947c62409e76,perfumaria,perfumery,search_initiated,desktop,177c725937ae5f96171bb8b43f196dfa,4110,sao paulo,SP
+560,2025-07-31 06:50:29,16f1aa8717863e1ca3f2b26a20dc577f,1,a151eeef55883e0b64e1ceb52810db4b,eletrodomesticos,home_appliances,page_view,mobile,e3f3bd612fca9ab1029f6e91d7028d9e,85818,cascavel,PR
+336,2025-08-07 18:52:46,dca1cedba0ec12fa1079b8f50f0cd16a,1,539025c69ca8d9160f0ae5190741ed74,moveis_decoracao,furniture_decor,page_view,desktop,8537fc70ed0482fbabe873dade8bf864,91530,porto alegre,RS
+838,2025-08-10 10:45:41,7fe022a904d647429c6e08a8f34c9b22,4,4372c58b785f6a6e66899e62099b6ef2,pet_shop,pet_shop,add_to_cart,desktop,931a4a1a3e2cf8b4b4d33922f1469dbe,12243,sao jose dos campos,SP
+323,2025-07-31 08:52:59,c1430fd5f2db40854fea86246ebfec8b,5,15571dce56ff7d152dab99a0bc8354d5,esporte_lazer,sports_leisure,remove_from_cart,mobile,44095d66cfc53accd5e6f47daa9e94f6,97541,alegrete,RS
+758,2025-08-01 11:53:55,6ee1dd0b1a877f6ffdc9f75177bd62f7,3,8d2453bdd784cad1b09625bad27e3bd9,relogios_presentes,watches_gifts,search_initiated,tablet,9350c369262a51cdcf07ab29be34e8e1,58050,joao pessoa,PB
+642,2025-08-11 12:15:26,7d39c5d887661f6e1699374db64104c1,4,fcd119ff3868ddbb0013932039418ede,livros_tecnicos,books_technical,add_to_cart,desktop,733ded559c53387c72f8c64bb36ad447,28820,silva jardim,RJ
+709,2025-08-13 09:16:49,723a5aaedfd28127b7f4bf4ead493c51,4,0d98754cfefd5a306f6633725f3aed59,cama_mesa_banho,bed_bath_table,add_to_cart,desktop,5b9b3022d82b12bdc1e52267db0b0f79,20560,rio de janeiro,RJ
+454,2025-08-08 08:17:27,91f92cfee46b79581b05aa974dd57ce5,2,95b6e8160fbea38f306a26e66a6465a3,automotivo,auto,scroll,desktop,9eca552063680b7cd2ed0e8aea002b21,81280,curitiba,PR
+735,2025-08-08 09:37:15,690515766f9073c82cc07cfa11c4fc11,2,4c183b9527d3fc69a4d5587b11f5fced,casa_construcao,home_construction,scroll,tablet,5925dfa8cd87ab4d852383f7039c8bc2,4271,sao paulo,SP
+936,2025-08-10 07:47:00,0926ef97ab333a4afea77827d3cbe32c,3,f4621f8ad6f54a2e3c408884068be46d,esporte_lazer,sports_leisure,search_initiated,tablet,8eb02bcfcb2deb1871afa092fbc732c9,9391,maua,SP
+906,2025-08-11 22:19:13,bb3283015ce6171f960b3f0470c59551,1,cae79e3b5c787c231543fa415a20b5cc,ferramentas_jardim,garden_tools,page_view,tablet,da006d4c52935d84b0421bd4592527c3,4042,sao paulo,SP
+499,2025-08-09 07:13:44,fdcb55239eb5b9bd6f9d2ccc88b59fbd,3,7e0dc102074f8285580c9777f79c90cf,ferramentas_jardim,garden_tools,search_initiated,tablet,eec787e51b3cbf1950f94491f739a85b,15015,sao jose do rio preto,SP
+252,2025-08-10 11:42:04,3f4e19268241474268bdb9db41441463,1,d5394d514863cae57faa03d1784ae6fd,brinquedos,toys,page_view,tablet,e9ee98a087ab1fe18056a08658081cea,90570,porto alegre,RS
+506,2025-08-04 00:20:03,acec81168c11c0d01d9d5955a3d507ab,1,85beb2646748eba31447d10a653938b2,cama_mesa_banho,bed_bath_table,page_view,desktop,acdc891424230535bd0833a2ac9e4c2f,13846,mogi-guacu,SP
+927,2025-08-06 10:33:11,498262061f04103f440f2e643da02027,2,553c5116d8f8866d39a1281071b3776f,moveis_decoracao,furniture_decor,scroll,tablet,e8001d7ab27230c1f2fb39aa63aea136,28300,itaperuna,RJ
+906,2025-08-13 16:45:10,763b5e1491aef5d315a7aedefe8d6a0e,2,34cfd42ee58203ab02adb27ae12fc8e4,automotivo,auto,scroll,tablet,867515077bce69bc586bc875003d5541,50610,recife,PE
+898,2025-08-08 09:42:27,65542d971c4643add951f515d873ebc3,2,bc072f287b475a918c00b3478d1bcef9,automotivo,auto,scroll,tablet,eb0676b96e9713df61a30fdcb2a58d18,24435,sao goncalo,RJ
+499,2025-08-07 21:38:04,3cebb5418614be0993ffaab8fd88b066,3,44c015f31e165a805a0c68a2124e2e90,moveis_decoracao,furniture_decor,search_initiated,desktop,e55d96f088e39aebedb3e743aca6d313,33400,lagoa santa,MG
+936,2025-08-08 05:15:09,7ad00854738c8fc46b6bf4c6974cfc49,1,e15746c8f73cb5e9d74ae01533fa02a5,utilidades_domesticas,housewares,page_view,desktop,0b0c6c4b2a8dd9793de2a049cf67684e,68447,vila dos cabanos,PA
+504,2025-08-12 12:21:59,681e334b8995206f1fc8ab3275d90592,2,706982d4d1d9841dfd470b6fe10f8614,bebes,baby,scroll,mobile,4dc19e952235d15cda17a77f0476a7f7,3985,sao paulo,SP
+499,2025-08-12 16:50:32,dd016c21610e21f5aea27c2e560d1b76,1,2d6b812c811ee4ef384bf40877c73706,moveis_decoracao,furniture_decor,page_view,desktop,980331124f1c9bb761311867a6d9dc7d,60740,fortaleza,CE
+504,2025-08-12 01:37:52,fca009d3c1e93669776e17149081e0da,1,628cfb8a45c95a7b796ea06b006e9384,automotivo,auto,page_view,mobile,3def78cb6595effacacd541252d8a9b0,78095,cuiaba,MT
+933,2025-08-10 23:03:11,231ab7a5eba5d3bb4cd2219ed9c25515,3,70e4915197d6c96ebbed11364d8ce3bd,automotivo,auto,search_initiated,tablet,afa013e2707c8ee6f2908cbec286d6e2,13025,campinas,SP
+994,2025-08-12 10:28:10,068a6193792ce340374afefa699e8880,3,500909059ad72b36b2554150cc327edb,cama_mesa_banho,bed_bath_table,search_initiated,mobile,be98ec008d2c33c772e14b5ae7a54461,81750,curitiba,PR
+936,2025-08-06 08:06:58,0b749bca20d46dd7bcdd5a94fe54117e,5,9093d520c7871c0d57998f4b5386870b,malas_acessorios,luggage_accessories,remove_from_cart,tablet,97c3a87ab5d63e6debeb38c8fc2aa765,1138,sao paulo,SP
+506,2025-08-08 12:31:48,f7fd634460c772aa7c67b397c3a0e831,5,d442e913f0c7f40f97261d76f4e943ef,moveis_decoracao,furniture_decor,remove_from_cart,mobile,807241193998f88941b5e369c762b9b7,35160,ipatinga,MG
+898,2025-08-13 09:44:18,036747722c993c40f22a72d23ebd5a45,1,e0345b1670b53fb0e3ffda000b7e3231,musica,music,page_view,tablet,9eeffd87f2e7056cd68c3896802919b5,13178,sumare,SP
+336,2025-08-02 16:42:28,666cb467ea14b1f98b33bdcf2e71d124,3,a16f2c3edfeabc364393b012e19e2a15,beleza_saude,health_beauty,search_initiated,desktop,9e015efc544eff0109aea1077d8609fe,4038,sao paulo,SP
+506,2025-08-10 15:22:21,65d79ebd74ab7244b7c75799809ce6c6,1,7172a7870fee91850dcbcb1f4de40cfc,cama_mesa_banho,bed_bath_table,page_view,desktop,bc9bb036f1529c6cac46245640498a98,89221,joinville,SC
+506,2025-08-13 23:47:26,ff2115ad55e342ae746a65ed647d841f,1,8db97c571a61d830930cf029a34c33ef,papelaria,stationery,page_view,mobile,7a8b629fdcb9a6e024b2ccfacbe4fd3b,78643,querencia,MT
+994,2025-07-31 21:08:15,db13a417a95ad304e9674468c17ade85,1,fb2f2ec90b4ee90ad257bbf89d01247e,cama_mesa_banho,bed_bath_table,page_view,mobile,70f81beee33fd4ac0ebf59d61dee4b1e,26950,paty do alferes,RJ
+936,2025-08-07 07:27:58,28c71ff0325445b8ed595d7d2bb4b7ad,2,10070e29929f7c7d609ee3201f236b8e,casa_construcao,home_construction,scroll,tablet,2db37a6c0fec55e442c67454f0de22d5,12900,braganca paulista,SP
+746,2025-08-02 01:04:11,1eb544acef426d2268c038b8e3ff1b23,2,fa38bcb3a473be0c408207618946a8c1,moveis_decoracao,furniture_decor,scroll,tablet,bcfc9032cea53ef734a6008742d954fc,5302,sao paulo,SP
+478,2025-08-12 00:03:09,552cbaf65982cd192f15260374cc0ea4,1,d2b42ba1cc7c04d6f6e4ea54392b95fa,eletronicos,electronics,page_view,tablet,ada6df32eb58762e6426f724772425b1,9290,santo andre,SP
+642,2025-08-02 08:56:10,0d6f688455ee919c000970e75b257731,1,813abede22d2496612b447a3f55f629e,eletronicos,electronics,page_view,tablet,4b9d5d97bd2fe143891cf91ac7ca1116,35701,sete lagoas,MG
+372,2025-08-12 21:53:17,56b7d186949bcc60a3f5a730adc5fb4f,2,44291e25afe160dfe5f844da1b0f8b15,perfumaria,perfumery,scroll,tablet,f08bb7f023516fc8b2c0342113a69b74,60831,fortaleza,CE
+629,2025-08-03 23:30:30,86eb5f9093235e1e5e2f6db715b98ac8,3,2ac41de9b0580f84618e017249626a72,moveis_decoracao,furniture_decor,search_initiated,desktop,f42015042a0a93d1e860d63a5cc2fbcb,57075,maceio,AL
+504,2025-08-11 12:10:49,94ce1065665d266c491641637b7bc660,1,ab592db756fdbec7cc98b2cd91ed51d0,moveis_decoracao,furniture_decor,page_view,mobile,57cc19a7041c0fddd1b7a65dc03011c6,72250,brasilia,DF
+933,2025-08-13 15:17:19,71c87b1447c3045b2cc7e46235eef43a,3,e30a6d4fa7a954f72a0392de4c613243,telefonia,telephony,search_initiated,mobile,ddaa84d97afb2d3d932f167f60a5d716,2848,sao paulo,SP
+802,2025-08-02 09:25:04,b6b56e9f292d6bee01d74ee5dd2e4b73,2,0ae935aec15938b92f6667ec2fde2dc2,utilidades_domesticas,housewares,scroll,desktop,09561c93d1847da6b8c733c10a97a5e8,36770,cataguases,MG
+709,2025-08-02 13:55:04,deb227a8db451a4b1524b5cbfb45dc8e,3,01948c8dbac93beb665f136bccd530d8,consoles_games,consoles_games,search_initiated,tablet,1e7c82a4566c2e1aab297d754e9f360d,89202,joinville,SC
+252,2025-08-01 17:29:15,3f3b4d8785d4f1fd6decff84c40b0436,3,5605cd5e9d7705908a49d92a4299c4d1,perfumaria,perfumery,search_initiated,desktop,4a8a8d16bc5a98b219793842aed843e4,6618,jandira,SP
+631,2025-08-06 04:21:56,17984e3bdcf729cdee5f2e4ad08a5f6e,2,bf7bb0eab82e5726d4401a152eb91a4a,relogios_presentes,watches_gifts,scroll,tablet,16c1909306ce443276ee6f9b1bf09fe9,65633,timon,MA
+629,2025-08-07 15:08:36,833d1eea64eebdeec7aaa771afddc2aa,2,877e380ee3bca2827be3586e9d4b7c84,eletronicos,electronics,scroll,tablet,601b3156a506027b2b5cea597bd747c5,22040,rio de janeiro,RJ
+642,2025-08-09 22:09:40,49b178e403b4791714ba184ecfbea446,1,44feb28a74abb0f2f303412d60160750,livros_tecnicos,books_technical,page_view,desktop,fa93c146370902578370636dc9e6ed98,5711,sao paulo,SP
+805,2025-08-06 13:10:46,54bec33d5e42b3d9f9aaae70bbc2f441,3,c53a665fc8ea6c807c7558cc28fcdd26,automotivo,auto,search_initiated,mobile,6332ca114f87dfefe3a7f3cdc65e66b5,17780,lucelia,SP
+878,2025-07-31 14:41:21,087877f19f6e3dd2fe0724376a2e7f8c,1,5a8f056272cbc4ea04c72f989fcb85f8,fashion_calcados,fashion_shoes,page_view,tablet,eeb74135e3038d55e0a4b5c2eb45e285,89199,santa terezinha,SC
+419,2025-08-02 10:54:12,5094fbfacb2f3389cf4fa9b276caea3b,4,dc85876834143377929cf89f98115506,informatica_acessorios,computers_accessories,add_to_cart,mobile,ef9fdb355684024c1aa834c328980e9a,27213,volta redonda,RJ
+735,2025-08-04 00:24:38,f10ddfd3502d2ca8e86c91bac063760e,3,20205e1ea024aec43a7a3fc0d8f7a287,moveis_decoracao,furniture_decor,search_initiated,tablet,388bf92f949b84efb97062e6833dfab9,41940,salvador,BA
+372,2025-08-10 21:12:36,205e9e9ccff41ffe4716b95195c3ef06,1,3881e42dae9f77fcbaf9f23020b7ef44,malas_acessorios,luggage_accessories,page_view,mobile,eeb0ff5fd3d5707ba88a13c79d54b4dc,95595,cidreira,RS
+642,2025-08-03 18:59:17,51f85bb5c956b0958c65dfefdf996a83,3,d4a3a15f99c94c6741d16d3375b928e6,relogios_presentes,watches_gifts,search_initiated,mobile,ff6071b8db1b9da6ca797d56bb0136fa,66095,belem,PA
+898,2025-08-12 13:30:14,9a02295e3381803554347ab4dc1ab41b,2,893286a6bb8c754b4c7082d8705e6443,brinquedos,toys,scroll,desktop,182491a144858edd68163675689069d6,1046,sao paulo,SP
+323,2025-08-01 03:48:51,749d30cbf1b9bd281f3a8be978f6b8a8,5,e57eb018e37376580079825eb29a3419,relogios_presentes,watches_gifts,remove_from_cart,mobile,c7c19110042036e6266adc998cbf1289,62580,acarau,CE
+802,2025-08-12 10:02:17,e21548e205144b3d0c313f57954ac390,1,5ca6a40fbc611451486b6525c655c64b,moveis_decoracao,furniture_decor,page_view,mobile,a898ab43aeef38dc77ef9436c25d6711,24120,niteroi,RJ
+878,2025-07-31 17:56:18,55497a8f92fba80515d30d6f1b4eb9d8,2,20dce72985857d1c8d09d506a8ec5187,automotivo,auto,scroll,tablet,47463eb4bfb39cf92bfdb49ec033aa08,42710,lauro de freitas,BA
+629,2025-08-02 03:27:22,465c85475574bd5c51ee1e4fc4d3ad64,4,f9888c7f6af544006f91ca92833d3507,automotivo,auto,add_to_cart,mobile,afc79cb8de7d350f1909eb6dcd0cb8dc,57630,belem,AL
+994,2025-08-02 09:07:28,3922d6a8ed0273142c88d1d9fa62f3ad,3,21a6e75c9c60427dc2e76f267f7e09e7,brinquedos,toys,search_initiated,mobile,dfbaa905d79219afc7a10c45702ee9af,45860,canavieiras,BA
+386,2025-08-09 21:54:02,ac9f629ac1b9ac8a765332bcfaa0f99c,1,77d58496dfa2a355c62351dd1d3982bd,construcao_ferramentas_construcao,construction_tools_construction,page_view,tablet,b88e9086f50b72f9ee8bb84e8bc2bb20,71572,brasilia,DF
+441,2025-08-04 17:49:45,5a956bc385c532ba9d78bd4948e7f8e0,2,a32a25c59034cb4c034031798e2fba85,moveis_decoracao,furniture_decor,scroll,desktop,9ae2dda41ec3dae4c5c780e251223272,6421,barueri,SP
+386,2025-08-07 12:14:04,6a830a6e6de059a41ba310fc217a6bd8,2,6831b5d22263248cd732a13b207fd68a,brinquedos,toys,scroll,desktop,fd3a69ec7f07e6cdd8f87021f0191cf9,8381,sao paulo,SP
+499,2025-08-01 10:30:36,3247cd3218e45b431e7920aca9acea3f,2,950ea5e8d99762513bc4841fee9e7225,cama_mesa_banho,bed_bath_table,scroll,desktop,df35ed1826c338d1aecc6f35bfc4dc34,22061,rio de janeiro,RJ
+709,2025-08-14 20:17:43,b81d67e79a5c8f8960c71c26ff7763d0,1,40876e499870e34fccde7cfb266a987d,construcao_ferramentas_construcao,construction_tools_construction,page_view,desktop,d19314555232be31f610ec8757a6752c,9090,santo andre,SP
+372,2025-07-31 04:51:44,116f2485586eef5359edb16d364f7136,1,e5e0c45564bc74a85e8e51968fdefa8d,automotivo,auto,page_view,tablet,7bff4fff725edd40fde6f0ac1eb0e2dc,22725,rio de janeiro,RJ
+454,2025-08-10 19:09:24,b29cd4b6b9a32a9071f8ef282588b18b,2,f6c0bce2838cf1bdab4958c4cb8b946e,relogios_presentes,watches_gifts,scroll,mobile,a97df1dc7d1c0c87e37eb05d37484124,22743,rio de janeiro,RJ
+906,2025-08-10 15:21:16,e15fc5eebbb46681049d28f79fde5419,6,b29f3f48c076dfcdc3e055b93874657f,market_place,market_place,apply_coupon,tablet,7fb211f99a01b4971fd1e07e3a256458,66063,belem,PA
+431,2025-08-04 21:39:51,11e50198c769f7badb6655afa56724a6,3,71d9c2b8b10871fa61851922aabc292d,cama_mesa_banho,bed_bath_table,search_initiated,desktop,7053b255a7dc04c16609c23f9b5d11c0,45810,porto seguro,BA
+898,2025-08-12 07:44:04,a58973d74af74554a3396964dc19c1ae,6,ec6bda3514b2616da08c5139893b14d2,moveis_decoracao,furniture_decor,apply_coupon,mobile,9057341f069a7cd937c12cb1f46b6e81,85301,laranjeiras do sul,PR
+560,2025-08-02 17:40:10,45ee903a8b62062d099b7c58fb4cc127,1,d5abd3b28e2a7a0da8f0a4617f9188d6,telefonia,telephony,page_view,desktop,e4797a87a96bbc24c0680dcd456b5f81,88095,florianopolis,SC
+665,2025-08-02 02:51:16,9a0b662a360c79f2dc50396f6041c1e5,2,ce04dcb7aa96ad49d4933f3d4a9f8eb7,fashion_roupa_masculina,fashion_male_clothing,scroll,mobile,ae2f31bb663dcb464356ee4ca658cc88,36800,carangola,MG
+355,2025-08-01 22:02:10,9c79fa52d8ef5e2e023052e24a06e896,1,e62d582ddb7630168d7227ca1f9edbd2,perfumaria,perfumery,page_view,tablet,70ffda7e4167ce87ac620ab2c572ac4f,19970,palmital,SP
+642,2025-08-12 12:32:25,823c81b03ff5876452eded3ea6d9ac44,1,1878fcfa202ce65b4bfaa9d16250ee86,moveis_escritorio,office_furniture,page_view,desktop,246578bb79248a97e8d47514ac7decb1,9892,sao bernardo do campo,SP
+454,2025-07-31 04:22:28,9e611a18f00b0d42c0805512db3c5337,2,4aa52adb5489aa151e17023d4e153297,pet_shop,pet_shop,scroll,tablet,9d92c9e7325cbadab39042d4a60c7d9d,4823,sao paulo,SP
+252,2025-08-11 22:12:08,24e1a42b856457e1d82e583454007f41,3,368ab9ae54053acc2a79f2e9f5fb4cbf,cama_mesa_banho,bed_bath_table,search_initiated,mobile,5ed5b10191a926c609c455dc76d90f60,78088,cuiaba,MT
+838,2025-07-31 16:44:16,f0cda565d6b10de99429432cf0a5d4fe,1,26db948671a4ad63637c2d2065477f00,moveis_decoracao,furniture_decor,page_view,tablet,394d653a91731237f192990cc1ead2d3,79600,tres lagoas,MS
+878,2025-08-13 18:55:14,e4b73f0c9ebdea67a8300aaad25ff939,1,5cd974d57ad85f7d1dfa45acba5e2028,utilidades_domesticas,housewares,page_view,desktop,06e745bbbf3c1a18558ced1547ea819a,36235,santa rita do ibitipoca,MG
+898,2025-08-13 20:17:57,f0536d444683d894060a91bbb434fe2b,1,59089e1668cc247d055ca3f9149093fc,climatizacao,air_conditioning,page_view,tablet,a8013fd4e4acf9c0c679bda6d572eeee,75902,rio verde,GO
+906,2025-08-07 06:37:05,ff7920f10be4fe1845f0f029ec67bb9f,2,62b0aaa3af54c1599523aa7505ac5216,telefonia,telephony,scroll,desktop,39afbf6a74f327b36e94ba08376a6029,47400,xique-xique,BA
+665,2025-08-10 22:40:11,57084484e76a8290cf2c9f4968235f19,1,6cd57d91d76b7cb14085f9655d5e2ebb,pet_shop,pet_shop,page_view,tablet,eac78cbe2347577c0999258bdee983c0,39803,teofilo otoni,MG
+805,2025-08-11 16:40:02,07f8620c4c162602d5a4ff41e173d812,3,f5bef3f1d42ac5eaaa1b7050d911732e,beleza_saude,health_beauty,search_initiated,tablet,26b7f35cd73d0ff446da64bfb54b7c5b,29010,vitoria,ES
+506,2025-08-13 02:27:45,8901c3b17ec32af7630fe1d96955db36,2,d3a45de279a0bde9b598a181bd2a9815,brinquedos,toys,scroll,tablet,4f06601f976483d7d1669f22ea9fc060,59198,montanhas,RN
+901,2025-08-11 05:54:56,52d8b6135686c07f3eb37641f6c8d4c8,3,b168e4a5c3f1d25dbcc01d914ea1cf5f,esporte_lazer,sports_leisure,search_initiated,tablet,c613a4faa02528386e21ca5f8ceaaf4f,34585,sabara,MG
+323,2025-08-10 23:00:03,08c7e9277e931b338a239e83980b067d,1,188a7a06ef624d9549bad5dea5e84ea6,moveis_decoracao,furniture_decor,page_view,desktop,6d00968d345231e30a9927c65bf9a5fe,66055,belem,PA
+994,2025-08-07 01:09:05,d065739818d474d19dfdb51d54c0a1e9,2,dea3de7c4e7aa375d564fa2ddb7099b7,utilidades_domesticas,housewares,scroll,tablet,b0df0c28ffa58ea9035f06f993bc717a,37701,pocos de caldas,MG
+470,2025-08-01 22:14:09,f9fec28e6ee86a722d3d5ff5e56d117f,3,b7be32135142911c4a0f4d17ceb23497,eletrodomesticos,home_appliances,search_initiated,desktop,3b950ab19a8ea0fe5940db82bcc46579,70772,brasilia,DF
+823,2025-08-12 11:32:40,730f18d38dcf34a19e4897e18b24f095,6,4025ee582ef6b8c478af3b44cf89054b,cama_mesa_banho,bed_bath_table,apply_coupon,mobile,ad7a82ad700c917ec7703d1209587365,57035,maceio,AL
+386,2025-08-09 05:22:27,9f75fe65a6e57c44f6adca8ae7340bdb,6,f9cce3e19235fa7d11942f69caaa22c7,telefonia,telephony,apply_coupon,tablet,d08947ded9f4416c1372fd851c90679a,41745,salvador,BA
+336,2025-08-07 10:11:37,c516b73d266a5c5a35c1419d5535036a,3,4374f5c6e8ab35133a8dbc5517ec0388,ferramentas_jardim,garden_tools,search_initiated,desktop,f9196af0a5aa201ab410e831c6f8ed05,89032,blumenau,SC
+707,2025-08-05 10:32:28,c3225d954016edd53a5c08e01888dab0,1,8f4735c09292c695473969af57466365,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,mobile,3389bd29cfb0274ae06e92ea00ee6c2e,3476,sao paulo,SP
+735,2025-08-12 22:04:19,0cdc56cae92a99834552b88218f2baa5,6,8f125d4dd972e1eab1ad8d6644f63330,cama_mesa_banho,bed_bath_table,apply_coupon,desktop,2c1fd85b76dbae1183e7f72866dde523,8040,sao paulo,SP
+823,2025-08-12 13:55:46,7f6cabc1cfc4fa9e3db23f6dd1ea6317,2,622bad99b4296aade0783ebecdd3fa15,esporte_lazer,sports_leisure,scroll,tablet,d36f96e1eda5c86966988768b21d34d0,38600,paracatu,MG
+478,2025-08-08 22:27:52,59ce9c14308c8108e4442abec2541369,3,5c78cd7b50ea28c57bfe6cd09700dcb8,beleza_saude,health_beauty,search_initiated,desktop,0bb5592acc73ecd040d4b7c75ffee545,29040,vitoria,ES
+707,2025-08-04 18:33:30,d8acb46c718975948423dbf1b603b959,4,a4d56f9d3619387639fec0567bc4693d,automotivo,auto,add_to_cart,desktop,3629a4b18f2eb69e03f153158e48d2cc,78580,alta floresta,MT
+665,2025-08-04 05:24:37,fcb0a07f3175199fbcbc0c2f848c2811,3,0e54696a1223698bef52eeff59a10098,beleza_saude,health_beauty,search_initiated,desktop,a988373d0194f577c088cf2ca5bdffb3,36505,uba,MG
+454,2025-08-05 21:25:59,dc1a55154836abe604137fb9a1a1b6fd,2,47376be1404bbe927766e8a9011714cb,cool_stuff,cool_stuff,scroll,desktop,f680a7104fe131f29d3b05cb5e84b7b9,12211,sao jose dos campos,SP
+372,2025-07-31 03:17:26,9fe2f3fb24c5a450e4d649be659b692d,4,13b347f712ed4697097275485483326c,moveis_decoracao,furniture_decor,add_to_cart,mobile,cf20925bdb604a32a9862a3757fd6ff7,18606,botucatu,SP
+991,2025-08-06 07:45:47,d419776edf19bf4f7f2498b72d0c40fc,2,2338a290bd0581fde51b770baeddb0a6,artes,art,scroll,mobile,9cb5815e09a510d171950eeb02fcd932,86850,rosario do ivai,PR
+802,2025-08-08 18:12:23,d709882bacabeecfcba6ed0cb415be83,5,54e5939fcd9ae70ad0f59f612d6d29bd,cool_stuff,cool_stuff,remove_from_cart,desktop,39b34a4c39d8914f6a4e949170c9b1de,12943,atibaia,SP
+709,2025-08-04 21:37:50,4cef993bd4c1f61b12e8a8823f20cb08,1,c511bbd742df73d5b2ba4594d4901f2b,ferramentas_jardim,garden_tools,page_view,tablet,20c0d1b25561a2be22a834300123a413,22441,rio de janeiro,RJ
+991,2025-08-08 03:21:13,c5827b73d67d474d76a268f0dda54396,3,dd0c92095e24c0592ff858d2c4837a78,construcao_ferramentas_construcao,construction_tools_construction,search_initiated,desktop,d97918f04ae8a0b8e8c8aa5be14b965a,5798,sao paulo,SP
+642,2025-08-09 18:49:00,322f2569c4dca8ee5119d0714fc09c1e,1,90d44d8f3025c0bcf8ef83de3fe8011e,ferramentas_jardim,garden_tools,page_view,mobile,dc352a59954067bae905d7abdd47ae49,11668,caraguatatuba,SP
+997,2025-08-14 02:56:44,f430542e555e325d0dccbbb8410208a1,1,060109450b2f49e4d5c4fdfd3d8ebc34,utilidades_domesticas,housewares,page_view,tablet,39d7229ec5fb17788c6e0ef78569affc,88708,tubarao,SC
+252,2025-08-03 23:25:53,3aa733464591b63ba16abe084903a511,1,53394e15d1c663729450eb4a49c4ff7e,brinquedos,toys,page_view,desktop,d104a1857bcb78c73dec2ac5a46ca210,28660,bom jardim,RJ
+454,2025-07-31 09:48:26,749b4a27ab77ae603f9e260c945ce8bd,1,c997c21dbbcb609d50e418f73437eae5,esporte_lazer,sports_leisure,page_view,tablet,97df2663e9030b16d0e9eb25affd2c30,74473,goiania,GO
+665,2025-08-06 02:14:57,accdad8ab1a62db957ffcefa272667a0,2,fe0c30fb2df4e35bc7319b277ddbdaa5,sinalizacao_e_seguranca,signaling_and_security,scroll,desktop,339f4ca769f8240ea30f88c25c5c5f11,40150,salvador,BA
+802,2025-08-13 00:27:48,4401e9e6cfd32822cdc8d03d8917fbf5,6,6aa8f339965debf52a549f8aade6d068,eletrodomesticos,home_appliances,apply_coupon,desktop,8fa464349f7a1b2772d62cde22301440,86182,cambe,PR
+733,2025-08-12 12:46:28,38a207eb1095e45ba5d6a3fae5112be2,4,c6a212ed7d57767d94530e11fabcd06f,automotivo,auto,add_to_cart,mobile,1af3dcbc89998031651925e3994eab18,3335,sao paulo,SP
+355,2025-08-01 21:58:23,096651928eb1bccf690c61c5bf74e7b4,3,db9f62e6fb453028d58b26fa46c56d31,bebes,baby,search_initiated,mobile,e5bcb7daa146eef209d64b3a9742f31f,4128,sao paulo,SP
+355,2025-08-11 07:47:08,c75ba8c2044f28734bcac5cf12f37713,1,ff0303657c756073d669ed516070eb3e,climatizacao,air_conditioning,page_view,tablet,35949a9aff4cb9adb7394c44bb21e075,12400,pindamonhangaba,SP
+454,2025-08-04 18:02:42,2322c0f516a8bad266c770d1150e55a4,1,3f1a741cf5591384428c1cbb0ef07ec0,beleza_saude,health_beauty,page_view,mobile,c5eb4ef20f1bb764daf1936474b5e629,65636,timon,MA
+758,2025-08-04 10:13:29,f51384546dffb3d2caa47db623a0c856,2,f23d24b737a58861ed576d2128c439e4,cama_mesa_banho,bed_bath_table,scroll,mobile,2072159521783f1f92e514ce805898df,95032,caxias do sul,RS
+478,2025-08-08 05:52:12,06475b1ce34b05233619d42030f3c3ab,2,6f6019a14b83ba9efe11fabe73eb094b,eletrodomesticos,home_appliances,scroll,tablet,80b08a8c27a1040245ac55ed0fa0429a,67125,ananindeua,PA
+560,2025-08-12 13:01:17,ef68683a6c65b91289abbe1a058aa160,4,ee8c064d6aa1ff4a130e616fab03e284,moveis_decoracao,furniture_decor,add_to_cart,tablet,bee9356eb7c026e686722938b679471d,13290,louveira,SP
+642,2025-08-11 23:25:10,21bc5deff554165a2c5c8c7ff3b99b0a,1,03ac940e93916395ea0483161cc84d5c,ferramentas_jardim,garden_tools,page_view,desktop,c2060e627ab1ca27114c573b07449269,75690,caldas novas,GO
+901,2025-08-03 13:18:02,976c466e2a94060328caf22c01f3eae4,2,7dcc6211778e584131cd6067555e8a5c,relogios_presentes,watches_gifts,scroll,tablet,71d3ce43c3776539eda6691c71623e30,35700,sete lagoas,MG
+709,2025-08-02 19:01:43,9a66505bf502bb3d549c86dd61b38b02,2,cdb2ede3e6744ad7011a7305b95442a1,bebidas,drinks,scroll,tablet,8ccb4bbbcf37ed4f584d184a7ceab65d,11680,ubatuba,SP
+878,2025-08-13 00:19:30,30f3b26a06e5a67682305298f83e6be3,2,e316e2909614743a28695b701bca9d39,esporte_lazer,sports_leisure,scroll,desktop,b9fdb2f344509f77f84250a748c6319c,68553,redencao,PA
+560,2025-08-12 07:34:32,1d68bd2a2634f0efc973f13b9ade0384,1,813a30050677eb6996e12eea9ad400bf,beleza_saude,health_beauty,page_view,tablet,458e853410c62ec3c56ddb76250e67a8,74770,goiania,GO
+927,2025-08-08 14:38:26,4f7b2f92ad2feeff85cb8762ba1835dc,1,8988d11aace15e3c9e25763c6d87dcf5,fashion_roupa_masculina,fashion_male_clothing,page_view,mobile,4919dda3f4b213104acc3d25b84c44ed,21235,rio de janeiro,RJ
+746,2025-08-02 09:23:15,e8a80ff08b448d3a676cff98d320096b,5,81efaa22f3868f00c8ef1879cccc3c03,informatica_acessorios,computers_accessories,remove_from_cart,mobile,e91b8b52ead64f53afffa45635f3bdff,22753,rio de janeiro,RJ
+933,2025-08-11 06:37:00,5beaf82912931889e4afdaa9ef9fb356,6,c04b8195870068ff5c495f269a0bc993,livros_tecnicos,books_technical,apply_coupon,mobile,fc513937c2f93e7f7918bda3c5ecb6a2,88310,itajai,SC
+901,2025-08-10 10:51:48,9f44ff9e2950fc39c241aa6d30587200,2,8d62812b76d023d4b1cb939ad2b5bd83,pet_shop,pet_shop,scroll,mobile,3ed4235d521c24fec4f77d4254e070b8,9181,santo andre,SP
+665,2025-08-05 10:17:37,9835d4d85e61f69f5c873810c3ab8e4d,2,451f6a5c5b15c9c5819256be358df9f0,utilidades_domesticas,housewares,scroll,tablet,1147a85c7ee3b736959867e7e1f39d36,8110,sao paulo,SP
+642,2025-07-31 05:18:49,239237f358786f3f58304735a5ce87c0,6,20e7fcf887b571d712eec11b3f74fe4c,informatica_acessorios,computers_accessories,apply_coupon,desktop,ee1e7b4d5b977159eb061732c1a1b1a3,12307,jacarei,SP
+323,2025-08-12 13:06:49,2528d846a0e0970307407331f0852615,1,7bd4adb5f860206e946bf3c575c1a4fe,fashion_bolsas_e_acessorios,fashion_bags_accessories,page_view,desktop,0d2517590a7b583dfbe023f5dcde2769,13157,cosmopolis,SP
+805,2025-08-03 00:14:14,d23c612cd9d2a3ca8b182524cc3ed822,4,2180541a551b218f67e8bd22614688d1,utilidades_domesticas,housewares,add_to_cart,desktop,30e164389cb9c5c8dbe2eaa06cfea833,7040,guarulhos,SP
+506,2025-08-02 19:06:59,d740b790c937025f1b8cf6df468a0160,6,a8aae2d57f0b7d4b495da36a2ea21385,construcao_ferramentas_jardim,costruction_tools_garden,apply_coupon,mobile,b6409a3e4fb1319aa55da4b75155eec0,75370,goianira,GO
+878,2025-08-07 20:11:19,1ae150472f7c6935fdad4216418c0ce4,4,aeb2e29472cc0ee1cd8711e8b7c0bf47,esporte_lazer,sports_leisure,add_to_cart,desktop,b4901038cce8e963e9fd19d511ee9803,20520,rio de janeiro,RJ
+936,2025-08-11 11:31:11,739a5d86abc94710d49a265fd761d456,2,33c98bd750b001296730e4eebb44b579,fashion_bolsas_e_acessorios,fashion_bags_accessories,scroll,tablet,f73eb4f6a7ed19f78c917f86221a796b,2976,sao paulo,SP
+323,2025-08-05 20:05:42,fc81aabd2d2964f3628687e82557a107,3,31dc242ed95b9fdccc80ecbc5cecf132,esporte_lazer,sports_leisure,search_initiated,desktop,91730c99951735fb4b54c4a85eee0dbe,13255,itatiba,SP
+901,2025-07-31 20:36:45,26854bdbd7994fb56d6c8108aa7a95e5,2,fc2edee55f4118969f4dc49f7a717605,automotivo,auto,scroll,mobile,1f1d8d0ec01ab143642c72a223f1d809,75828,chapadao do ceu,GO
+506,2025-08-01 08:28:12,dcdf7a6ad289593d2e9e4174f69d5640,3,a57878a3c4874b342d09d163ae63e596,cool_stuff,cool_stuff,search_initiated,mobile,ecacfb5d93bc00a03f36729e6e927e36,37901,passos,MG
+746,2025-08-08 17:42:58,2528303d2867f41a6a4784c5492e56ff,4,dc2f80dfc6b4e57be59ec9dfe9140849,eletronicos,electronics,add_to_cart,mobile,21915e1eb765a21b294e4e1215483811,17018,bauru,SP
+838,2025-08-11 11:55:54,05ecb5fcafedf08e2eff99a170b9b3c8,4,06f85533c1d65036e055ed561d0b1a2e,automotivo,auto,add_to_cart,mobile,551415a9e398fd0e5fc764c172de3c3b,13202,jundiai,SP
+823,2025-08-07 08:19:17,06e91d7b3e9c206aab9bc9fdfecffb26,5,52e07ce385c39e2c591f040dea409c23,sinalizacao_e_seguranca,signaling_and_security,remove_from_cart,desktop,b28b38d48d8ff217e497c8f95805d7aa,8150,sao paulo,SP
+323,2025-08-05 08:23:14,61a154cc2e509e372ab7a02b8240c1fd,5,3e31fd1419cc4cd6adad1925e72e3a03,cool_stuff,cool_stuff,remove_from_cart,tablet,da41c75a2312d7f400a195235277278f,1411,sao paulo,SP
+927,2025-08-01 00:28:37,cbb02f3bc8481f06cacb94dcde253af5,3,bdeac558883a62ab1a048c8f3a0cdf3c,utilidades_domesticas,housewares,search_initiated,desktop,6794917b679172337e17b6a79927ade4,20511,rio de janeiro,RJ
+898,2025-08-05 13:07:51,f93d90fd1cf12ee957502989080365ee,3,cf9acdb2a4cecac3bd28a9a3e7bbe615,automotivo,auto,search_initiated,desktop,b7af8d5477367ef021ff680a10c4f142,28897,rio das ostras,RJ
+997,2025-08-10 15:40:41,85e9526ec7444cdf5907f1bda7edd899,1,5bf143472b353eb9135f9eb9c2154497,telefonia,telephony,page_view,mobile,2f800f604ce609f0293a9d84e7fc12ed,90230,porto alegre,RS
+707,2025-08-08 17:14:25,3ab0c6e6d82fe8be49235a826d38f9ca,1,4308439e0d80d5fe03f17ba83b57c493,beleza_saude,health_beauty,page_view,mobile,1a5c71d38387ef391b3e820217a94134,78300,tangara da serra,MT
+323,2025-08-09 03:29:04,40406e269d91bc3c23b752413b2d7311,3,d457916b4fdc60154ed93b5dd3e6fd69,construcao_ferramentas_construcao,construction_tools_construction,search_initiated,mobile,b67ab708aff249d8fe2faafed1df5461,4674,sao paulo,SP
+707,2025-08-05 08:47:10,984e03c38bf2c163791fa3d61a002a01,3,39581a590c262629c9854596173834bd,informatica_acessorios,computers_accessories,search_initiated,tablet,0edf2c99c99dcf1d147d7d21948808e4,12916,braganca paulista,SP
+707,2025-08-07 15:50:15,9aa94371a681279abc010cc5ed7ed4ea,1,0c66624528bd676dbe410f6f07ec32b0,papelaria,stationery,page_view,mobile,32298281712f20b7489df2967a6fed6d,9607,sao bernardo do campo,SP
