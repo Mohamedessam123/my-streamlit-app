@@ -3,6 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+st.set_page_config(layout="wide")
+
+
+
 def load_data():
     df = pd.read_csv("customers_sessions.csv")
     df["session_start"] = pd.to_datetime(df["session_start"])
@@ -69,10 +73,10 @@ else:
     total_sessions, total_products, top_city, total_events = 0, 0, "N/A", 0
 
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("🖥️ Total Sessions", f"{total_sessions:,}")
-col2.metric("📦 Unique Products", f"{total_products:,}")
-col3.metric("🌆 Top City", f"{top_city}")
-col4.metric("📈 Total Events", f"{total_events:,}")
+col1.metric("🖥️ Total Sessions", f"{total_sessions:,}",border=True)
+col2.metric("📦 Unique Products", f"{total_products:,}",border=True)
+col3.metric("🌆 Top City", f"{top_city}",border=True)
+col4.metric("📈 Total Events", f"{total_events:,}",border=True)
 
 st.markdown("---")
 
@@ -102,8 +106,7 @@ with row1_col2:
     else:
         st.warning("No data available for the selected filters.")
 
-st.markdown("<br>", unsafe_allow_html=True)
-
+st.markdown("<br><br>", unsafe_allow_html=True)
 # ===============================
 # Row 2 → Sessions Over Time + Top Categories
 # ===============================
